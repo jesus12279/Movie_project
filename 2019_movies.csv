@@ -1,0 +1,909 @@
+,Name,Distributor,Opening,Budget,Release Date,Running Time,Genres,Widest Release
+0,Avengers: Endgame,Walt Disney Studios Motion Pictures,"$357,115,0074,662","$356,000,000","['Apr 26, 2019', 'Sep 12, 2019']",3 hr 1 min,"['Action', 'Adventure', 'Drama', 'Sci-Fi']","4,662 theaters"
+1,The Lion King,Walt Disney Studios Motion Pictures,"$191,770,7594,725","$260,000,000","['Jul 19, 2019', 'Dec 5, 2019']",1 hr 58 min,"['Adventure', 'Animation', 'Drama', 'Family', 'Musical']","4,802 theaters"
+2,Toy Story 4,Walt Disney Studios Motion Pictures,"$120,908,0654,575",,"['Jun 21, 2019', 'Dec 5, 2019']",1 hr 40 min,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']","4,575 theaters"
+3,Frozen II,Walt Disney Studios Motion Pictures,"$130,263,3584,440",,"['Nov 22, 2019']",1 hr 43 min,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Musical']","4,440 theaters"
+4,Captain Marvel,Walt Disney Studios Motion Pictures,"$153,433,4234,310",,"['Mar 8, 2019', 'Jul 4, 2019']",2 hr 3 min,"['Action', 'Adventure', 'Sci-Fi']","4,310 theaters"
+5,Star Wars: Episode IX - The Rise of Skywalker,Walt Disney Studios Motion Pictures,"$177,383,8644,406",,"['Dec 20, 2019']",2 hr 22 min,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']","4,406 theaters"
+6,Spider-Man: Far from Home,Sony Pictures Releasing,"$92,579,2124,634","$160,000,000","['Jul 2, 2019', 'Oct 24, 2019']",2 hr 9 min,"['Action', 'Adventure', 'Sci-Fi']","4,634 theaters"
+7,Aladdin,Walt Disney Studios Motion Pictures,"$91,500,9294,476","$183,000,000","['May 24, 2019', 'Oct 24, 2019']",2 hr 8 min,"['Adventure', 'Family', 'Fantasy', 'Musical', 'Romance']","4,476 theaters"
+8,Joker,Warner Bros.,"$96,202,3374,374","$55,000,000","['Oct 4, 2019']",2 hr 2 min,"['Crime', 'Drama', 'Thriller']","4,374 theaters"
+9,It Chapter Two,Warner Bros.,"$91,062,1524,570",,"['Sep 6, 2019', 'Dec 5, 2019']",2 hr 49 min,"['Drama', 'Fantasy', 'Horror']","4,570 theaters"
+10,Jumanji: The Next Level,Sony Pictures Releasing,"$59,251,5434,227","$125,000,000","['Dec 13, 2019']",2 hr 3 min,"['Action', 'Adventure', 'Comedy', 'Fantasy']","4,227 theaters"
+11,Us,Universal Pictures,"$71,117,6253,741","$20,000,000","['Mar 22, 2019', 'Jun 6, 2019']",1 hr 56 min,"['Horror', 'Mystery', 'Thriller']","3,743 theaters"
+12,Fast & Furious Presents: Hobbs & Shaw,Universal Pictures,"$60,038,9504,253","$200,000,000","['Aug 2, 2019', 'Nov 1, 2019']",2 hr 17 min,"['Action', 'Adventure']","4,344 theaters"
+13,John Wick: Chapter 3 - Parabellum,Lionsgate,"$56,818,0673,850",,"['May 17, 2019', 'Sep 12, 2019']",2 hr 11 min,"['Action', 'Crime', 'Thriller']","3,850 theaters"
+14,How to Train Your Dragon: The Hidden World,Universal Pictures,"$55,022,2454,259","$129,000,000","['Feb 22, 2019', 'Jun 13, 2019']",1 hr 44 min,"['Action', 'Adventure', 'Animation', 'Family', 'Fantasy']","4,286 theaters"
+15,The Secret Life of Pets 2,Universal Pictures,"$46,652,6804,561","$80,000,000","['Jun 7, 2019', 'Sep 19, 2019']",1 hr 26 min,"['Adventure', 'Animation', 'Comedy', 'Family']","4,564 theaters"
+16,Pokémon Detective Pikachu,Warner Bros.,"$54,365,2424,202","$150,000,000","['May 10, 2019', 'Aug 15, 2019']",1 hr 44 min,"['Action', 'Adventure', 'Comedy', 'Family', 'Mystery', 'Sci-Fi']","4,248 theaters"
+17,Once Upon a Time... in Hollywood,Sony Pictures Releasing,"$41,082,0183,659","$90,000,000","['Jul 26, 2019', 'Feb 20, 2020']",2 hr 41 min,"['Comedy', 'Drama']","3,659 theaters"
+18,Shazam!,Warner Bros.,"$53,505,3264,217","$100,000,000","['Apr 5, 2019', 'Jul 25, 2019']",2 hr 12 min,"['Action', 'Adventure', 'Comedy', 'Fantasy']","4,306 theaters"
+19,Aquaman,Warner Bros.,"$67,873,5224,125",,"['Dec 21, 2018', 'Apr 4, 2019']",2 hr 23 min,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']","4,184 theaters"
+20,Knives Out,Lionsgate,"$26,769,5483,461","$40,000,000","['Nov 27, 2019']",2 hr 11 min,"['Comedy', 'Crime', 'Drama', 'Mystery', 'Thriller']","3,461 theaters"
+21,Dumbo,Walt Disney Studios Motion Pictures,"$45,990,7484,259","$170,000,000","['Mar 29, 2019', 'Aug 8, 2019']",1 hr 52 min,"['Adventure', 'Family', 'Fantasy']","4,259 theaters"
+22,Maleficent: Mistress of Evil,Walt Disney Studios Motion Pictures,"$36,948,7133,790",,"['Oct 18, 2019', 'Feb 13, 2020']",1 hr 59 min,"['Adventure', 'Family', 'Fantasy']","3,820 theaters"
+23,Glass,Universal Pictures,"$40,328,9203,841","$20,000,000","['Jan 18, 2019', 'Apr 4, 2019']",2 hr 9 min,"['Drama', 'Sci-Fi', 'Thriller']","3,844 theaters"
+24,Godzilla: King of the Monsters,Warner Bros.,"$47,776,2934,108","$170,000,000","['May 31, 2019', 'Aug 29, 2019']",2 hr 12 min,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']","4,108 theaters"
+25,The Upside,STX Entertainment,"$20,355,0003,080","$37,500,000","['Jan 11, 2019', 'May 2, 2019']",2 hr 6 min,"['Comedy', 'Drama']","3,568 theaters"
+26,Ford v Ferrari,Twentieth Century Fox,"$31,474,9583,528","$97,600,000","['Nov 15, 2019']",2 hr 32 min,"['Action', 'Biography', 'Drama', 'Sport']","3,746 theaters"
+27,The Lego Movie 2: The Second Part,Warner Bros.,"$34,115,3354,303",,"['Feb 8, 2019', 'May 9, 2019']",1 hr 47 min,"['Action', 'Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Musical']","4,303 theaters"
+28,Hustlers,STX Entertainment,"$33,181,3613,250","$20,000,000","['Sep 13, 2019', 'Jan 9, 2020']",1 hr 50 min,"['Comedy', 'Crime', 'Drama', 'Thriller']","3,525 theaters"
+29,The Addams Family,United Artists Releasing,"$30,300,0074,007",,"['Oct 11, 2019']",1 hr 26 min,"['Animation', 'Comedy', 'Family', 'Fantasy', 'Horror']","4,107 theaters"
+30,Downton Abbey,Focus Features,"$31,033,6653,079",,"['Sep 20, 2019']",2 hr 2 min,"['Drama', 'Romance']","3,548 theaters"
+31,Rocketman,Paramount Pictures,"$25,725,7223,610","$40,000,000","['May 31, 2019', 'Sep 5, 2019']",2 hr 1 min,"['Biography', 'Drama', 'Music', 'Musical']","3,610 theaters"
+32,Alita: Battle Angel,Twentieth Century Fox,"$28,525,6133,790","$170,000,000","['Feb 14, 2019', 'May 9, 2019']",2 hr 2 min,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']","3,802 theaters"
+33,Good Boys,Universal Pictures,"$21,402,6053,204","$20,000,000","['Aug 16, 2019', 'Nov 1, 2019']",1 hr 30 min,"['Adventure', 'Comedy']","3,458 theaters"
+34,Spider-Man: Into the Spider-Verse,Sony Pictures Releasing,"$35,363,3763,813",,"['Dec 14, 2018', 'Apr 4, 2019']",1 hr 57 min,"['Action', 'Adventure', 'Animation', 'Family', 'Sci-Fi']","3,813 theaters"
+35,Men in Black: International,Sony Pictures Releasing,"$30,035,8384,224","$110,000,000","['Jun 14, 2019', 'Oct 6, 2019']",1 hr 54 min,"['Action', 'Adventure', 'Comedy', 'Sci-Fi']","4,224 theaters"
+36,Annabelle Comes Home,Warner Bros.,"$20,269,7233,613",,"['Jun 26, 2019', 'Oct 3, 2019']",1 hr 46 min,"['Horror', 'Mystery', 'Thriller']","3,613 theaters"
+37,Yesterday,Universal Pictures,"$17,010,0502,603","$26,000,000","['Jun 28, 2019', 'Sep 5, 2019']",1 hr 56 min,"['Comedy', 'Fantasy', 'Music', 'Musical', 'Romance']","2,755 theaters"
+38,A Madea Family Funeral,Lionsgate,"$27,062,3322,442",,"['Mar 1, 2019', 'May 16, 2019']",1 hr 49 min,['Comedy'],"2,442 theaters"
+39,Zombieland: Double Tap,Sony Pictures Releasing,"$26,803,1043,468","$42,000,000","['Oct 18, 2019', 'Jan 23, 2020']",1 hr 39 min,"['Action', 'Comedy', 'Horror']","3,468 theaters"
+40,Angel Has Fallen,Lionsgate,"$21,380,9873,286","$40,000,000","['Aug 23, 2019', 'Oct 31, 2019']",2 hr 1 min,"['Action', 'Thriller']","3,336 theaters"
+41,Scary Stories to Tell in the Dark,Lionsgate,"$20,915,3463,135","$25,000,000","['Aug 9, 2019']",1 hr 48 min,"['Adventure', 'Horror', 'Mystery', 'Thriller']","3,135 theaters"
+42,Mary Poppins Returns,Walt Disney Studios Motion Pictures,"$23,523,1214,090","$130,000,000","['Dec 19, 2018', 'Apr 11, 2019']",2 hr 10 min,"['Comedy', 'Family', 'Fantasy', 'Musical']","4,090 theaters"
+43,X-Men: Dark Phoenix,Twentieth Century Fox,"$32,828,3483,721",,"['Jun 7, 2019', 'Aug 15, 2019']",1 hr 53 min,"['Action', 'Adventure', 'Sci-Fi']","3,721 theaters"
+44,Terminator: Dark Fate,Paramount Pictures,"$29,033,8324,086","$185,000,000","['Nov 1, 2019', 'Dec 26, 2019']",2 hr 8 min,"['Action', 'Adventure', 'Sci-Fi']","4,086 theaters"
+45,Abominable,Universal Pictures,"$20,612,1004,242","$75,000,000","['Sep 27, 2019', 'Jan 2, 2020']",1 hr 37 min,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']","4,248 theaters"
+46,Dora and the Lost City of Gold,Paramount Pictures,"$17,431,5883,735","$49,000,000","['Aug 9, 2019']",1 hr 42 min,"['Adventure', 'Family']","3,735 theaters"
+47,Escape Room,Sony Pictures Releasing,"$18,238,1722,717","$9,000,000","['Jan 4, 2019', 'Apr 25, 2019']",1 hr 39 min,"['Action', 'Adventure', 'Horror', 'Mystery', 'Thriller']","2,717 theaters"
+48,A Beautiful Day in the Neighborhood,Sony Pictures Releasing,"$13,251,2383,235","$25,000,000","['Nov 22, 2019']",1 hr 49 min,"['Biography', 'Drama']","3,491 theaters"
+49,Midway,Lionsgate,"$17,897,4193,242","$100,000,000","['Nov 8, 2019', 'Jan 23, 2020']",2 hr 18 min,"['Action', 'Drama', 'History', 'War']","3,242 theaters"
+50,Bumblebee,Paramount Pictures,"$21,654,0473,550","$135,000,000","['Dec 21, 2018', 'Mar 7, 2019']",1 hr 54 min,"['Action', 'Adventure', 'Sci-Fi']","3,597 theaters"
+51,The Curse of la Llorona,Warner Bros.,"$26,347,6313,372","$9,000,000","['Apr 19, 2019', 'Jul 4, 2019']",1 hr 33 min,"['Horror', 'Mystery', 'Thriller']","3,372 theaters"
+52,Pet Sematary,Paramount Pictures,"$24,502,7753,585","$21,000,000","['Apr 5, 2019', 'May 30, 2019']",1 hr 41 min,"['Horror', 'Mystery', 'Thriller']","3,585 theaters"
+53,What Men Want,Paramount Pictures,"$18,232,0872,912","$20,000,000","['Feb 8, 2019', 'Apr 11, 2019']",1 hr 57 min,"['Comedy', 'Fantasy', 'Romance']","2,912 theaters"
+54,Green Book,Universal Pictures,"$320,42925","$23,000,000",,2 hr 10 min,"['Biography', 'Comedy', 'Drama', 'Music']","2,648 theaters"
+55,Ad Astra,Twentieth Century Fox,"$19,001,3983,460",,"['Sep 20, 2019', 'Dec 12, 2019']",2 hr 3 min,"['Adventure', 'Drama', 'Mystery', 'Sci-Fi', 'Thriller']","3,460 theaters"
+56,Isn't It Romantic,Warner Bros.,"$14,247,7583,444",,"['Feb 13, 2019', 'May 9, 2019']",1 hr 29 min,"['Comedy', 'Fantasy', 'Romance']","3,444 theaters"
+57,Gemini Man,Paramount Pictures,"$20,552,3723,642","$138,000,000","['Oct 11, 2019']",1 hr 57 min,"['Action', 'Drama', 'Sci-Fi', 'Thriller']","3,642 theaters"
+58,Ma,Universal Pictures,"$18,099,8052,808","$5,000,000","['May 31, 2019', 'Jul 18, 2019']",1 hr 39 min,"['Horror', 'Mystery', 'Thriller']","2,816 theaters"
+59,Five Feet Apart,Lionsgate,"$13,190,2862,803",,"['Mar 15, 2019', 'May 30, 2019']",1 hr 56 min,"['Drama', 'Romance']","2,866 theaters"
+60,Wonder Park,Paramount Pictures,"$15,853,6463,838",,"['Mar 15, 2019', 'May 9, 2019']",1 hr 25 min,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']","3,838 theaters"
+61,Rambo: Last Blood,Lionsgate,"$18,872,9193,618","$50,000,000","['Sep 20, 2019', 'Nov 21, 2019']",1 hr 29 min,"['Action', 'Adventure', 'Thriller']","3,618 theaters"
+62,Playing with Fire,Paramount Pictures,"$12,723,7813,125","$29,900,000","['Nov 8, 2019']",1 hr 36 min,"['Comedy', 'Family']","3,185 theaters"
+63,Harriet,Focus Features,"$11,676,7202,059","$17,000,000","['Nov 1, 2019', 'Jan 23, 2020']",2 hr 5 min,"['Action', 'Biography', 'Drama', 'History']","2,186 theaters"
+64,A Dog's Way Home,Sony Pictures Releasing,"$11,251,2633,090","$18,000,000","['Jan 11, 2019', 'Mar 28, 2019']",1 hr 36 min,"['Adventure', 'Drama', 'Family']","3,090 theaters"
+65,The Angry Birds Movie 2,Sony Pictures Releasing,"$10,354,0733,869","$65,000,000","['Aug 13, 2019', 'Nov 14, 2019']",1 hr 37 min,"['Adventure', 'Animation', 'Comedy', 'Family']","3,869 theaters"
+66,Little,Universal Pictures,"$15,405,4552,667","$20,000,000","['Apr 12, 2019', 'Jun 6, 2019']",1 hr 49 min,"['Comedy', 'Fantasy', 'Romance']","2,667 theaters"
+67,Queen & Slim,Universal Pictures,"$11,890,4901,690",,"['Nov 27, 2019', 'Jan 30, 2020']",2 hr 12 min,"['Crime', 'Drama', 'Romance']","1,715 theaters"
+68,Breakthrough,Twentieth Century Fox,"$11,282,3332,824","$14,000,000","['Apr 17, 2019', 'Jul 4, 2019']",1 hr 56 min,"['Biography', 'Drama']","2,913 theaters"
+69,The Mule,Warner Bros.,"$17,509,4312,588","$50,000,000","['Dec 14, 2018', 'Mar 14, 2019']",1 hr 56 min,"['Crime', 'Drama', 'Thriller']","3,329 theaters"
+70,Crawl,Paramount Pictures,"$12,005,2103,170","$13,500,000","['Jul 12, 2019', 'Sep 5, 2019']",1 hr 27 min,"['Drama', 'Horror', 'Thriller']","3,170 theaters"
+71,Little Women,Sony Pictures Releasing,"$16,755,3103,308","$40,000,000","['Dec 25, 2019']",2 hr 15 min,"['Drama', 'Romance']","3,308 theaters"
+72,The Intruder,Screen Gems,"$10,855,0542,222","$8,000,000","['May 3, 2019', 'Jun 27, 2019']",1 hr 42 min,"['Drama', 'Horror', 'Mystery', 'Thriller']","2,231 theaters"
+73,The Hustle,United Artists Releasing,"$13,007,7093,007",,"['May 10, 2019', 'Jul 11, 2019']",1 hr 33 min,"['Comedy', 'Crime']","3,077 theaters"
+74,Last Christmas,Universal Pictures,"$11,441,0553,448","$25,000,000","['Nov 8, 2019', 'Jan 2, 2020']",1 hr 43 min,"['Comedy', 'Drama', 'Romance']","3,454 theaters"
+75,Overcomer,Affirm Films,"$8,146,5331,723","$5,000,000","['Aug 23, 2019', 'Dec 5, 2019']",1 hr 59 min,"['Drama', 'Sport']","2,293 theaters"
+76,Cold Pursuit,Lionsgate,"$11,030,2332,630",,"['Feb 8, 2019', 'Apr 18, 2019']",1 hr 59 min,"['Action', 'Crime', 'Drama', 'Thriller']","2,630 theaters"
+77,Doctor Sleep,Warner Bros.,"$14,114,1243,855",,"['Nov 8, 2019', 'Jan 9, 2020']",2 hr 32 min,"['Drama', 'Fantasy', 'Horror', 'Thriller']","3,855 theaters"
+78,Dragon Ball Super: Broly,FUNimation Entertainment,"$9,816,1971,238",,"['Jan 16, 2019', 'Feb 20, 2019']",1 hr 40 min,"['Action', 'Adventure', 'Animation', 'Family', 'Fantasy', 'Sci-Fi']","1,267 theaters"
+79,Long Shot,Lionsgate,"$9,740,0643,230",,"['May 3, 2019', 'Jun 20, 2019']",2 hr 5 min,"['Comedy', 'Romance']","3,230 theaters"
+80,Spies in Disguise,Twentieth Century Fox,"$13,354,7983,502",,"['Dec 25, 2019']",1 hr 42 min,"['Action', 'Adventure', 'Animation', 'Comedy', 'Family', 'Sci-Fi']","3,502 theaters"
+81,Child's Play,United Artists Releasing,"$14,094,5943,007","$10,000,000","['Jun 21, 2019', 'Aug 8, 2019']",1 hr 30 min,"['Horror', 'Sci-Fi']","3,007 theaters"
+82,Ready or Not,Fox Searchlight Pictures,"$8,015,5902,855","$6,000,000","['Aug 21, 2019', 'Oct 24, 2019']",1 hr 35 min,"['Comedy', 'Horror', 'Mystery', 'Thriller']","2,998 theaters"
+83,Happy Death Day 2U,Universal Pictures,"$9,497,6653,207","$9,000,000","['Feb 13, 2019', 'Apr 4, 2019']",1 hr 40 min,"['Comedy', 'Horror', 'Mystery', 'Sci-Fi', 'Thriller']","3,212 theaters"
+84,Vice,Annapurna Pictures,"$7,768,3712,442",,"['Dec 25, 2018', 'Apr 11, 2019']",2 hr 12 min,"['Biography', 'Comedy', 'Drama']","2,534 theaters"
+85,21 Bridges,STX Entertainment,"$9,261,2682,665","$33,000,000","['Nov 22, 2019', 'Jan 23, 2020']",1 hr 39 min,"['Action', 'Crime', 'Drama', 'Thriller']","2,665 theaters"
+86,Midsommar,A24,"$6,560,0302,707",,"['Jul 3, 2019']",2 hr 28 min,"['Drama', 'Horror', 'Mystery', 'Thriller']","2,707 theaters"
+87,Bohemian Rhapsody,Twentieth Century Fox,"$51,061,1194,000","$52,000,000","['Nov 2, 2018', 'Apr 25, 2019']",2 hr 14 min,"['Biography', 'Drama', 'Music']","4,000 theaters"
+88,The Art of Racing in the Rain,Twentieth Century Fox,"$8,137,5842,765",,"['Aug 9, 2019', 'Oct 24, 2019']",1 hr 49 min,"['Comedy', 'Drama', 'Romance', 'Sport']","2,765 theaters"
+89,Countdown,STX Entertainment,"$8,865,0822,675","$6,500,000","['Oct 25, 2019', 'Jan 9, 2020']",1 hr 30 min,"['Horror', 'Thriller']","2,675 theaters"
+90,Uncut Gems,A24,"$537,2425",,,2 hr 15 min,"['Crime', 'Drama', 'Thriller']","2,686 theaters"
+91,Judy,Roadside Attractions,"$2,916,548461",,,1 hr 58 min,"['Biography', 'Drama', 'Romance']","1,627 theaters"
+92,Ralph Breaks the Internet,Walt Disney Studios Motion Pictures,"$56,237,6344,017","$175,000,000","['Nov 21, 2018', 'Apr 11, 2019']",1 hr 52 min,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']","4,017 theaters"
+93,Fighting with My Family,Metro-Goldwyn-Mayer (MGM),"$138,7804",,,1 hr 48 min,"['Biography', 'Comedy', 'Drama', 'Sport']","2,855 theaters"
+94,On the Basis of Sex,Focus Features,"$686,35533",,,2 hr,"['Biography', 'Drama']","1,957 theaters"
+95,A Dog's Journey,Universal Pictures,"$8,030,0853,267",,"['May 17, 2019', 'Jul 18, 2019']",1 hr 49 min,"['Comedy', 'Drama', 'Family', 'Fantasy']","3,279 theaters"
+96,Booksmart,United Artists Releasing,"$6,933,6202,505",,"['May 24, 2019', 'Aug 8, 2019']",1 hr 42 min,['Comedy'],"2,518 theaters"
+97,Parasite,Neon,"$393,2163",,,2 hr 12 min,"['Comedy', 'Drama', 'Thriller']","2,001 theaters"
+98,Stuber,Twentieth Century Fox,"$8,225,3843,050",,"['Jul 12, 2019', 'Aug 29, 2019']",1 hr 33 min,"['Action', 'Comedy', 'Crime', 'Thriller']","3,050 theaters"
+99,47 Meters Down: Uncaged,Entertainment Studios Motion Pictures,"$8,427,2652,853","$12,000,000","['Aug 16, 2019']",1 hr 30 min,"['Adventure', 'Drama', 'Horror', 'Thriller']","2,883 theaters"
+100,Black and Blue,Screen Gems,"$8,376,8462,062","$12,000,000","['Oct 25, 2019', 'Jan 2, 2020']",1 hr 48 min,"['Action', 'Crime', 'Drama', 'Thriller']","2,062 theaters"
+101,Hellboy,Lionsgate,"$12,045,1473,303","$50,000,000","['Apr 12, 2019', 'May 16, 2019']",2 hr,"['Action', 'Adventure', 'Fantasy', 'Horror', 'Sci-Fi']","3,303 theaters"
+102,Shaft,Warner Bros.,"$8,901,4192,952",,"['Jun 14, 2019', 'Aug 15, 2019']",1 hr 51 min,"['Action', 'Comedy', 'Crime']","2,952 theaters"
+103,Jojo Rabbit,Fox Searchlight Pictures,"$349,5555",,,1 hr 48 min,"['Comedy', 'Drama', 'War']","1,173 theaters"
+104,The Peanut Butter Falcon,Roadside Attractions,"$204,79317",,,1 hr 37 min,"['Adventure', 'Comedy', 'Drama', 'Sport']","1,490 theaters"
+105,UglyDolls,STX Entertainment,"$8,603,4073,652",,"['May 3, 2019', 'Jul 4, 2019']",1 hr 27 min,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Musical']","3,652 theaters"
+106,Cats,Universal Pictures,"$6,619,8703,380","$95,000,000","['Dec 20, 2019', 'Feb 13, 2020']",1 hr 50 min,"['Comedy', 'Drama', 'Family', 'Fantasy', 'Musical']","3,380 theaters"
+107,Unplanned,Pure Flix Entertainment,"$6,382,2981,059","$6,000,000","['Mar 29, 2019']",1 hr 49 min,"['Biography', 'Drama']","1,516 theaters"
+108,The Favourite,Fox Searchlight Pictures,"$422,4104",,,1 hr 59 min,"['Biography', 'Comedy', 'Drama', 'History']","1,554 theaters"
+109,Bombshell,Lionsgate,"$319,1574",,,1 hr 49 min,"['Biography', 'Drama']","1,721 theaters"
+110,Richard Jewell,Warner Bros.,"$4,705,2652,502",,"['Dec 13, 2019', 'Feb 6, 2020']",2 hr 11 min,"['Biography', 'Crime', 'Drama']","2,502 theaters"
+111,Charlie's Angels,Sony Pictures Releasing,"$8,351,1093,452","$48,000,000","['Nov 15, 2019']",1 hr 58 min,"['Action', 'Adventure', 'Comedy']","3,452 theaters"
+112,The Farewell,A24,"$355,6624",,,1 hr 40 min,"['Comedy', 'Drama']",891 theaters
+113,Brightburn,Screen Gems,"$7,845,6582,607","$6,000,000","['May 24, 2019', 'Jun 27, 2019']",1 hr 30 min,"['Drama', 'Horror', 'Mystery', 'Sci-Fi']","2,607 theaters"
+114,The Good Liar,Warner Bros.,"$5,605,0512,439","$10,000,000","['Nov 15, 2019', 'Jan 16, 2020']",1 hr 49 min,"['Crime', 'Drama', 'Mystery', 'Thriller']","2,454 theaters"
+115,The Kid Who Would Be King,Twentieth Century Fox,"$7,173,8873,521",,"['Jan 25, 2019', 'Apr 4, 2019']",2 hr,"['Action', 'Adventure', 'Family', 'Fantasy']","3,528 theaters"
+116,Missing Link,United Artists Releasing,"$5,944,9503,413",,"['Apr 12, 2019', 'Jul 11, 2019']",1 hr 33 min,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']","3,437 theaters"
+117,Second Act,STX Entertainment,"$6,489,9832,607","$16,000,000","['Dec 21, 2018', 'Feb 21, 2019']",1 hr 43 min,"['Comedy', 'Drama', 'Romance']","2,607 theaters"
+118,Late Night,Amazon Studios,"$246,3054",,,1 hr 42 min,"['Comedy', 'Drama']","2,220 theaters"
+119,Miss Bala,Sony Pictures Releasing,"$6,864,7442,203","$15,000,000","['Feb 1, 2019', 'Mar 21, 2019']",1 hr 44 min,"['Action', 'Crime', 'Drama', 'Thriller']","2,203 theaters"
+120,The Prodigy,Orion Pictures,"$5,853,0612,530","$6,000,000","['Feb 8, 2019', 'Apr 11, 2019']",1 hr 32 min,"['Horror', 'Thriller']","2,530 theaters"
+121,A Star Is Born,Warner Bros.,"$42,908,0513,686","$36,000,000","['Oct 5, 2018', 'Apr 4, 2019']",2 hr 16 min,"['Drama', 'Music', 'Romance']","3,904 theaters"
+122,Poms,STX Entertainment,"$5,361,9372,750",,"['May 10, 2019', 'Jun 20, 2019']",1 hr 30 min,"['Comedy', 'Drama', 'Sport']","2,750 theaters"
+123,If Beale Street Could Talk,Annapurna Pictures,"$224,4764",,,1 hr 59 min,"['Drama', 'Romance']","1,018 theaters"
+124,They Shall Not Grow Old,Warner Bros.,,,"['Dec 17, 2018', 'May 9, 2019']",1 hr 39 min,"['Documentary', 'History', 'War']","1,335 theaters"
+125,The Kitchen,Warner Bros.,"$5,527,4102,745","$38,000,000","['Aug 9, 2019', 'Oct 3, 2019']",1 hr 42 min,"['Action', 'Crime', 'Drama']","2,745 theaters"
+126,After,Aviron Pictures,"$6,002,3492,138","$14,000,000","['Apr 12, 2019', 'Jun 6, 2019']",1 hr 45 min,"['Drama', 'Romance']","2,138 theaters"
+127,Blinded by the Light,Warner Bros.,"$4,333,3052,307",,"['Aug 16, 2019', 'Oct 10, 2019']",1 hr 58 min,"['Comedy', 'Drama', 'Music']","2,307 theaters"
+128,The Lighthouse,A24,"$427,7978",,,1 hr 49 min,"['Drama', 'Fantasy', 'Horror', 'Mystery']",978 theaters
+129,Dark Waters,Focus Features,"$102,6064",,,2 hr 6 min,"['Biography', 'Drama', 'History', 'Thriller']","2,112 theaters"
+130,Greta,Focus Features,"$4,481,9102,411",,"['Mar 1, 2019', 'Apr 4, 2019']",1 hr 38 min,"['Drama', 'Mystery', 'Thriller']","2,417 theaters"
+131,The Best of Enemies,STX Entertainment,"$4,446,1901,705","$10,000,000","['Apr 5, 2019', 'May 16, 2019']",2 hr 13 min,"['Biography', 'Drama', 'History']","1,705 theaters"
+132,Black Christmas,Universal Pictures,"$4,240,2452,625","$5,000,000","['Dec 13, 2019']",1 hr 32 min,"['Horror', 'Mystery', 'Thriller']","2,625 theaters"
+133,Hotel Mumbai,Bleecker Street Media,"$88,0654",,,2 hr 3 min,"['Action', 'Drama', 'History', 'Thriller']",930 theaters
+134,Holmes & Watson,Sony Pictures Releasing,"$7,411,5222,776","$42,000,000","['Dec 25, 2018', 'Feb 21, 2019']",1 hr 30 min,"['Comedy', 'Crime', 'Mystery']","2,780 theaters"
+135,Motherless Brooklyn,Warner Bros.,"$3,500,4541,342","$26,000,000","['Nov 1, 2019', 'Dec 19, 2019']",2 hr 24 min,"['Crime', 'Drama', 'Mystery']","1,342 theaters"
+136,No Manches Frida 2,Pantelion Films,"$3,831,401472",,"['Mar 15, 2019', 'May 2, 2019']",1 hr 42 min,['Comedy'],472 theaters
+137,"Where'd You Go, Bernadette",United Artists Releasing,"$3,462,3082,404",,"['Aug 16, 2019', 'Oct 10, 2019']",1 hr 49 min,"['Comedy', 'Drama', 'Mystery']","2,404 theaters"
+138,Apollo 11,Neon,"$1,607,040120",,"['Mar 1, 2019', 'Jul 21, 2019']",1 hr 33 min,"['Documentary', 'History']",588 theaters
+139,Serenity,Aviron Pictures,"$4,415,4032,561",,"['Jan 25, 2019', 'Mar 7, 2019']",1 hr 46 min,"['Drama', 'Mystery', 'Thriller']","2,561 theaters"
+140,Anna,Lionsgate,"$3,600,6472,114",,"['Jun 21, 2019', 'Aug 8, 2019']",1 hr 59 min,"['Action', 'Thriller']","2,114 theaters"
+141,Penguins,Walt Disney Studios Motion Pictures,"$2,282,5931,815",,"['Apr 17, 2019', 'Jun 13, 2019']",1 hr 16 min,"['Documentary', 'Family']","1,815 theaters"
+142,Brittany Runs a Marathon,Amazon Studios,"$180,7115",,,1 hr 44 min,"['Comedy', 'Drama']","1,033 theaters"
+143,Mary Queen of Scots,Focus Features,"$194,7774",,,2 hr 4 min,"['Biography', 'Drama', 'History']","1,052 theaters"
+144,The Dead Don't Die,Focus Features,"$2,540,240613",,"['Jun 14, 2019', 'Jul 18, 2019']",1 hr 44 min,"['Comedy', 'Fantasy', 'Horror']",690 theaters
+145,Jexi,Lionsgate,"$3,106,7302,332",,"['Oct 11, 2019', 'Nov 8, 2019']",1 hr 24 min,['Comedy'],"2,332 theaters"
+146,Run the Race,Roadside Attractions,"$2,161,480853",,"['Feb 22, 2019', 'May 2, 2019']",1 hr 41 min,"['Drama', 'Sport']","1,075 theaters"
+147,Free Solo,National Geographic Entertainment,"$294,2884",,"['Sep 28, 2018', 'May 2, 2019']",1 hr 40 min,"['Adventure', 'Documentary', 'Sport']",483 theaters
+148,The Current War: Director's Cut,101 Studios,"$2,633,7171,022",,"['Oct 25, 2019']",1 hr 48 min,"['Biography', 'Drama', 'History']","1,082 theaters"
+149,Captive State,Focus Features,"$3,131,5252,548",,"['Mar 15, 2019', 'Apr 4, 2019']",1 hr 49 min,"['Drama', 'Horror', 'Sci-Fi', 'Thriller']","2,549 theaters"
+150,The Wandering Earth,CMC Pictures,"$1,685,28764",,"['Feb 5, 2019', 'Apr 4, 2019']",2 hr 5 min,"['Action', 'Drama', 'Sci-Fi']",129 theaters
+151,Arctic Dogs,Entertainment Studios Motion Pictures,"$2,901,3352,844",,"['Nov 1, 2019']",1 hr 32 min,"['Adventure', 'Animation', 'Comedy', 'Family']","2,844 theaters"
+152,Gloria Bell,A24,"$145,2185",,,1 hr 42 min,"['Comedy', 'Drama', 'Romance']","1,127 theaters"
+153,Gully Boy,Viva Pictures Distribution,"$2,045,068258",,"['Feb 14, 2019', 'Apr 4, 2019']",2 hr 33 min,"['Drama', 'Music']",270 theaters
+154,Stan & Ollie,Sony Pictures Classics,"$78,1045",,,1 hr 38 min,"['Biography', 'Comedy', 'Drama', 'History']",754 theaters
+155,The Goldfinch,Warner Bros.,"$2,679,0272,542","$45,000,000","['Sep 13, 2019', 'Oct 24, 2019']",2 hr 29 min,['Drama'],"2,542 theaters"
+156,Don't Let Go,OTL Releasing,"$2,338,669922","$5,000,000","['Aug 30, 2019']",1 hr 43 min,"['Drama', 'Horror', 'Mystery', 'Thriller']",922 theaters
+157,The Mustang,Focus Features,"$71,6574",,"['Mar 15, 2019', 'May 16, 2019']",1 hr 36 min,['Drama'],527 theaters
+158,The Sun Is Also a Star,Warner Bros.,"$2,511,5302,073",,"['May 17, 2019', 'Jun 6, 2019']",1 hr 40 min,"['Drama', 'Music', 'Romance']","2,073 theaters"
+159,Bring The Soul: The Movie,Trafalgar Releasing,"$2,296,491873",,"['Aug 7, 2019']",1 hr 43 min,"['Documentary', 'Music']",873 theaters
+160,Pavarotti,CBS Films,"$144,03219",,"['Jun 7, 2019']",1 hr 54 min,"['Biography', 'Documentary', 'Music']",288 theaters
+161,Tolkien,Fox Searchlight Pictures,"$2,200,5371,495",,"['May 10, 2019', 'Jun 13, 2019']",1 hr 52 min,"['Biography', 'Drama', 'Romance', 'War']","1,501 theaters"
+162,The Last Black Man in San Francisco,A24,"$235,2727",,"['Jun 7, 2019']",2 hr 1 min,['Drama'],207 theaters
+163,War,Yash Raj Films,"$1,607,627305","$21,000,000","['Oct 2, 2019']",2 hr 34 min,"['Action', 'Thriller']",305 theaters
+164,Cold War,Amazon Studios,"$54,3533",,"['Dec 21, 2018', 'Apr 4, 2019']",1 hr 29 min,"['Drama', 'History', 'Music', 'Romance']",270 theaters
+165,Menteur,Entertainment One,"$607,22989",,"['Jul 12, 2019']",1 hr 51 min,['Comedy'],89 theaters
+166,Brian Banks,Bleecker Street Media,"$2,156,2721,240",,"['Aug 9, 2019', 'Sep 26, 2019']",1 hr 39 min,"['Biography', 'Drama', 'Sport']","1,240 theaters"
+167,The Biggest Little Farm,Neon,"$110,4925",,"['May 10, 2019']",1 hr 31 min,['Documentary'],285 theaters
+168,Dr. Seuss' The Grinch,Universal Pictures,"$67,572,8554,141","$75,000,000","['Nov 9, 2018', 'Feb 14, 2019']",1 hr 25 min,"['Animation', 'Family', 'Fantasy']","4,141 theaters"
+169,Amazing Grace,Neon,"$57,3533",,"['Dec 7, 2018', 'Jul 21, 2019']",1 hr 29 min,"['Documentary', 'Music']",263 theaters
+170,Linda Ronstadt: The Sound of My Voice,Greenwich Entertainment,"$113,2357",,"['Sep 6, 2019']",1 hr 35 min,"['Biography', 'Documentary', 'Music']",247 theaters
+171,Uri: The Surgical Strike,PackYourBag Films,"$631,146101",,"['Jan 11, 2019', 'Mar 28, 2019']",2 hr 18 min,"['Action', 'Drama', 'War']",132 theaters
+172,Replicas,Entertainment Studios Motion Pictures,"$2,375,3252,329",,"['Jan 11, 2019', 'Feb 21, 2019']",1 hr 47 min,"['Drama', 'Sci-Fi', 'Thriller']","2,329 theaters"
+173,Pain and Glory,Sony Pictures Classics,"$152,6364",,"['Oct 4, 2019']",1 hr 53 min,['Drama'],266 theaters
+174,Ne Zha,Well Go USA Entertainment,"$1,015,75566",,"['Aug 29, 2019']",1 hr 50 min,"['Action', 'Adventure', 'Animation', 'Family', 'Fantasy', 'Thriller']",135 theaters
+175,Mission Mangal,FIP,"$1,365,006263",,"['Aug 15, 2019', 'Sep 26, 2019']",2 hr 10 min,"['Drama', 'History']",263 theaters
+176,The Oscar Nominated Short Films 2019: Documentary,Shorts International,"$938,455270",,"['Feb 8, 2019', 'Mar 28, 2019']",,['Documentary'],415 theaters
+177,BTS World Tour: Love Yourself in Seoul,Fathom Events,"$2,860,016997",,"['Jan 26, 2019']",1 hr 52 min,"['Documentary', 'Music']",997 theaters
+178,The Beach Bum,Neon,"$1,763,0701,100",,"['Mar 29, 2019', 'May 9, 2019']",1 hr 35 min,['Comedy'],"1,100 theaters"
+179,Echo in the Canyon,Greenwich Entertainment,"$117,6512",,"['May 24, 2019']",1 hr 22 min,"['Documentary', 'Music']",147 theaters
+180,Creed II,Metro-Goldwyn-Mayer (MGM),"$35,574,7103,441","$50,000,000","['Nov 21, 2018', 'Mar 21, 2019']",2 hr 10 min,"['Drama', 'Sport']","3,752 theaters"
+181,Jay and Silent Bob Reboot,Saban Films,"$93,5201",,"['Oct 15, 2019']",1 hr 45 min,['Comedy'],788 theaters
+182,Maiden,Sony Pictures Classics,"$46,9316",,"['Jun 28, 2019']",1 hr 37 min,"['Documentary', 'Sport']",180 theaters
+183,Simmba,Reliance Big Pictures,"$1,758,576301",,"['Dec 28, 2018', 'Feb 3, 2019']",2 hr 38 min,"['Action', 'Comedy', 'Drama']",301 theaters
+184,Bharat,Viva Pictures Distribution,"$1,252,301311",,"['Jun 5, 2019', 'Jul 4, 2019']",2 hr 30 min,"['Action', 'Drama']",311 theaters
+185,Honey Boy,Amazon Studios,"$301,0654",,"['Nov 8, 2019']",1 hr 34 min,['Drama'],460 theaters
+186,Friends 25th: The One With The Anniversary,Fathom Events,"$1,177,8731,586",,"['Sep 23, 2019']",1 hr 45 min,['Comedy'],"1,586 theaters"
+187,Saaho,Yash Raj Films,"$1,452,102381",,"['Aug 29, 2019']",2 hr 50 min,"['Action', 'Thriller']",381 theaters
+188,Fantastic Beasts: The Crimes of Grindelwald,Warner Bros.,"$62,163,1044,163","$200,000,000","['Nov 16, 2018', 'Feb 21, 2019']",2 hr 14 min,"['Adventure', 'Family', 'Fantasy']","4,163 theaters"
+189,Kalank,FIP,"$1,276,581320",,"['Apr 17, 2019', 'May 9, 2019']",2 hr 46 min,"['Drama', 'Romance']",320 theaters
+190,Tod@s Caen,Pantelion Films,"$1,098,401371",,"['Aug 30, 2019', 'Oct 3, 2019']",2 hr,['Comedy'],371 theaters
+191,Everybody Knows,Focus Features,"$71,2074",,"['Feb 8, 2019', 'Apr 4, 2019']",2 hr 13 min,"['Crime', 'Drama', 'Mystery', 'Thriller']",283 theaters
+192,Instant Family,Paramount Pictures,"$14,504,3153,286","$48,000,000","['Nov 16, 2018', 'Jan 31, 2019']",1 hr 58 min,"['Comedy', 'Drama']","3,426 theaters"
+193,The Art of Self-Defense,Bleecker Street Media,"$114,3747",,"['Jul 12, 2019', 'Aug 8, 2019']",1 hr 44 min,"['Comedy', 'Crime', 'Drama', 'Mystery', 'Sport', 'Thriller']",550 theaters
+194,Arctic,Bleecker Street Media,"$50,8784",,"['Feb 1, 2019', 'May 9, 2019']",1 hr 38 min,"['Adventure', 'Drama']",268 theaters
+195,Welcome to Marwen,Universal Pictures,"$2,354,2051,911",,"['Dec 21, 2018', 'Jan 17, 2019']",1 hr 56 min,"['Biography', 'Comedy', 'Drama', 'Fantasy', 'Romance']","1,911 theaters"
+196,"My People, My Country",CMC Pictures,"$876,00167",,"['Oct 1, 2019', 'Nov 7, 2019']",2 hr 34 min,"['Drama', 'History']",83 theaters
+197,Promare,GKIDS,"$109,08554",,"['Sep 17, 2019']",1 hr 51 min,"['Action', 'Adventure', 'Animation', 'Comedy', 'Drama', 'Family', 'Fantasy', 'Sci-Fi', 'Thriller']",701 theaters
+198,Super 30,Reliance Big Pictures,"$871,256317",,"['Jul 12, 2019']",2 hr 34 min,"['Biography', 'Drama']",317 theaters
+199,Faustina: Love and Mercy,Fathom Events,,,"['Oct 28, 2019']",1 hr 47 min,"['Biography', 'Drama', 'Family']",810 theaters
+200,Gone with the Wind,Fathom Events,"$1,089,932717",,"['Feb 28, 2019', 'Mar 21, 2019']",3 hr 58 min,"['Drama', 'History', 'Romance', 'War']",717 theaters
+201,3 from Hell,Saban Films,,,"['Sep 16, 2019']",1 hr 55 min,['Horror'],667 theaters
+202,Total Dhamaal,FIP,"$989,387202",,"['Feb 22, 2019', 'Mar 21, 2019']",2 hr 10 min,"['Action', 'Adventure', 'Comedy']",209 theaters
+203,Housefull 4,FIP,"$904,808315",,"['Oct 25, 2019', 'Nov 21, 2019']",2 hr 25 min,"['Action', 'Comedy', 'Fantasy']",315 theaters
+204,Shoplifters,Magnolia Pictures,"$89,2645",,"['Nov 23, 2018', 'May 2, 2019']",2 hr 1 min,"['Crime', 'Drama']",144 theaters
+205,The Wizard of Oz,Fathom Events,"$1,195,606681","$2,777,000","['Jan 27, 2019', 'Feb 7, 2019']",1 hr 42 min,"['Adventure', 'Family', 'Fantasy', 'Musical']",681 theaters
+206,Luce,Neon,"$132,9875",,"['Aug 2, 2019']",1 hr 49 min,['Drama'],235 theaters
+207,Chhichhore,FIP,"$614,335195",,"['Sep 6, 2019', 'Oct 10, 2019']",2 hr 23 min,"['Comedy', 'Drama']",195 theaters
+208,Official Secrets,IFC Films,"$64,9654",,"['Aug 30, 2019']",1 hr 52 min,"['Biography', 'Crime', 'Drama', 'Romance', 'Thriller', 'War']",485 theaters
+209,Better Days,Well Go USA Entertainment,"$989,53670",,"['Nov 8, 2019']",2 hr 15 min,"['Crime', 'Drama', 'Romance']",88 theaters
+210,Badla,Reliance Big Pictures,"$596,44650",,"['Mar 8, 2019', 'Mar 31, 2019']",1 hr 58 min,"['Crime', 'Drama', 'Mystery', 'Thriller']",115 theaters
+211,The White Crow,Sony Pictures Classics,"$78,7825",,"['Apr 26, 2019']",2 hr 7 min,"['Biography', 'Drama']",365 theaters
+212,Ben Is Back,Roadside Attractions,"$80,7344",,"['Dec 7, 2018', 'Feb 21, 2019']",1 hr 43 min,['Drama'],598 theaters
+213,Pandas,Warner Bros.,"$158,91533",,"['Apr 6, 2018', 'Jul 15, 2018']",42 min,['Documentary'],35 theaters
+214,The Other Side of Heaven 2: Fire of Faith,ArtAffects Entertainment,"$454,257205",,"['Jun 28, 2019']",1 hr 57 min,"['Adventure', 'Biography', 'Drama']",205 theaters
+215,Ip Man 4: The Finale,Well Go USA Entertainment,"$737,71870",,"['Dec 25, 2019']",1 hr 47 min,"['Action', 'Biography', 'Drama', 'History']",125 theaters
+216,Wild Rose,Neon,"$52,9384",,"['Jun 21, 2019']",1 hr 41 min,"['Comedy', 'Drama', 'Music']",195 theaters
+217,The Aftermath,Fox Searchlight Pictures,"$56,4195",,"['Mar 15, 2019', 'May 2, 2019']",1 hr 48 min,"['Drama', 'Romance', 'War']",344 theaters
+218,Made for More,Fathom Events,,,"['Aug 2, 2018', 'Jan 9, 2019']",2 hr,['Documentary'],703 theaters
+219,Red Joan,IFC Films,"$38,9494",,"['Apr 19, 2019', 'Jul 4, 2019']",1 hr 41 min,"['Biography', 'Drama', 'History', 'Romance']",195 theaters
+220,After the Wedding,Sony Pictures Classics,"$50,2645",,"['Aug 9, 2019']",1 hr 52 min,['Drama'],428 theaters
+221,Extreme Job,CJ Entertainment,"$42,5872",,"['Jan 25, 2019', 'Apr 4, 2019']",1 hr 51 min,"['Action', 'Comedy', 'Crime']",26 theaters
+222,Waves,A24,"$134,3334",,"['Nov 15, 2019']",2 hr 15 min,"['Drama', 'Romance', 'Sport']",570 theaters
+223,Qué León,Spanglish Movies,"$291,93634",,"['Nov 29, 2018', 'Mar 17, 2019']",1 hr 33 min,"['Comedy', 'Romance']",86 theaters
+224,Capernaum,Sony Pictures Classics,"$24,9883",,"['Dec 14, 2018', 'May 30, 2019']",2 hr 6 min,['Drama'],136 theaters
+225,The Kid,Lionsgate,"$514,286268",,"['Mar 8, 2019', 'Apr 18, 2019']",1 hr 40 min,"['Biography', 'Drama', 'Western']",268 theaters
+226,Kinky Boots: The Musical,Fathom Events,"$386,612455",,"['Jun 25, 2019', 'Jun 29, 2019']",2 hr 15 min,['Musical'],492 theaters
+227,Destroyer,Annapurna Pictures,"$55,3473",,"['Dec 25, 2018', 'Mar 21, 2019']",2 hr 1 min,"['Action', 'Crime', 'Drama', 'Mystery', 'Thriller']",235 theaters
+228,The Wife,Sony Pictures Classics,"$108,2844",,"['Aug 17, 2018', 'Apr 18, 2019']",1 hr 39 min,['Drama'],541 theaters
+229,El Chicano,Briarcliff Entertainment,"$700,261605",,"['May 3, 2019', 'May 23, 2019']",1 hr 48 min,['Drama'],605 theaters
+230,Fantastic Fungi,Area 23a,"$9,4191",,"['Sep 20, 2019']",1 hr 21 min,['Documentary'],37 theaters
+231,1917,Universal Pictures,"$576,21611",,,1 hr 59 min,"['Drama', 'War']","3,987 theaters"
+232,Spirited Away,Fathom Events,"$561,821765",,"['Oct 27, 2019']",2 hr 5 min,"['Adventure', 'Animation', 'Family', 'Fantasy', 'Mystery']",768 theaters
+233,Never Look Away,Sony Pictures Classics,,,"['Nov 30, 2018', 'Jun 6, 2019']",3 hr 9 min,"['Drama', 'History', 'Romance', 'Thriller']",122 theaters
+234,Pilgrim's Progress,Fathom Events,"$678,647706",,"['Apr 18, 2019', 'Apr 20, 2019']",1 hr 48 min,"['Adventure', 'Animation', 'Family', 'Fantasy']",758 theaters
+235,Can You Ever Forgive Me?,Fox Searchlight Pictures,"$161,5105",,"['Oct 19, 2018', 'Mar 14, 2019']",1 hr 46 min,"['Biography', 'Comedy', 'Crime', 'Drama']",555 theaters
+236,Asterix: The Secret of the Magic Potion,Entertainment One,"$193,04051",,"['Feb 15, 2019', 'May 12, 2019']",1 hr 27 min,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",76 theaters
+237,Metallica & San Francisco Symphony - S&M2,Trafalgar Releasing,"$144,736157",,"['Oct 9, 2019']",2 hr 30 min,['Music'],655 theaters
+238,BTS World Tour 'Love Yourself: Speak Yourself' (The Final) Seoul Live Viewing,Fathom Events,"$1,226,552490",,"['Oct 27, 2019']",3 hr 30 min,['Music'],490 theaters
+239,High Life,A24,"$99,3414",,"['Apr 5, 2019', 'May 30, 2019']",1 hr 53 min,"['Adventure', 'Drama', 'Horror', 'Mystery', 'Sci-Fi', 'Thriller']",146 theaters
+240,All Is True,Sony Pictures Classics,"$44,2114",,"['May 10, 2019']",1 hr 41 min,"['Biography', 'Drama', 'History']",328 theaters
+241,Kingdom Men Rising,Fathom Events,,,"['Apr 29, 2019']",1 hr 33 min,['Documentary'],705 theaters
+242,Los Domirriqueños 2,Spanglish Movies,"$341,84753",,"['Mar 14, 2019', 'Apr 21, 2019']",1 hr 47 min,"['Comedy', 'Sport']",82 theaters
+243,Ek Ladki Ko Dekha Toh Aisa Laga,FIP,"$606,775193",,"['Feb 1, 2019', 'Feb 21, 2019']",2 hr,"['Comedy', 'Drama', 'Romance']",193 theaters
+244,No Safe Spaces,Atlas Distribution Company,"$45,2361",,"['Oct 25, 2019', 'Nov 10, 2019']",1 hr 40 min,['Documentary'],200 theaters
+245,Nothing to Lose 2,Swen Releasing,"$606,93497",,"['Sep 27, 2019']",1 hr 36 min,"['Biography', 'Drama']",105 theaters
+246,Western Stars,Warner Bros.,"$560,282345",,"['Oct 25, 2019', 'Dec 12, 2019']",1 hr 23 min,"['Documentary', 'Music']",553 theaters
+247,Konosuba!: God's Blessing on This Wonderful World! - Legend of Crimson,Fathom Events,,,"['Nov 12, 2019']",1 hr 30 min,"['Adventure', 'Animation', 'Comedy', 'Fantasy']",692 theaters
+248,My Neighbor Totoro,Fathom Events,"$484,254767",,"['Aug 25, 2019']",1 hr 26 min,"['Animation', 'Family', 'Fantasy']",767 theaters
+249,Playmobil: The Movie,STX Entertainment,"$656,5302,337",,"['Dec 6, 2019', 'Jan 9, 2020']",1 hr 39 min,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Musical']","2,337 theaters"
+250,Mortal Engines,Universal Pictures,"$7,559,8503,103",,"['Dec 14, 2018', 'Jan 17, 2019']",2 hr 8 min,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi', 'Thriller']","3,103 theaters"
+251,Bennett's War,Forrest Films,"$430,898970",,"['Aug 30, 2019', 'Sep 26, 2019']",1 hr 34 min,['Sport'],970 theaters
+252,Princess Mononoke,Fathom Events,"$417,311752",,"['Nov 17, 2019']",2 hr 14 min,"['Adventure', 'Animation', 'Fantasy']",752 theaters
+253,Luka Chuppi,Viva Pictures Distribution,"$485,342139",,"['Mar 1, 2019', 'Apr 4, 2019']",2 hr 6 min,"['Comedy', 'Romance']",139 theaters
+254,The Souvenir,A24,"$78,4004",,"['May 17, 2019', 'Jul 18, 2019']",2 hr,"['Drama', 'Mystery', 'Romance']",145 theaters
+255,Noah: The Musical,Fathom Events,"$392,734602",,"['Apr 9, 2019', 'Apr 13, 2019']",,,669 theaters
+256,El Coyote,Cactus Blue Entertainment,,,"['Oct 4, 2019']",1 hr 33 min,"['Action', 'Crime']",297 theaters
+257,Perfect Strangers,Pantelion Films,"$422,656132",,"['Jan 11, 2019', 'Feb 14, 2019']",1 hr 37 min,['Comedy'],132 theaters
+258,Marianne & Leonard: Words of Love,Roadside Attractions,"$44,9424",,"['Jul 5, 2019']",1 hr 42 min,"['Biography', 'Documentary', 'Music', 'Romance']",101 theaters
+259,Kiki's Delivery Service,Fathom Events,"$352,556753",,"['Jul 28, 2019']",1 hr 43 min,"['Adventure', 'Animation', 'Drama', 'Family', 'Fantasy']",753 theaters
+260,BlacKkKlansman,Focus Features,"$10,845,3301,512","$15,000,000","['Aug 10, 2018', 'Mar 1, 2019']",2 hr 15 min,"['Biography', 'Crime', 'Drama']","1,914 theaters"
+261,Jesus Is King,IMAX,"$830,000372",,"['Oct 25, 2019']",31 min,"['Documentary', 'Music', 'Short']",372 theaters
+262,Rush: Cinema Strangiato 2019,Trafalgar Releasing,"$2,5801",,"['Aug 21, 2019']",2 hr,['Music'],494 theaters
+263,The Fighting Preacher,Purdie Distribution,"$60,22328",,"['Jul 24, 2019']",1 hr 40 min,"['Comedy', 'Drama', 'History']",37 theaters
+264,Toni Morrison: The Pieces I Am,Magnolia Pictures,"$48,0504",,"['Jun 21, 2019']",2 hr,['Documentary'],78 theaters
+265,A Hidden Life,Fox Searchlight Pictures,"$50,3835",,"['Dec 13, 2019', 'Feb 6, 2020']",2 hr 54 min,"['Biography', 'Drama', 'Romance', 'War']",151 theaters
+266,Between Me and My Mind,Trafalgar Releasing,"$14,61416",,"['Jul 17, 2019']",1 hr 40 min,['Documentary'],488 theaters
+267,Howl's Moving Castle,Fathom Events,"$368,180748",,"['Apr 7, 2019', 'Apr 10, 2019']",1 hr 59 min,"['Adventure', 'Animation', 'Family', 'Fantasy']",748 theaters
+268,Pati Patni Aur Woh,Eros International,"$432,145130",,"['Dec 6, 2019']",2 hr 6 min,"['Comedy', 'Romance']",130 theaters
+269,Steel Magnolias,Fathom Events,"$495,528689",,"['May 19, 2019', 'May 22, 2019']",1 hr 57 min,"['Comedy', 'Drama', 'Romance']",689 theaters
+270,Woman at War,Magnolia Pictures,"$18,3705",,"['Mar 1, 2019', 'Jun 13, 2019']",1 hr 41 min,"['Adventure', 'Comedy', 'Drama']",66 theaters
+271,Alien,Fathom Events,"$386,976682","$11,000,000","['Oct 13, 2019']",1 hr 57 min,"['Horror', 'Sci-Fi']",682 theaters
+272,Climax,A24,"$119,4235",,"['Mar 1, 2019', 'Apr 11, 2019']",1 hr 37 min,"['Drama', 'Horror', 'Music', 'Thriller']",217 theaters
+273,Transit,Music Box Films,"$31,9312",,"['Mar 1, 2019', 'Jun 27, 2019']",1 hr 41 min,"['Drama', 'Sci-Fi']",72 theaters
+274,One Piece: Stampede,FUNimation Entertainment,"$357,740541",,"['Oct 24, 2019', 'Nov 8, 2019']",1 hr 41 min,"['Action', 'Adventure', 'Animation', 'Family', 'Fantasy']",541 theaters
+275,Chonda Pierce: Unashamed,Fathom Events,,,"['May 7, 2019', 'May 9, 2019']",1 hr 30 min,['Documentary'],783 theaters
+276,Student of the Year 2,FIP,"$462,108190",,"['May 10, 2019', 'May 23, 2019']",2 hr 26 min,"['Drama', 'Romance', 'Sport']",190 theaters
+277,The Church,Indican Pictures,"$272,412252",,"['May 24, 2019', 'Jun 27, 2019']",1 hr 21 min,"['Horror', 'Thriller']",252 theaters
+278,Patterns of Evidence: Moses Controversy,Fathom Events,"$217,327855",,"['Mar 14, 2019', 'Mar 21, 2019']",2 hr 20 min,['Documentary'],896 theaters
+279,I Love Lucy: A Colorized Celebration,Fathom Events,,,"['Aug 6, 2019']",2 hr 35 min,['Comedy'],634 theaters
+280,Joni 75: A Birthday Celebration,Trafalgar Releasing,"$35,11159",,"['Feb 7, 2019', 'Mar 28, 2019']",2 hr 8 min,['Music'],405 theaters
+281,The Game Changers,Fathom Events,,,"['Sep 16, 2019']",1 hr 48 min,['Documentary'],610 theaters
+282,David Crosby: Remember My Name,Sony Pictures Classics,"$43,4834",,"['Jul 19, 2019']",1 hr 35 min,"['Documentary', 'Music']",67 theaters
+283,More Than Blue,China Lion Film Distribution,"$185,92826",,"['Mar 15, 2019', 'Apr 18, 2019']",1 hr 45 min,['Romance'],40 theaters
+284,Honeyland,Neon,"$31,3812",,"['Jul 26, 2019']",1 hr 29 min,"['Documentary', 'Drama']",56 theaters
+285,Where's My Roy Cohn?,Sony Pictures Classics,"$41,2024",,"['Sep 20, 2019']",1 hr 37 min,['Documentary'],66 theaters
+286,Non-Fiction,IFC Films,"$29,8532",,"['May 3, 2019', 'Jul 28, 2019']",1 hr 48 min,"['Comedy', 'Drama', 'Romance']",89 theaters
+287,The Captain,Well Go USA Entertainment,"$324,76947",,"['Oct 18, 2019']",1 hr 51 min,['Drama'],47 theaters
+288,Raise Hell: The Life & Times of Molly Ivins,Magnolia Pictures,"$94,50418",,"['Aug 30, 2019']",1 hr 33 min,['Documentary'],42 theaters
+289,Spirits in the Forest,Trafalgar Releasing,"$232,452276",,"['Nov 21, 2019']",1 hr 23 min,"['Documentary', 'Music']",388 theaters
+290,The Sky Is Pink,PackYourBag Films,"$334,713194",,"['Oct 11, 2019']",2 hr 23 min,"['Drama', 'Family', 'Romance']",194 theaters
+291,Racetime,Entertainment One,"$271,06186",,"['Dec 7, 2018', 'Apr 14, 2019']",1 hr 29 min,"['Adventure', 'Animation', 'Comedy']",86 theaters
+292,Dirty Dancing,Fathom Events,"$356,515650","$6,000,000","['Feb 10, 2019', 'Feb 14, 2019']",1 hr 40 min,"['Drama', 'Music', 'Romance']",650 theaters
+293,Miles Davis: Birth of the Cool,Abramorama,"$18,2581",,"['Aug 23, 2019']",1 hr 55 min,"['Biography', 'Documentary', 'Music']",31 theaters
+294,Roger Waters - Us + Them,Trafalgar Releasing,"$251,842396",,"['Oct 2, 2019']",2 hr 15 min,"['Documentary', 'Music']",497 theaters
+295,The Muppet Movie,Fathom Events,,,"['Jul 25, 2019', 'Jul 30, 2019']",1 hr 35 min,"['Adventure', 'Comedy', 'Family', 'Musical']",727 theaters
+296,The White Storm 2: Drug Lords,CMC Pictures,"$244,79554",,"['Jul 12, 2019', 'Aug 15, 2019']",1 hr 39 min,['Action'],54 theaters
+297,The Least of These: The Graham Staines Story,Fathom Events,"$282,472440",,"['Jan 31, 2019', 'Feb 21, 2019']",1 hr 52 min,['Drama'],625 theaters
+298,The Chaperone,PBS Distribution,"$12,1502",,"['Mar 28, 2019', 'Jul 11, 2019']",1 hr 43 min,['Drama'],128 theaters
+299,Furie,Well Go USA Entertainment,"$156,12014",,"['Mar 1, 2019', 'Apr 11, 2019']",1 hr 38 min,"['Action', 'Drama', 'Thriller']",27 theaters
+300,To Kill a Mockingbird,Fathom Events,"$357,549668",,"['Mar 24, 2019', 'Mar 27, 2019']",2 hr 9 min,"['Crime', 'Drama']",668 theaters
+301,Bethany Hamilton: Unstoppable,Entertainment Studios Motion Pictures,"$241,740205",,"['Jul 12, 2019']",1 hr 40 min,"['Documentary', 'Sport']",205 theaters
+302,The Public,Greenwich Entertainment,"$259,455263",,"['Apr 5, 2019']",1 hr 59 min,['Drama'],263 theaters
+303,My Fair Lady,Fathom Events,"$354,764652","$17,000,000","['Feb 17, 2019']",2 hr 50 min,"['Drama', 'Family', 'Musical', 'Romance']",652 theaters
+304,Fiddler: A Miracle of Miracles,Roadside Attractions,"$36,4257",,"['Aug 23, 2019']",1 hr 37 min,['Documentary'],77 theaters
+305,Everybody's Everything,Gunpowder & Sky,"$60,58229",,"['Nov 12, 2019']",1 hr 56 min,['Documentary'],121 theaters
+306,"DCI 2019: Big, Loud & Live 16",Fathom Events,,,"['Aug 8, 2019']",,,513 theaters
+307,La femme de mon frère,Entertainment One,"$59,43816",,"['Jun 7, 2019']",1 hr 57 min,['Drama'],30 theaters
+308,Grateful Dead Meet-Up 2019,Trafalgar Releasing,"$3,7864",,"['Aug 1, 2019']",2 hr,"['Documentary', 'Music']",503 theaters
+309,Code Geass: Lelouch of the Re;Surrection,FUNimation Entertainment,"$189,617479",,"['May 5, 2019']",1 hr 52 min,"['Action', 'Adventure', 'Animation', 'Drama', 'Mystery', 'Sci-Fi', 'Thriller']",490 theaters
+310,Shadow,Well Go USA Entertainment,"$27,4744",,"['May 3, 2019']",1 hr 56 min,"['Action', 'Drama', 'War']",53 theaters
+311,Long Day's Journey Into Night,Kino Lorber,"$26,7463",,"['Apr 12, 2019', 'Oct 10, 2019']",2 hr 18 min,"['Drama', 'Mystery']",24 theaters
+312,The Spy Behind Home Plate,Ciesla Foundation,"$10,2501",,"['May 24, 2019']",1 hr 41 min,['Documentary'],31 theaters
+313,Wild Nights with Emily,Greenwich Entertainment,"$30,2093",,"['Apr 12, 2019', 'Jul 4, 2019']",1 hr 24 min,"['Comedy', 'History']",78 theaters
+314,Saving Private Ryan,Fathom Events,"$265,125642","$70,000,000","['Jun 2, 2019']",2 hr 49 min,"['Drama', 'War']",642 theaters
+315,Birds of Passage,The Orchard,"$23,0822",,"['Feb 13, 2019', 'Apr 28, 2019']",2 hr 5 min,"['Crime', 'Drama']",97 theaters
+316,Tel Aviv on Fire,Cohen Media Group,"$47,54511",,"['Aug 2, 2019']",1 hr 40 min,"['Comedy', 'Drama', 'Romance']",37 theaters
+317,Widows,Twentieth Century Fox,"$12,361,3072,803","$42,000,000","['Nov 16, 2018', 'Feb 21, 2019']",2 hr 9 min,"['Crime', 'Drama', 'Thriller']","2,803 theaters"
+318,Whisper of the Heart,Fathom Events,,,"['Jul 1, 2019', 'Jul 2, 2019']",1 hr 51 min,"['Animation', 'Drama', 'Family', 'Music', 'Romance']",745 theaters
+319,Nausicaä of the Valley of the Wind,Fathom Events,,,"['May 20, 2019', 'May 21, 2019']",1 hr 57 min,"['Adventure', 'Animation', 'Fantasy', 'Sci-Fi']",751 theaters
+320,Crazy Rich Asians,Warner Bros.,"$26,510,1403,384","$30,000,000","['Aug 15, 2018', 'Jan 10, 2019']",2 hr,"['Comedy', 'Drama', 'Romance']","3,865 theaters"
+321,Batla House,Viva Pictures Distribution,"$212,64581",,"['Aug 15, 2019']",2 hr 26 min,"['Action', 'Drama', 'Thriller']",81 theaters
+322,The Climbers,Well Go USA Entertainment,"$156,096102",,"['Sep 30, 2019']",2 hr 5 min,"['Action', 'Adventure', 'Drama', 'History', 'Romance', 'Thriller']",102 theaters
+323,The Russian Five,Lucky Hat Entertainment,"$156,73236",,"['Mar 21, 2019', 'Jul 11, 2019']",1 hr 42 min,"['Documentary', 'Sport']",44 theaters
+324,The Great Alaskan Race,,,,"['Oct 25, 2019']",1 hr 27 min,"['Action', 'Adventure', 'Drama', 'History']",447 theaters
+325,Exit,CJ Entertainment,"$32,4412",,"['Aug 2, 2019']",1 hr 43 min,"['Action', 'Comedy']",19 theaters
+326,Lawrence of Arabia,Fathom Events,"$291,722661",,"['Sep 1, 2019']",3 hr 48 min,"['Adventure', 'Biography', 'Drama', 'History', 'War']",661 theaters
+327,CatVideoFest,Oscilloscope,"$11,2691",,"['Feb 15, 2019']",1 hr 10 min,['Reality-TV'],103 theaters
+328,Panipat,Reliance Entertainment,"$295,624175",,"['Dec 6, 2019']",2 hr 45 min,"['Action', 'Drama', 'History', 'War']",175 theaters
+329,Christmas Jars,Fathom Events,,,"['Nov 4, 2019']",1 hr 50 min,['Drama'],789 theaters
+330,Gorillaz: Reject False Icons,Trafalgar Releasing,,,"['Dec 16, 2019']",1 hr 35 min,"['Documentary', 'Music']",284 theaters
+331,Cruel Intentions,Sony Pictures Releasing,"$258,708708","$10,500,000","['Mar 22, 2019', 'Apr 4, 2019']",1 hr 37 min,"['Drama', 'Romance']",708 theaters
+332,Teen Spirit,Bleecker Street Media,"$43,6204",,,1 hr 33 min,"['Drama', 'Music']",696 theaters
+333,At Eternity's Gate,CBS Films,"$92,8564",,"['Nov 16, 2018', 'Feb 10, 2019']",1 hr 51 min,"['Biography', 'Drama']",178 theaters
+334,Merci pour tout,eOne Entertainment,"$231,90857",,"['Dec 25, 2019']",1 hr 39 min,['Comedy'],76 theaters
+335,Les Misérables: The Staged Concert,Trafalgar Releasing,"$192,034392",,"['Dec 6, 2019']",2 hr 50 min,['Musical'],488 theaters
+336,De De Pyaar De,Yash Raj Films,"$425,934104",,"['May 17, 2019']",2 hr 15 min,"['Comedy', 'Romance']",104 theaters
+337,Hail Satan?,Magnolia Pictures,"$26,4963",,"['Apr 17, 2019', 'Jun 27, 2019']",1 hr 35 min,['Documentary'],67 theaters
+338,Ben-Hur,Fathom Events,"$241,792649","$15,000,000","['Apr 14, 2019', 'Apr 17, 2019']",3 hr 32 min,"['Adventure', 'Drama', 'History']",649 theaters
+339,Killing Sarai,Pantelion Films,"$226,670160",,"['Dec 6, 2019', 'Jan 3, 2020']",1 hr 46 min,"['Romance', 'Thriller']",160 theaters
+340,Fate/stay night [Heaven's Feel] II. lost butterfly,Fathom Events,,,"['Mar 14, 2019', 'Mar 14, 2019']",1 hr 57 min,"['Animation', 'Drama', 'Fantasy']",515 theaters
+341,Ash Is Purest White,Cohen Media Group,"$45,1507",,"['Mar 15, 2019', 'Aug 13, 2019']",2 hr 16 min,"['Crime', 'Drama', 'Romance']",49 theaters
+342,The Cold Blue,Fathom Events,,,"['May 23, 2019', 'May 23, 2019']",1 hr 41 min,"['Documentary', 'War']",702 theaters
+343,The Reliant,Fathom Events,,,"['Oct 24, 2019']",2 hr 20 min,['Action'],722 theaters
+344,The Invisibles,Greenwich Entertainment,"$27,1644",,"['Jan 25, 2019', 'May 16, 2019']",1 hr 50 min,"['Biography', 'Drama', 'History', 'War']",19 theaters
+345,Monos,Neon,"$49,8435",,"['Sep 13, 2019']",1 hr 42 min,"['Adventure', 'Drama', 'Thriller']",50 theaters
+346,Meet Me in St. Louis,Fathom Events,"$225,684679","$1,700,000","['Dec 8, 2019']",1 hr 53 min,"['Comedy', 'Drama', 'Family', 'Musical', 'Romance']",679 theaters
+347,"Hello, Dolly!",Fathom Events,"$221,204669",,"['Aug 11, 2019']",2 hr 26 min,"['Adventure', 'Comedy', 'Musical', 'Romance']",669 theaters
+348,The Nightingale,IFC Films,"$35,8822",,,2 hr 16 min,"['Adventure', 'Drama', 'Thriller']",79 theaters
+349,Mia and the White Lion,Ledafilms Entertainment Group,"$192,816312",,"['Apr 12, 2019', 'May 14, 2019']",1 hr 38 min,"['Adventure', 'Drama', 'Family']",312 theaters
+350,The Man Who Killed Don Quixote,Screen Media Films,,,"['Apr 10, 2019', 'Jul 14, 2019']",2 hr 12 min,"['Adventure', 'Comedy', 'Drama', 'Fantasy']",756 theaters
+351,The Wedding Guest,IFC Films,"$18,2664",,"['Mar 1, 2019', 'Apr 11, 2019']",1 hr 36 min,['Thriller'],96 theaters
+352,The Secret World of Arrietty,Fathom Events,"$226,728741",,"['Sep 29, 2019']",1 hr 34 min,"['Adventure', 'Animation', 'Family', 'Fantasy']",750 theaters
+353,What We Left Behind: Star Trek DS9,Fathom Events,,,"['May 13, 2019', 'May 13, 2019']",1 hr 56 min,['Documentary'],795 theaters
+354,The Cure: Anniversary 1978-2018 Live in Hyde Park,Trafalgar Releasing,"$38,76183",,"['Jul 11, 2019']",2 hr 17 min,"['Documentary', 'Music']",346 theaters
+355,The Hummingbird Project,The Orchard,"$34,2024",,"['Mar 15, 2019', 'Apr 28, 2019']",1 hr 51 min,"['Drama', 'Thriller']",232 theaters
+356,Ghostbusters,Fathom Events,"$239,202546","$30,000,000","['Oct 6, 2019']",1 hr 45 min,"['Action', 'Comedy', 'Fantasy']",546 theaters
+357,Matthias & Maxime,Entertainment One,"$64,98850",,"['Oct 9, 2019']",1 hr 59 min,['Drama'],53 theaters
+358,The Shawshank Redemption,Fathom Events,"$183,128669","$25,000,000","['Sep 22, 2019']",2 hr 22 min,['Drama'],669 theaters
+359,The Tomorrow Man,Bleecker Street Media,"$18,2814",,"['May 22, 2019', 'Jun 20, 2019']",1 hr 34 min,"['Drama', 'Romance']",207 theaters
+360,Star Trek: The Motion Picture,Fathom Events,"$220,007627","$35,000,000","['Sep 15, 2019']",2 hr 12 min,"['Adventure', 'Mystery', 'Sci-Fi']",627 theaters
+361,Photograph,Amazon Studios,"$35,79613",,"['May 17, 2019', 'Jun 13, 2019']",1 hr 50 min,"['Drama', 'Romance']",123 theaters
+362,Diane,IFC Films,"$24,4673",,"['Mar 29, 2019', 'May 23, 2019']",1 hr 35 min,['Drama'],64 theaters
+363,Millennium Actress,Fathom Events,,,"['Aug 13, 2019', 'Jan 23, 2020']",1 hr 27 min,"['Animation', 'Drama', 'Fantasy', 'Romance']",512 theaters
+364,A Silent Voice: The Movie,Fathom Events,,,"['Jan 28, 2019']",2 hr 10 min,"['Animation', 'Drama', 'Family', 'Romance']",581 theaters
+365,The Big Fight Live: IBF Welterweight Title: Errol Spence Jr. vs. Mikey Garcia,Fathom Events,"$328,979288",,"['Mar 16, 2019', 'Mar 16, 2019']",3 hr 43 min,['Sport'],288 theaters
+366,P Storm,CMC Pictures,"$104,07130",,"['Apr 4, 2019', 'May 9, 2019']",1 hr 36 min,"['Action', 'Crime']",30 theaters
+367,National Theatre Live: Fleabag,Fathom Events,,,"['Nov 18, 2019']",1 hr 20 min,['Comedy'],399 theaters
+368,Sword of Trust,IFC Films,"$19,3322",,"['Jul 12, 2019']",1 hr 28 min,"['Comedy', 'Drama']",78 theaters
+369,Lucy in the Sky,Fox Searchlight Pictures,"$54,05837",,"['Oct 4, 2019', 'Oct 31, 2019']",2 hr 4 min,"['Drama', 'Sci-Fi']",231 theaters
+370,You Are Here: A Come From Away Story,Fathom Events,,,"['Sep 11, 2019']",1 hr 24 min,['Documentary'],781 theaters
+371,Josh Groban Bridges from Madison Square Garden,Trafalgar Releasing,,,"['Feb 8, 2019', 'Mar 14, 2019']",,,390 theaters
+372,Bolshoi Ballet: The Sleeping Beauty,Fathom Events,"$311,368355",,"['Mar 10, 2019']",2 hr 50 min,"['Fantasy', 'Music', 'Romance']",355 theaters
+373,DanTDM Presents The Contest,Fathom Events,"$307,484684",,"['Nov 2, 2019']",,,684 theaters
+374,K-12,Abramorama,,,"['Sep 5, 2019', 'Sep 5, 2019']",1 hr 36 min,"['Family', 'Fantasy', 'Horror', 'Musical']",81 theaters
+375,Aquarela,Sony Pictures Classics,"$24,7535",,"['Aug 16, 2019']",1 hr 30 min,['Documentary'],69 theaters
+376,Ask Dr. Ruth,Magnolia Pictures,"$93,128104",,"['May 3, 2019', 'Jul 11, 2019']",1 hr 40 min,"['Biography', 'Documentary']",110 theaters
+377,Line Walker 2: Invisible Spy,Well Go USA Entertainment,"$96,99117",,"['Aug 16, 2019']",1 hr 38 min,"['Action', 'Crime', 'Thriller']",17 theaters
+378,Junglee,Viva Pictures Distribution,"$47,08970",,"['Mar 29, 2019', 'Apr 4, 2019']",1 hr 55 min,"['Action', 'Adventure']",70 theaters
+379,The Giant Spider Invasion,Fathom Events,,,"['Aug 15, 2019']",1 hr 24 min,"['Horror', 'Sci-Fi']",685 theaters
+380,Stockholm,Smith Global Media,,,"['Apr 12, 2019', 'May 19, 2019']",1 hr 32 min,"['Biography', 'Comedy', 'Crime', 'Drama', 'History']",122 theaters
+381,The Godfather: Part II,Fathom Events,"$171,417681","$13,000,000","['Nov 10, 2019']",3 hr 22 min,"['Crime', 'Drama']",681 theaters
+382,Killerman,Blue Fox Entertainment,"$153,799322",,"['Aug 30, 2019', 'Oct 31, 2019']",1 hr 52 min,"['Action', 'Crime', 'Drama', 'Mystery', 'Thriller']",322 theaters
+383,The Bravest,Sony Pictures Releasing,"$110,375150",,"['Aug 9, 2019', 'Sep 2, 2019']",1 hr 58 min,"['Action', 'Drama']",150 theaters
+384,Saga of Tanya the Evil - The Movie,Fathom Events,,,"['May 16, 2019', 'May 16, 2019']",1 hr 55 min,"['Action', 'Adventure', 'Animation', 'Fantasy', 'War']",518 theaters
+385,Khalid: Free Spirit,Trafalgar Releasing,,,"['Apr 3, 2019', 'Apr 4, 2019']",45 min,['Drama'],382 theaters
+386,Mike Wallace Is Here,Magnolia Pictures,"$19,4373",,"['Jul 26, 2019']",1 hr 30 min,"['Biography', 'Documentary']",39 theaters
+387,The Whistleblower,CMC Pictures Holdings,"$150,481133",,"['Dec 6, 2019']",2 hr 14 min,['Action'],133 theaters
+388,Octaman,Fathom Events,,,"['Apr 18, 2019']",1 hr 19 min,"['Horror', 'Sci-Fi']",668 theaters
+389,The Nutcracker and the Four Realms,Walt Disney Studios Motion Pictures,"$20,352,4913,766","$120,000,000","['Nov 2, 2018', 'Jan 17, 2019']",1 hr 39 min,"['Adventure', 'Family', 'Fantasy']","3,766 theaters"
+390,I Want to Eat Your Pancreas,Fathom Events,"$111,108397",,"['Feb 7, 2019', 'Feb 14, 2019']",1 hr 49 min,"['Animation', 'Drama', 'Family', 'Romance']",427 theaters
+391,Freaks,Well Go USA Entertainment,"$161,543111",,"['Sep 13, 2019']",1 hr 45 min,"['Drama', 'Mystery', 'Sci-Fi', 'Thriller']",111 theaters
+392,True Grit,Fathom Events,"$157,788614",,"['May 5, 2019']",2 hr 8 min,"['Adventure', 'Drama', 'Western']",614 theaters
+393,The Tale of The Princess Kaguya,Fathom Events,,,"['Dec 16, 2019']",2 hr 17 min,"['Adventure', 'Animation', 'Drama', 'Family', 'Fantasy']",737 theaters
+394,Shakira in Concert: El Dorado World Tour,Trafalgar Releasing,"$111,273398",,"['Nov 13, 2019']",2 hr 2 min,"['Documentary', 'Music']",500 theaters
+395,Is It Wrong to Try to Pick Up Girls in a Dungeon - Arrow of the Orion,Fathom Events,,,"['Jul 23, 2019', 'Jul 23, 2019']",1 hr 22 min,"['Action', 'Adventure', 'Animation', 'Comedy', 'Fantasy', 'Romance']",614 theaters
+396,One Child Nation,Amazon Studios,"$20,5232",,,1 hr 28 min,"['Documentary', 'History']",36 theaters
+397,Just Mercy,Warner Bros.,"$107,8584",,,2 hr 17 min,['Drama'],"2,457 theaters"
+398,Slayer: The Repentless Killogy,Trafalgar Releasing,,,"['Nov 6, 2019']",2 hr 11 min,['Music'],494 theaters
+399,Luzia: Cirque du Soleil in Cinema,Fathom Events,,,"['Oct 29, 2019']",1 hr 35 min,['Musical'],784 theaters
+400,Out of Liberty,Purdie Distribution,"$66,54635",,"['Sep 13, 2019']",1 hr 51 min,"['Drama', 'Western']",36 theaters
+401,Modest Heroes,Fathom Events,"$178,027370",,"['Jan 10, 2019', 'Jan 12, 2019']",53 min,"['Adventure', 'Animation', 'Family', 'Fantasy']",370 theaters
+402,Smallfoot,Warner Bros.,"$23,045,6354,131",,"['Sep 28, 2018', 'Jan 17, 2019']",1 hr 36 min,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Musical']","4,131 theaters"
+403,Star Raiders: The Adventures of Saber Raine,Fathom Events,,,"['Jun 6, 2019', 'Jun 11, 2019']",1 hr 23 min,"['Adventure', 'Sci-Fi']",665 theaters
+404,Mobile Suit Gundam Narrative,Fathom Events,,,"['Feb 19, 2019', 'Feb 21, 2019']",1 hr 28 min,"['Action', 'Animation', 'Sci-Fi']",449 theaters
+405,Her Smell,Gunpowder & Sky,"$36,9413",,"['Apr 12, 2019', 'May 23, 2019']",2 hr 16 min,"['Drama', 'Music']",69 theaters
+406,Lords of Chaos,Gunpowder & Sky,"$27,6494",,"['Feb 8, 2019', 'Mar 24, 2019']",1 hr 58 min,"['Biography', 'Drama', 'Horror', 'Music', 'Thriller']",75 theaters
+407,Bolshoi Ballet: The Nutcracker,Fathom Events,"$252,935401",,"['Dec 15, 2019']",2 hr 30 min,"['Family', 'Fantasy', 'Musical']",401 theaters
+408,When Harry Met Sally...,Fathom Events,"$157,660660",,"['Dec 1, 2019']",1 hr 35 min,"['Comedy', 'Drama', 'Romance']",660 theaters
+409,I Got the Hook Up 2,Urban Movie Channel,"$149,03637",,"['Jul 12, 2019', 'Jul 25, 2019']",1 hr 47 min,['Comedy'],40 theaters
+410,Canal Street,Smith Global Media,"$108,25973",,"['Jan 18, 2019', 'Feb 14, 2019']",1 hr 29 min,"['Drama', 'Thriller']",73 theaters
+411,Meeting Gorbachev,1091 Media,"$18,1282",,"['May 3, 2019']",1 hr 30 min,"['Biography', 'Documentary', 'History']",42 theaters
+412,The Twilight Zone: A 60th Anniversary Celebration,Fathom Events,,,"['Nov 14, 2019']",3 hr,"['Drama', 'Fantasy', 'Horror']",677 theaters
+413,Doctor Who: The End of Time: Part One,Fathom Events,,,"['Aug 7, 2019']",1 hr,"['Adventure', 'Drama', 'Family', 'Mystery', 'Sci-Fi']",745 theaters
+414,Friendsgiving Day #1,Fathom Events,"$246,168766",,"['Nov 24, 2019']",1 hr 50 min,,766 theaters
+415,63 Up,BritBox,"$13,9561",,"['Nov 27, 2019']",3 hr,['Documentary'],28 theaters
+416,311 Enlarged to Show Detail 3,Trafalgar Releasing,,,"['Mar 11, 2019']",2 hr 13 min,['Music'],239 theaters
+417,Give Me Liberty,Music Box Films,"$33,2613",,"['Aug 23, 2019']",1 hr 50 min,['Comedy'],18 theaters
+418,American Woman,Roadside Attractions,"$110,552117",,"['Jun 14, 2019', 'Jul 18, 2019']",1 hr 51 min,"['Drama', 'Mystery']",117 theaters
+419,Romeo Akbar Walter,Eros International,"$142,102101",,"['Apr 5, 2019', 'Apr 25, 2019']",2 hr 21 min,"['Action', 'Drama', 'Thriller']",101 theaters
+420,Premier Boxing Champions: PBC on FOX: Spence vs. Porter,Fathom Events,"$232,973239",,"['Sep 28, 2019']",,['Sport'],239 theaters
+421,DAZN Boxing: Canelo Alvarez vs. Daniel Jacobs,Fathom Events,"$230,703426",,"['May 4, 2019', 'May 4, 2019']",,['Sport'],426 theaters
+422,Under the Sea 3D,Warner Bros.,"$661,18549",,"['Feb 13, 2009']",45 min,"['Documentary', 'Short']",108 theaters
+423,Mine 9,Emphatic Cinema/Levey,"$68,92123",,"['Apr 12, 2019', 'Jul 16, 2019']",1 hr 23 min,['Drama'],29 theaters
+424,Premier Boxing Champions: PBC on FOX PPV: Pacquiao vs. Thurman,Fathom Events,"$223,858194",,"['Jul 20, 2019', 'Jul 20, 2019']",,['Sport'],194 theaters
+425,Never Surrender: A Galaxy Quest Documentary,Fathom Events,,,"['Nov 26, 2019']",1 hr 35 min,['Documentary'],556 theaters
+426,First Love,Well Go USA Entertainment,"$21,1512",,"['Sep 27, 2019']",1 hr 48 min,"['Comedy', 'Crime', 'Romance']",40 theaters
+427,"The Gangster, the Cop, the Devil",Well Go USA Entertainment,"$78,65521",,"['Jun 7, 2019']",1 hr 49 min,"['Action', 'Crime', 'Drama', 'Thriller']",21 theaters
+428,The Karate Kid,Fathom Events,"$140,623588",,"['Mar 31, 2019', 'Apr 2, 2019']",2 hr 6 min,"['Action', 'Drama', 'Family', 'Sport']",588 theaters
+429,The Possession of Hannah Grace,Screen Gems,"$6,401,7442,065","$7,700,000","['Nov 30, 2018', 'Feb 21, 2019']",1 hr 26 min,"['Horror', 'Mystery', 'Thriller']","2,298 theaters"
+430,Hamlet,Fathom Events,,,"['Jul 8, 2019', 'Jul 8, 2019']",3 hr 37 min,['Drama'],572 theaters
+431,"Faith, Hope & Love",ArtAffects Entertainment,"$55,40318",,"['Mar 15, 2019', 'Jun 13, 2019']",1 hr 46 min,"['Comedy', 'Romance']",18 theaters
+432,Master Z: The Ip Man Legacy,Well Go USA Entertainment,"$92,66361",,"['Apr 12, 2019', 'May 2, 2019']",1 hr 47 min,"['Action', 'Biography', 'Crime', 'Drama']",61 theaters
+433,Kathy Griffin: A Hell of a Story,Fathom Events,,,"['Jul 31, 2019', 'Jul 31, 2019']",1 hr 46 min,"['Comedy', 'Documentary']",648 theaters
+434,Play the Flute,Five & Two Pictures,,,"['Jan 28, 2019']",1 hr 43 min,['Drama'],11 theaters
+435,Bolshoi Ballet: Carmen Suite/Petrushka,Fathom Events,"$207,523362",,"['May 19, 2019', 'May 19, 2019']",2 hr 20 min,,362 theaters
+436,The Iron Orchard,Santa Rita Film Co,"$45,8638",,"['Feb 22, 2019', 'Apr 4, 2019']",1 hr 52 min,"['Drama', 'History', 'Romance']",42 theaters
+437,Hesburgh,Music Box Films,"$17,0092",,,1 hr 46 min,['Documentary'],36 theaters
+438,Venom,Sony Pictures Releasing,"$80,255,7564,250","$100,000,000","['Oct 5, 2018', 'Jan 24, 2019']",1 hr 52 min,"['Action', 'Sci-Fi', 'Thriller']","4,250 theaters"
+439,Forrest Gump,Fathom Events,"$114,767560","$55,000,000","['Jun 23, 2019']",2 hr 22 min,"['Drama', 'Romance']",560 theaters
+440,Dabangg 3,Yash Raj Films,,,"['Dec 20, 2019']",2 hr 40 min,"['Action', 'Comedy', 'Musical', 'Romance']",294 theaters
+441,Blink of an Eye,Fathom Events,,,"['Sep 12, 2019']",1 hr 28 min,['Documentary'],517 theaters
+442,Friendsgiving Day #2,Fathom Events,,,,1 hr 50 min,,766 theaters
+443,Chasing the Dragon II: Wild Wild Bunch,Well Go USA Entertainment,"$60,97116",,"['Jun 7, 2019', 'Jul 18, 2019']",1 hr 41 min,"['Action', 'Biography', 'Crime', 'Thriller']",16 theaters
+444,Family,The Film Arcade,"$19,5863",,"['Apr 19, 2019', 'May 9, 2019']",1 hr 25 min,['Comedy'],107 theaters
+445,A Beautiful Planet,IMAX,"$223,983137",,"['Apr 29, 2016']",46 min,['Documentary'],155 theaters
+446,Heading Home: The Tale of Team Israel,Menemsha Films,"$12,6781",,"['Dec 14, 2018']",1 hr 27 min,"['Comedy', 'Documentary', 'Drama', 'Sport']",7 theaters
+447,Bolshoi Ballet: Le Corsaire,Fathom Events,"$190,192383",,"['Nov 17, 2019']",,,383 theaters
+448,The Divine Plan,Fathom Events,,,"['Nov 6, 2019']",1 hr 45 min,['Documentary'],
+449,Pagalpanti,Eros International,"$227,714116",,"['Nov 22, 2019']",2 hr 29 min,"['Action', 'Comedy']",116 theaters
+450,Mr. Klein,Rialto Pictures,"$15,9151",,"['Sep 6, 2019']",2 hr 3 min,"['Crime', 'Drama', 'Mystery', 'Thriller', 'War']",6 theaters
+451,42nd Street: The Musical,Fathom Events,,,"['May 1, 2019']",2 hr 35 min,['Musical'],515 theaters
+452,The River and the Wall,Gravitas Ventures,"$57,50457",,"['May 3, 2019']",1 hr 37 min,"['Adventure', 'Documentary']",57 theaters
+453,To Dust,Good Deed Entertainment,"$8,4961",,"['Feb 8, 2019', 'Apr 25, 2019']",1 hr 45 min,"['Comedy', 'Drama']",23 theaters
+454,Giant Little Ones,Vertical Entertainment,"$13,0421",,"['Mar 1, 2019', 'Apr 11, 2019']",1 hr 33 min,['Drama'],32 theaters
+455,Raymonda: Bolshoi Ballet,Fathom Events,"$181,361383",,"['Oct 27, 2019']",2 hr 26 min,['Music'],383 theaters
+456,Bolshoi Ballet: Raymonda,Fathom Events,"$181,361383",,"['Oct 27, 2019']",,,383 theaters
+457,Robin Hood,Lionsgate,"$9,195,6702,827","$100,000,000","['Nov 21, 2018', 'Jan 10, 2019']",1 hr 56 min,"['Action', 'Adventure', 'Thriller']","2,827 theaters"
+458,The Warrior Queen of Jhansi,Roadside Attractions,"$112,208276",,"['Nov 15, 2019', 'Nov 28, 2019']",1 hr 42 min,"['Action', 'Adventure', 'Drama', 'Fantasy', 'War']",277 theaters
+459,India's Most Wanted,FIP,"$98,322110",,"['May 24, 2019', 'Jun 6, 2019']",2 hr 3 min,"['Action', 'Thriller']",110 theaters
+460,"Iyengar: The Man, Yoga, and the Student's Journey",Kino Lorber,"$9,2481",,"['Apr 12, 2019', 'Aug 22, 2019']",1 hr 47 min,['Documentary'],11 theaters
+461,Tigers Are Not Afraid,Variance Films,"$30,7106",,"['Aug 21, 2019']",1 hr 23 min,"['Fantasy', 'Horror', 'Mystery']",19 theaters
+462,Marjaavaan,Eros International,"$101,76165",,"['Nov 15, 2019']",2 hr 32 min,"['Action', 'Romance']",65 theaters
+463,Ashfall,Capelight Pictures,"$36,2012",,"['Dec 19, 2019']",2 hr 10 min,"['Action', 'Drama']",18 theaters
+464,Bolshoi Ballet: The Golden Age,Fathom Events,"$171,916360",,"['Apr 7, 2019', 'Apr 7, 2019']",2 hr 20 min,,360 theaters
+465,Nureyev: Lifting the Curtain,CineLife Entertainment,"$6,3625",,"['Apr 19, 2019', 'Aug 2, 2019']",1 hr 49 min,['Documentary'],18 theaters
+466,Frankie,Sony Pictures Classics,"$19,4354",,"['Oct 25, 2019']",1 hr 40 min,['Drama'],117 theaters
+467,Indian Horse,Elevation Pictures,,,"['Apr 13, 2018']",1 hr 41 min,['Drama'],9 theaters
+468,Asbury Park: Riot Redemption Rock 'n Roll,Trafalgar Releasing,"$7,437205",,"['May 22, 2019', 'May 30, 2019']",1 hr 56 min,"['Documentary', 'Music']",270 theaters
+469,Bad Guys: The Movie,CJ Entertainment,"$45,23311",,"['Sep 20, 2019']",1 hr 54 min,"['Action', 'Crime', 'Thriller']",11 theaters
+470,Bright Ones,Fathom Events,"$165,627614",,"['Apr 22, 2019']",1 hr 22 min,['Musical'],614 theaters
+471,Sunset,Sony Pictures Classics,"$13,8463",,"['Mar 22, 2019', 'May 30, 2019']",2 hr 22 min,"['Drama', 'Mystery']",37 theaters
+472,INXS: Baby Live at Wembly Stadium,Fathom Events,,,"['Dec 9, 2019']",,,516 theaters
+473,Monty Python's Life of Brian,Trafalgar Releasing,"$18,00547",,"['Apr 18, 2019', 'May 2, 2019']",1 hr 34 min,['Comedy'],125 theaters
+474,"Diana Ross: Her Life, Love and Legacy",Fathom Events,,,"['Mar 26, 2019', 'Mar 28, 2019']",2 hr 40 min,,623 theaters
+475,Batman,Fathom Events,"$159,419489","$35,000,000","['May 4, 2019', 'May 4, 2019']",2 hr 6 min,"['Action', 'Adventure']",489 theaters
+476,Them That Follow,1091 Media,"$13,1373",,"['Aug 2, 2019']",1 hr 38 min,"['Drama', 'Thriller']",195 theaters
+477,Synonyms,Kino Lorber,"$17,8912",,"['Oct 25, 2019']",2 hr 3 min,"['Comedy', 'Drama']",13 theaters
+478,The World Before Your Feet,Greenwich Entertainment,"$22,4822",,"['Nov 21, 2018', 'Apr 7, 2019']",1 hr 35 min,['Documentary'],11 theaters
+479,Money,CJ Entertainment,,,"['Mar 21, 2019', 'May 2, 2019']",1 hr 55 min,"['Crime', 'Drama']",11 theaters
+480,The Death and Life of John F. Donovan,Entertainment One,"$33,34025",,"['Aug 23, 2019']",2 hr 3 min,['Drama'],25 theaters
+481,Halston,The Orchard,"$11,6431",,"['May 24, 2019']",1 hr 45 min,"['Biography', 'Documentary']",30 theaters
+482,Peterloo,Amazon Studios,"$26,0023",,"['Apr 5, 2019', 'May 2, 2019']",2 hr 34 min,"['Drama', 'History']",92 theaters
+483,Before You Know It,1091 Media,"$23,0863",,"['Aug 30, 2019']",1 hr 38 min,"['Comedy', 'Drama']",31 theaters
+484,Jay Myself,Oscilloscope,"$18,9091",,"['Jul 31, 2019']",1 hr 19 min,"['Biography', 'Documentary']",17 theaters
+485,Glory,Fathom Events,"$83,347435",,"['Jul 21, 2019']",2 hr 2 min,"['Biography', 'Drama', 'History', 'War']",435 theaters
+486,The Samuel Project,in8 Releasing,"$11,0872",,"['Sep 28, 2018']",1 hr 32 min,['Drama'],2 theaters
+487,Little Woods,Neon,"$57,61033",,"['Apr 19, 2019', 'May 16, 2019']",1 hr 45 min,"['Crime', 'Drama', 'Western']",33 theaters
+488,Trial by Fire,Roadside Attractions,"$78,817109",,"['May 17, 2019', 'May 30, 2019']",2 hr 7 min,"['Biography', 'Drama']",109 theaters
+489,War and Peace,Janus Films,"$22,9761",,"['Feb 15, 2019']",7 hr 2 min,"['Drama', 'History', 'Romance', 'War']",3 theaters
+490,Dogman,Magnolia Pictures,"$13,0133",,"['Apr 12, 2019', 'Jul 18, 2019']",1 hr 43 min,"['Crime', 'Drama', 'Thriller']",12 theaters
+491,Framing John DeLorean,IFC Films,"$6,9911",,"['Jun 7, 2019', 'Jul 28, 2019']",1 hr 49 min,"['Biography', 'Documentary', 'Drama']",28 theaters
+492,Hampstead,IFC Films,"$17,14112",,"['Jun 14, 2019']",1 hr 42 min,"['Comedy', 'Drama', 'Romance']",18 theaters
+493,Doctor Who: Logopolis,Fathom Events,,,"['Mar 13, 2019', 'Mar 13, 2019']",2 hr 24 min,,428 theaters
+494,Hubble 3D,Warner Bros.,"$413,47739",,"['Mar 19, 2010']",45 min,['Documentary'],151 theaters
+495,Canelo vs. Kovalev,Fathom Events,"$140,820471",,"['Nov 2, 2019']",,,471 theaters
+496,The Last Resort,Kino Lorber,"$1,8441",,"['Dec 21, 2018', 'May 9, 2019']",1 hr 10 min,"['Documentary', 'History']",13 theaters
+497,Wilder vs. Ortiz,Fathom Events,"$139,207186",,"['Nov 23, 2019']",4 hr 30 min,['Sport'],186 theaters
+498,Who Will Write Our History,Abramorama,"$13,3901",,"['Jan 18, 2019', 'May 2, 2019']",1 hr 35 min,"['Documentary', 'History']",6 theaters
+499,Rafiki,Film Movement,"$16,01626",,"['Apr 19, 2019']",1 hr 23 min,"['Drama', 'Romance']",26 theaters
+500,Lynryd Skynyrd: Last of the Street Survivors Farewell Tour,Fathom Events,,,"['Nov 7, 2019']",1 hr 50 min,['Music'],
+501,The Other Story,Strand Releasing,"$14,1635",,"['Jun 28, 2019']",1 hr 52 min,['Drama'],11 theaters
+502,Okko's Inn,GKIDS,$7631,,"['Apr 22, 2019', 'May 9, 2019']",1 hr 34 min,"['Adventure', 'Animation', 'Drama', 'Family', 'Fantasy']",465 theaters
+503,Palau the Movie,Trafalgar Releasing,,,"['Mar 29, 2019', 'Apr 7, 2019']",2 hr,"['Biography', 'Drama']",135 theaters
+504,Burning,Well Go USA Entertainment,"$26,1302",,"['Oct 26, 2018', 'Mar 7, 2019']",2 hr 28 min,"['Drama', 'Mystery']",27 theaters
+505,Made in Abyss: Journey's Dawn,Fathom Events,,,"['Mar 20, 2019', 'Mar 25, 2019']",2 hr 19 min,"['Adventure', 'Animation', 'Fantasy', 'Mystery', 'Sci-Fi']",573 theaters
+506,Peppa Celebrates Chinese New Year,STX Entertainment,"$66,91367",,"['Feb 6, 2019', 'Feb 19, 2019']",1 hr 21 min,"['Animation', 'Family']",67 theaters
+507,Mister America,Magnolia Pictures,"$10,0902",,"['Oct 9, 2019']",1 hr 29 min,['Comedy'],125 theaters
+508,The Zoya Factor,FIP,"$79,517100",,"['Sep 20, 2019', 'Oct 3, 2019']",2 hr 14 min,"['Comedy', 'Drama', 'Romance', 'Sport']",100 theaters
+509,Woodstock,Fathom Events,,,"['Aug 15, 2019']",3 hr 4 min,"['Documentary', 'History', 'Music']",781 theaters
+510,Paris Is Burning,Janus Films,"$10,8391","$500,000","['Jun 14, 2019']",1 hr 11 min,['Documentary'],6 theaters
+511,Lost & Found,Hyper Film,,,"['Mar 29, 2019', 'Aug 20, 2019']",1 hr 36 min,"['Comedy', 'Drama']",6 theaters
+512,Mary Magdalene,IFC Films,"$46,64662",,"['Apr 12, 2019', 'May 2, 2019']",2 hr,"['Biography', 'Drama']",62 theaters
+513,Easy Rider,Fathom Events,"$74,448252","$360,000","['Jul 14, 2019', 'Jul 17, 2019']",1 hr 35 min,"['Adventure', 'Drama']",252 theaters
+514,Born to Be Wild,Warner Bros.,"$871,478206",,"['Apr 8, 2011']",40 min,"['Adventure', 'Documentary', 'Short']",208 theaters
+515,A Tuba to Cuba,Blue Fox Entertainment,"$11,2702",,"['Feb 15, 2019', 'Jul 11, 2019']",1 hr 22 min,"['Documentary', 'History', 'Music']",16 theaters
+516,Avant qu'on explose,Entertainment One,"$28,40235",,"['Mar 1, 2019', 'Apr 25, 2019']",1 hr 48 min,['Comedy'],35 theaters
+517,Portrait of a Lady on Fire,Neon,"$67,3442",,"['Dec 6, 2019']",2 hr 2 min,"['Drama', 'Romance']",268 theaters
+518,The Fall of the American Empire,Entertainment One,"$338,21672",,"['Jun 29, 2018']",2 hr 7 min,"['Comedy', 'Crime']",73 theaters
+519,"Ruben Brandt, Collector",Sony Pictures Classics,"$6,0361",,"['Feb 15, 2019', 'May 19, 2019']",1 hr 36 min,"['Action', 'Animation', 'Crime', 'Drama', 'Thriller']",43 theaters
+520,The Reports on Sarah and Saleem,Dada Films,"$10,1024",,"['Jun 12, 2019']",2 hr 7 min,"['Crime', 'Drama', 'Mystery', 'Romance', 'War']",11 theaters
+521,Mob Psycho 100,Fathom Events,"$115,766375",,"['Jan 5, 2019', 'Jan 5, 2019']",,"['Sci-Fi', 'Thriller']",375 theaters
+522,Police Story,Janus Films,"$25,5915",,"['Feb 1, 2019', 'Apr 25, 2019']",1 hr 40 min,"['Action', 'Comedy', 'Crime', 'Thriller']",7 theaters
+523,Be Natural: The Untold Story of Alice Guy-Blaché,Zeitgeist Films,"$3,2371",,"['Apr 19, 2019']",1 hr 43 min,['Documentary'],14 theaters
+524,The Kingmaker,Greenwich Entertainment,"$19,5232",,"['Nov 8, 2019']",1 hr 41 min,['Documentary'],18 theaters
+525,Babylon,Kino Lorber,"$21,2141",,"['Mar 8, 2019', 'Aug 11, 2019']",1 hr 35 min,['Drama'],9 theaters
+526,Branagh Theatre Live: The Winter's Tale,Trafalgar Releasing,"$34,38092",,"['Dec 4, 2019']",3 hr,['Drama'],106 theaters
+527,The Audience,Fathom Events,,,"['Jun 3, 2019', 'Jun 3, 2019']",3 hr,['Drama'],529 theaters
+528,The Brink,Magnolia Pictures,"$18,0634",,"['Mar 28, 2019', 'May 30, 2019']",1 hr 31 min,['Documentary'],124 theaters
+529,"Belle and Sebastian, Friends for Life",Entertainment One,"$38,01738",,"['Jan 25, 2019', 'Apr 4, 2019']",1 hr 31 min,"['Adventure', 'Family']",38 theaters
+530,Cold Case Hammarskjöld,Magnolia Pictures,"$18,28510",,"['Aug 16, 2019']",2 hr 8 min,"['Animation', 'Documentary', 'History']",15 theaters
+531,Downtown 81,Metrograph Pictures,"$25,2081",,"['Oct 25, 2019']",1 hr 12 min,"['Comedy', 'Drama', 'Musical']",8 theaters
+532,Miss & Mrs. Cops,CJ Entertainment,"$15,0732",,"['May 10, 2019', 'Jun 6, 2019']",1 hr 47 min,"['Action', 'Comedy', 'Crime']",9 theaters
+533,Penguin Highway,Eleven Arts,"$22,83384",,"['Apr 12, 2019', 'May 19, 2019']",1 hr 57 min,"['Adventure', 'Animation', 'Family', 'Fantasy', 'Mystery']",168 theaters
+534,Anthropocene: The Human Epoch,Kino Lorber,"$16,0387",,"['Sep 25, 2019', 'Dec 19, 2019']",1 hr 27 min,['Documentary'],110 theaters
+535,The Divine Fury,Well Go USA Entertainment,"$43,86323",,"['Aug 16, 2019']",2 hr 9 min,"['Action', 'Horror', 'Thriller']",23 theaters
+536,Walking on Water,Kino Lorber,"$10,6542",,"['May 17, 2019', 'Sep 22, 2019']",1 hr 45 min,"['Adventure', 'Comedy', 'Documentary', 'History']",9 theaters
+537,Mojin: The Worm Valley,Well Go USA Entertainment,"$50,58317",,"['Jan 4, 2019', 'Jan 31, 2019']",1 hr 50 min,"['Action', 'Adventure', 'Fantasy']",17 theaters
+538,Wonders of the Sea,Fathom Events,,,"['Jan 17, 2019']",1 hr 22 min,['Documentary'],266 theaters
+539,Mirai,GKIDS,"$63,32569",,"['Nov 29, 2018', 'Feb 21, 2019']",1 hr 38 min,"['Adventure', 'Animation', 'Drama', 'Family', 'Fantasy']",780 theaters
+540,Tazza: One-Eyed Jack,Well Go USA Entertainment,"$41,13922",,"['Sep 20, 2019']",2 hr 19 min,"['Crime', 'Drama']",22 theaters
+541,The Third Wife,Film Movement,"$3,3391",,"['May 15, 2019']",1 hr 36 min,['Drama'],8 theaters
+542,The Song of Names,Sony Pictures Classics,"$39,45210",,"['Dec 25, 2019']",1 hr 53 min,['Drama'],182 theaters
+543,The Image Book,Kino Lorber,"$13,85433",,"['Jan 25, 2019', 'Apr 25, 2019']",1 hr 24 min,['Drama'],33 theaters
+544,Margaret Atwood: Live in Cinemas,Fathom Events,,,"['Sep 10, 2019']",1 hr 50 min,['News'],499 theaters
+545,Rojo,Distrib Films,"$12,4792",,"['Jul 12, 2019']",1 hr 49 min,"['Drama', 'Mystery', 'Thriller']",7 theaters
+546,Always Miss You,China Lion Film Distribution,"$46,72014",,"['May 3, 2019', 'May 30, 2019']",1 hr 38 min,['Romance'],14 theaters
+547,Mapplethorpe,The Samuel Goldwyn Company,"$17,0003",,"['Mar 1, 2019', 'Apr 21, 2019']",1 hr 42 min,"['Biography', 'Drama']",19 theaters
+548,The Crossing,CMC Pictures,"$40,24328",,"['Mar 15, 2019', 'Apr 11, 2019']",1 hr 39 min,['Drama'],28 theaters
+549,Loopers: The Caddie's Long Walk,Gravitas Ventures,"$28,25368",,"['Jun 7, 2019']",1 hr 20 min,"['Documentary', 'Sport']",68 theaters
+550,My Dear Liar,CMC Pictures Holdings,"$36,78729",,"['Nov 8, 2019']",1 hr 56 min,['Drama'],29 theaters
+551,A Bigger Splash,Metrograph Pictures,"$18,0001",,"['Jun 21, 2019']",1 hr 46 min,"['Biography', 'Documentary', 'Drama']",11 theaters
+552,Sound! Euphonium the Movie - Our Promise: A Brand New Day,Fathom Events,,,"['Jul 11, 2019', 'Jul 15, 2019']",1 hr 40 min,"['Animation', 'Drama', 'Family', 'Music']",445 theaters
+553,Varda by Agnès,Janus Films,"$12,3902",,"['Nov 22, 2019']",1 hr 55 min,"['Biography', 'Documentary']",10 theaters
+554,Take Point,CJ Entertainment,"$21,1892",,"['Dec 27, 2018', 'Jan 24, 2019']",1 hr 59 min,['Action'],25 theaters
+555,Ramen Shop,Strand Releasing,"$5,3032",,"['Mar 22, 2019', 'Jun 27, 2019']",1 hr 29 min,['Drama'],10 theaters
+556,The Lumber Baron,Indican Pictures,"$15,05911",,"['May 24, 2019', 'Sep 1, 2019']",2 hr,"['Drama', 'History', 'Mystery']",11 theaters
+557,Jim Allison: Breakthrough,Dada Films,"$8,6793",,"['Sep 27, 2019']",1 hr 30 min,['Documentary'],10 theaters
+558,ECCO,Citadel Film Group,"$48,205155",,"['Aug 9, 2019']",2 hr 3 min,"['Crime', 'Drama', 'Thriller']",155 theaters
+559,Sonchiriya,PackYourBag Films,"$60,17070",,"['Mar 1, 2019', 'Mar 14, 2019']",2 hr 23 min,"['Action', 'Crime', 'Drama']",70 theaters
+560,The Chambermaid,Kino Lorber,"$5,4901",,"['Jun 28, 2019', 'Nov 21, 2019']",1 hr 42 min,['Drama'],5 theaters
+561,Cyrano de Bergerac,Fathom Events,,,"['Jan 23, 2019']",,,301 theaters
+562,Mayday Life,China Lion Film Distribution,"$47,7698",,"['May 31, 2019', 'Jun 13, 2019']",1 hr 52 min,['Music'],11 theaters
+563,Skid Row Marathon,Fathom Events,"$84,997438",,"['Oct 14, 2019']",1 hr 25 min,['Documentary'],438 theaters
+564,Papi Chulo,Blue Fox Entertainment,"$7,2572",,"['Jun 7, 2019', 'Aug 15, 2019']",1 hr 38 min,"['Comedy', 'Drama']",16 theaters
+565,Woodstock,PBS Distribution,"$8,1502",,"['May 24, 2019', 'Jul 7, 2019']",1 hr 46 min,"['Documentary', 'History']",11 theaters
+566,Once Upon a Deadpool,Twentieth Century Fox,"$2,683,2001,566","$110,000,000","['Dec 12, 2018', 'Jan 24, 2019']",1 hr 59 min,"['Action', 'Adventure', 'Comedy', 'Sci-Fi']","1,566 theaters"
+567,Looking Up,China Lion Film Distribution,"$36,54113",,"['Jul 19, 2019', 'Aug 4, 2019']",2 hr 27 min,['Drama'],13 theaters
+568,High Strung Free Dance,Atlas Distribution Company,"$54,601106",,"['Oct 11, 2019']",1 hr 43 min,"['Music', 'Romance']",106 theaters
+569,Ms. Purple,Oscilloscope,"$15,7341",,"['Sep 6, 2019']",1 hr 27 min,['Drama'],23 theaters
+570,The Old Man & the Gun,Fox Searchlight Pictures,"$142,1315",,,1 hr 33 min,"['Biography', 'Comedy', 'Crime', 'Drama', 'Romance']","1,042 theaters"
+571,Swing Kids,Well Go USA Entertainment,"$43,95215",,"['Dec 21, 2018', 'Jan 27, 2019']",2 hr 13 min,['Drama'],21 theaters
+572,Saint Judy,Blue Fox Entertainment,"$39,27555",,"['Mar 1, 2019', 'Apr 4, 2019']",1 hr 46 min,"['Biography', 'Drama']",55 theaters
+573,The Heiresses,Distrib Films,"$11,3042",,"['Jan 16, 2019', 'Jun 6, 2019']",1 hr 38 min,['Drama'],6 theaters
+574,A Faithful Man,Kino Lorber,"$7,3211",,"['Jul 19, 2019', 'Nov 8, 2019']",1 hr 15 min,"['Comedy', 'Drama', 'Romance']",6 theaters
+575,Ploey,Viva Pictures Distribution,,,"['Apr 26, 2019']",1 hr 23 min,"['Adventure', 'Animation', 'Family']",20 theaters
+576,Fast Colour,Lionsgate,"$37,59425",,"['Apr 19, 2019', 'May 16, 2019']",1 hr 40 min,"['Drama', 'Sci-Fi', 'Thriller']",25 theaters
+577,Christ Stopped at Eboli,Rialto Pictures,"$9,0061",,"['Apr 3, 2019']",2 hr 30 min,['Drama'],3 theaters
+578,Triple Threat,Well Go USA Entertainment,"$5,93612",,"['Mar 19, 2019']",1 hr 36 min,"['Action', 'Thriller']",12 theaters
+579,"Hale County This Morning, This Evening",The Cinema Guild,"$8,6402",,"['Sep 14, 2018', 'Apr 20, 2019']",1 hr 16 min,['Documentary'],8 theaters
+580,Savage,Well Go USA Entertainment,"$36,59019",,"['May 3, 2019', 'May 23, 2019']",1 hr 52 min,"['Action', 'Crime', 'Thriller']",19 theaters
+581,5B,Verizon Media/RYOT,"$38,314128",,"['Jun 14, 2019', 'Jul 11, 2019']",1 hr 34 min,['Documentary'],128 theaters
+582,Working Woman,Zeitgeist Films,"$3,8752",,"['Mar 27, 2019', 'Jun 30, 2019']",1 hr 33 min,['Drama'],7 theaters
+583,Cliffs of Freedom,Round Hill Media,"$16,3506",,"['Mar 1, 2019', 'Apr 18, 2019']",2 hr 17 min,['Drama'],10 theaters
+584,3 Faces,Kino Lorber,"$7,0651",,"['Mar 8, 2019', 'Jul 4, 2019']",1 hr 40 min,"['Drama', 'History']",7 theaters
+585,Storm Boy,Good Deed Entertainment,"$46,67656",,"['Apr 5, 2019', 'Apr 25, 2019']",1 hr 39 min,"['Adventure', 'Drama', 'Family']",56 theaters
+586,Free Trip to Egypt,Fathom Events,"$4,081",,"['Jun 12, 2019', 'Jun 12, 2019']",1 hr 38 min,"['Adventure', 'Comedy', 'Documentary', 'Drama']",447 theaters
+587,The Battle of Jangsari,Well Go USA Entertainment,"$8,5522",,"['Oct 4, 2019']",1 hr 44 min,"['Action', 'Drama', 'War']",20 theaters
+588,Styx,Film Movement,"$3,4201",,"['Feb 27, 2019', 'Jun 13, 2019']",1 hr 34 min,['Drama'],17 theaters
+589,Batman Returns,Fathom Events,,"$80,000,000","['May 6, 2019', 'May 6, 2019']",2 hr 6 min,"['Action', 'Crime', 'Fantasy']",507 theaters
+590,Edie,Music Box Films,"$8,8017",,"['Sep 6, 2019', 'Dec 26, 2019']",1 hr 42 min,['Drama'],11 theaters
+591,Diamantino,Kino Lorber,"$6,4121",,"['May 24, 2019', 'Sep 5, 2019']",1 hr 36 min,"['Comedy', 'Drama', 'Fantasy', 'Sci-Fi']",5 theaters
+592,The Body,Eros International,"$45,99678",,"['Dec 13, 2019']",1 hr 41 min,"['Mystery', 'Thriller']",78 theaters
+593,The Silence of Others,Argot Pictures,"$7,8681",,"['May 8, 2019']",1 hr 36 min,['Documentary'],6 theaters
+594,The Divine Move 2: The Wrathful,CJ Entertainment,"$12,2692",,"['Nov 15, 2019']",1 hr 46 min,['Action'],10 theaters
+595,Being Frank,The Film Arcade,"$16,3923",,"['Jun 14, 2019', 'Jul 11, 2019']",1 hr 49 min,['Comedy'],13 theaters
+596,Cunningham,Magnolia Pictures,"$18,4224",,"['Dec 13, 2019']",1 hr 33 min,"['Biography', 'Documentary', 'Music']",23 theaters
+597,This Changes Everything,Fathom Events,,,"['Jul 22, 2019', 'Jul 22, 2019']",1 hr 36 min,['Documentary'],367 theaters
+598,End of the Century,The Cinema Guild,"$10,0631",,"['Aug 16, 2019']",1 hr 24 min,['Drama'],6 theaters
+599,Beautiful Boy,Amazon Studios,"$218,8884",,,2 hr,"['Biography', 'Drama']",776 theaters
+600,Sauvage / Wild,Strand Releasing,"$7,4401",,"['Apr 10, 2019', 'Jun 13, 2019']",1 hr 39 min,['Drama'],7 theaters
+601,The Mountain,Kino Lorber,"$15,7852",,"['Jul 26, 2019', 'Oct 31, 2019']",1 hr 46 min,['Drama'],15 theaters
+602,Last Year at Marienbad,Janus Films,"$7,6441",,"['May 17, 2019']",1 hr 34 min,"['Drama', 'Mystery']",5 theaters
+603,By the Grace of God,Music Box Films,"$7,7652",,"['Oct 18, 2019']",2 hr 17 min,"['Crime', 'Drama']",11 theaters
+604,John Fogerty: 50 Year Trip - Live at Red Rocks,Fathom Events,,,"['Nov 11, 2019']",1 hr 50 min,['Music'],459 theaters
+605,Mickey and the Bear,Utopia,"$9,3751",,"['Nov 15, 2019']",1 hr 28 min,['Drama'],22 theaters
+606,Heavy Water,Fathom Events,,,"['Jun 13, 2019', 'Jun 13, 2019']",1 hr 24 min,['Documentary'],284 theaters
+607,Maria By Callas,Sony Pictures Classics,"$91,91516",,"['Nov 2, 2018', 'Feb 14, 2019']",1 hr 59 min,"['Biography', 'Documentary', 'Music']",149 theaters
+608,The Hate U Give,Twentieth Century Fox,"$512,03536","$23,000,000",,2 hr 13 min,"['Crime', 'Drama']","2,375 theaters"
+609,Plácido Domingo Gala,Fathom Events,"$52,502217",,"['Sep 7, 2019']",2 hr,,217 theaters
+610,One Cut of the Dead,Variance Films,"$6,3602",,"['Sep 13, 2019']",1 hr 36 min,"['Comedy', 'Horror']",7 theaters
+611,QT8: The First Eight,Fathom Events,,,"['Oct 21, 2019']",1 hr 43 min,['Documentary'],459 theaters
+612,Greener Grass,IFC Films,"$9,3052",,"['Oct 18, 2019']",1 hr 35 min,['Comedy'],36 theaters
+613,"Cyrano, My Love",Roadside Attractions,,,"['Feb 8, 2019']",1 hr 50 min,"['Comedy', 'Drama', 'History']",18 theaters
+614,Making Waves: The Art of Cinematic Sound,Matson Films,"$12,3483",,"['Oct 25, 2019']",1 hr 34 min,['Documentary'],11 theaters
+615,Ophelia,IFC Films,"$22,14558",,"['Jun 28, 2019', 'Jul 28, 2019']",1 hr 54 min,"['Drama', 'History', 'Romance', 'Thriller', 'War']",58 theaters
+616,Clinton Road,Nocturnal Features,"$38,88010",,"['Jun 14, 2019', 'Jun 20, 2019']",1 hr 17 min,['Horror'],10 theaters
+617,"Love, Antosha",Lurker Films,"$7,1501",,"['Aug 2, 2019']",1 hr 32 min,"['Biography', 'Documentary', 'Music']",10 theaters
+618,Free Trip to Egypt,Independent,"$1,7181",,"['May 31, 2019']",1 hr 38 min,"['Adventure', 'Comedy', 'Documentary', 'Drama']",5 theaters
+619,The Bounty Killer,Indican Pictures,"$20,80515",,"['Jan 25, 2019', 'Feb 21, 2019']",1 hr 27 min,"['Action', 'Western']",15 theaters
+620,The Final Wish,Fathom Events,,,"['Jan 24, 2019']",1 hr 35 min,['Horror'],150 theaters
+621,The Queen,Kino Lorber,"$7,1731",,"['Jun 28, 2019']",1 hr 8 min,['Documentary'],7 theaters
+622,Becoming Astrid,Music Box Films,"$5,3613",,"['Nov 23, 2018', 'Mar 28, 2019']",2 hr 3 min,"['Biography', 'Drama']",16 theaters
+623,Under the Silver Lake,A24,"$35,2702",,"['Apr 19, 2019', 'Apr 25, 2019']",2 hr 19 min,"['Crime', 'Drama', 'Mystery', 'Thriller']",2 theaters
+624,Sympathy for the Devil,eOne Entertainment,"$12,1446",,"['Nov 29, 2019']",1 hr 40 min,['War'],8 theaters
+625,¡He matado a mi marido!,"Hammond Entertainment, LLC","$18,36511",,"['Mar 1, 2019', 'Jun 20, 2019']",1 hr 48 min,"['Comedy', 'Crime', 'Romance']",11 theaters
+626,High on the Hog,Indican Pictures,"$15,1255",,"['Apr 19, 2019', 'Jun 20, 2019']",1 hr 25 min,"['Action', 'Crime', 'Drama', 'Thriller']",6 theaters
+627,The Proposal,Oscilloscope,"$10,4491",,"['May 24, 2019', 'Jul 18, 2019']",1 hr 26 min,['Documentary'],6 theaters
+628,What Is Democracy?,Zeitgeist Films,"$6,2841",,"['Jan 16, 2019', 'Apr 25, 2019']",1 hr 47 min,['Documentary'],6 theaters
+629,Maze,Lightyear Entertainment,"$8,3082",,"['Mar 22, 2019', 'May 12, 2019']",1 hr 32 min,"['Crime', 'Drama', 'History', 'Mystery', 'Thriller']",9 theaters
+630,American Dharma,Utopia,"$7,2871",,"['Nov 1, 2019']",1 hr 35 min,"['Biography', 'Documentary']",11 theaters
+631,Carmine Street Guitars,Abramorama,"$6,0901",,"['Apr 24, 2019', 'Jun 13, 2019']",1 hr 20 min,"['Documentary', 'Music']",5 theaters
+632,The Star,Sony Pictures Releasing,"$43,510623","$20,000,000","['Dec 7, 2019']",1 hr 26 min,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",623 theaters
+633,Fagara,China Lion Film Distribution,"$25,20613",,"['Sep 13, 2019', 'Oct 3, 2019']",1 hr 58 min,"['Comedy', 'Drama']",13 theaters
+634,Immortal Hero,Freestyle Releasing,"$20,62912",,"['Oct 18, 2019']",1 hr 58 min,['Drama'],12 theaters
+635,Vita & Virginia,IFC Films,"$3,4081",,"['Aug 23, 2019']",1 hr 50 min,"['Biography', 'Drama', 'Romance']",32 theaters
+636,For Sama,PBS Distribution,"$9,3503",,"['Jul 26, 2019']",1 hr 40 min,"['Documentary', 'War']",4 theaters
+637,Midnight Traveler,Oscilloscope,"$3,5491",,"['Sep 18, 2019']",1 hr 28 min,"['Documentary', 'War']",7 theaters
+638,Clemency,Neon,"$35,4442",,"['Dec 27, 2019']",1 hr 52 min,['Drama'],127 theaters
+639,Charlie Says,IFC Films,"$20,68438",,"['May 10, 2019', 'May 23, 2019']",1 hr 50 min,"['Biography', 'Crime', 'Drama']",38 theaters
+640,Slut in a Good Way,Comedy Dynamics,"$21,5677",,"['Mar 28, 2019', 'Apr 7, 2019']",1 hr 29 min,['Comedy'],7 theaters
+641,Aniara,Magnolia Pictures,"$19,29719",,"['May 17, 2019', 'Jun 13, 2019']",1 hr 46 min,"['Drama', 'Sci-Fi']",19 theaters
+642,Zilla and Zoe,Indican Pictures,"$11,3924",,"['May 17, 2019', 'Sep 1, 2019']",1 hr 44 min,['Comedy'],5 theaters
+643,Shed of the Dead,Indican Pictures,"$18,96010",,"['May 17, 2019', 'Jun 20, 2019']",1 hr 22 min,"['Comedy', 'Horror']",10 theaters
+644,The Raft,Metrograph Pictures,,,"['Jun 7, 2019']",1 hr 37 min,['Documentary'],8 theaters
+645,The Cave,National Geographic Entertainment,"$21,1852",,"['Oct 18, 2019']",1 hr 47 min,"['Documentary', 'War']",10 theaters
+646,Batman Forever,Fathom Events,"$38,014434","$100,000,000","['May 12, 2019', 'May 12, 2019']",2 hr 1 min,"['Action', 'Adventure', 'Fantasy']",434 theaters
+647,Union,Indican Pictures,"$11,9004",,"['Aug 2, 2019', 'Nov 7, 2019']",2 hr 15 min,"['Drama', 'History', 'War']",6 theaters
+648,The Quiet One,IFC Films,"$7,6956",,"['Jun 21, 2019', 'Jul 28, 2019']",1 hr 38 min,"['Documentary', 'Music']",13 theaters
+649,The Death of Dick Long,A24,"$26,63030",,"['Sep 27, 2019']",1 hr 40 min,"['Comedy', 'Crime', 'Drama']",30 theaters
+650,The Sower,Film Movement,"$4,1282",,"['Mar 1, 2019', 'May 30, 2019']",1 hr 38 min,"['Drama', 'Romance']",5 theaters
+651,Buñuel in the Labyrinth of the Turtles,GKIDS,"$5,6912",,"['Aug 16, 2019']",1 hr 20 min,"['Animation', 'Biography', 'Drama', 'History']",8 theaters
+652,Yardie,Rialto Pictures,"$22,05677",,"['Mar 15, 2019', 'Mar 28, 2019']",1 hr 41 min,"['Crime', 'Drama']",77 theaters
+653,Britt-Marie Was Here,Cohen Media Group,"$4,0903",,"['Sep 20, 2019']",1 hr 37 min,"['Comedy', 'Drama', 'Sport']",11 theaters
+654,Loro,IFC Films,"$5,3171",,"['Sep 20, 2019']",2 hr 31 min,"['Biography', 'Drama']",11 theaters
+655,White Snake,GKIDS,"$2,7911",,"['Nov 15, 2019']",1 hr 39 min,"['Action', 'Adventure', 'Animation', 'Fantasy', 'Romance']",21 theaters
+656,Love Live! Sunshine!! The School Idol Movie: Over The Rainbow,FUNimation Entertainment,,,"['Aug 5, 2019']",1 hr 40 min,"['Animation', 'Music']",30 theaters
+657,The Wild Pear Tree,The Cinema Guild,"$4,9231",,"['Jan 30, 2019']",3 hr 8 min,['Drama'],5 theaters
+658,Killer Unicorn,Indican Pictures,"$15,5155",,"['Jun 14, 2019', 'Sep 1, 2019']",1 hr 14 min,['Horror'],5 theaters
+659,Moonlight Sonata: Deafness in Three Movements,Abramorama,"$5,4241",,"['Sep 13, 2019']",1 hr 30 min,['Documentary'],12 theaters
+660,An Elephant Sitting Still,KimStim,"$10,8541",,"['Mar 8, 2019', 'Mar 28, 2019']",3 hr 50 min,['Drama'],2 theaters
+661,Knife + Heart,Altered Innocence,"$4,7282",,"['Mar 15, 2019', 'May 9, 2019']",1 hr 42 min,"['Drama', 'Horror', 'Romance', 'Thriller']",6 theaters
+662,An Acceptable Loss,IFC Films,"$3,4471",,"['Jan 18, 2019', 'Feb 7, 2019']",1 hr 42 min,"['Drama', 'Thriller']",25 theaters
+663,10E,in8 Releasing,"$28,8632",,"['Sep 27, 2019']",,['Comedy'],2 theaters
+664,Ága,Big World Pictures,"$2,5531",,"['Sep 4, 2019']",1 hr 36 min,['Drama'],3 theaters
+665,Desolation Center,Matson Films,"$4,9383",,"['Sep 13, 2019']",1 hr 33 min,['Documentary'],10 theaters
+666,Gift,Matson Films,"$4,2552",,"['Oct 11, 2019']",1 hr 30 min,['Documentary'],10 theaters
+667,Buddy,Grasshopper Film,,,"['Mar 20, 2019']",1 hr 26 min,['Documentary'],4 theaters
+668,Horn from the Heart: The Paul Butterfield Story,Abramorama,"$3,0861",,"['Oct 17, 2018', 'Jan 24, 2019']",1 hr 35 min,"['Biography', 'Documentary', 'Music']",2 theaters
+669,Pasolini,Kino Lorber,"$8,3621",,"['May 10, 2019', 'Aug 15, 2019']",1 hr 24 min,"['Biography', 'Drama']",4 theaters
+670,Space Station 3D,IMAX,"$489,48824",,"['Apr 19, 2002']",47 min,['Documentary'],64 theaters
+671,Sorry Angel,Strand Releasing,"$6,5591",,"['Feb 15, 2019', 'May 9, 2019']",2 hr 12 min,"['Drama', 'Romance']",4 theaters
+672,Los Reyes,Grasshopper Film,"$5,6612",,"['Aug 16, 2019']",1 hr 18 min,['Documentary'],4 theaters
+673,The Nun,Rialto Pictures,"$6,2731",,"['Jan 4, 2019', 'Mar 10, 2019']",2 hr 20 min,['Drama'],5 theaters
+674,Deep Sea,Warner Bros.,"$700,21343",,"['Mar 3, 2006']",41 min,"['Documentary', 'Short']",47 theaters
+675,Lionel Richie at Glastonbury,Fathom Events,,,"['Nov 19, 2019']",1 hr 40 min,['Music'],288 theaters
+676,The Ground Beneath My Feet,Strand Releasing,"$3,2951",,"['Jul 26, 2019']",1 hr 48 min,['Drama'],4 theaters
+677,Vault,Grindstone Entertainment,,,"['Jun 7, 2019', 'Jun 13, 2019']",1 hr 39 min,"['Action', 'Crime', 'Drama', 'History', 'Thriller']",2 theaters
+678,Recorder: The Marion Stokes Project,Zeitgeist Films,"$8,2161",,"['Nov 15, 2019']",1 hr 27 min,['Documentary'],5 theaters
+679,Batman & Robin,Fathom Events,,"$125,000,000","['May 14, 2019', 'May 14, 2019']",2 hr 5 min,"['Action', 'Sci-Fi']",429 theaters
+680,In the Aisles,Music Box Films,$9221,,"['Jun 14, 2019']",2 hr 5 min,['Drama'],6 theaters
+681,Hotel by the River,The Cinema Guild,"$5,5341",,"['Feb 15, 2019', 'Jun 27, 2019']",1 hr 36 min,['Drama'],4 theaters
+682,The Wind,IFC Films,"$14,13830",,"['Apr 5, 2019', 'Apr 18, 2019']",1 hr 26 min,"['Horror', 'Western']",30 theaters
+683,The Load,Grasshopper Film,"$4,0941",,"['Aug 30, 2019']",1 hr 38 min,['Drama'],2 theaters
+684,El Norte,Fathom Events,"$27,920179",,"['Sep 15, 2019']",2 hr 21 min,['Drama'],179 theaters
+685,Kind Hearts and Coronets,Rialto Pictures,"$8,0041",,"['Nov 27, 2019']",1 hr 46 min,"['Comedy', 'Crime']",3 theaters
+686,"Leaving Home, Coming Home: A Portrait of Robert Frank",Greenwich Entertainment,"$4,2481",,"['May 29, 2019']",1 hr 25 min,['Documentary'],3 theaters
+687,The Day Shall Come,IFC Films,"$14,85430",,"['Sep 27, 2019']",1 hr 27 min,"['Comedy', 'Crime']",30 theaters
+688,Memory: The Origins of Alien,Screen Media Films,"$14,70419",,"['Oct 4, 2019']",1 hr 35 min,['Documentary'],19 theaters
+689,Wrestle,Oscilloscope,"$6,0271",,"['Feb 22, 2019', 'Apr 21, 2019']",1 hr 36 min,"['Documentary', 'Sport']",5 theaters
+690,Donnybrook,IFC Films,"$9,80280",,"['Feb 15, 2019', 'Feb 27, 2019']",1 hr 41 min,"['Drama', 'Thriller']",80 theaters
+691,Neither Wolf Nor Dog,InYo Entertainment,,,"['Jan 20, 2017']",1 hr 50 min,['Drama'],1 theater
+692,Asako I & II,Grasshopper Film,"$5,6902",,"['May 17, 2019']",1 hr 59 min,"['Drama', 'Romance']",3 theaters
+693,Return of the Hero,Distrib Films,$7611,,"['Aug 30, 2018', 'Jan 31, 2019']",1 hr 30 min,"['Comedy', 'History']",3 theaters
+694,Invisible Life,Amazon Studios,"$8,1272",,"['Dec 20, 2019']",2 hr 19 min,['Drama'],18 theaters
+695,Chasing Einstein,Atlas Distribution Company,"$9,7084",,"['Sep 13, 2019']",1 hr 22 min,['Documentary'],4 theaters
+696,Vox Lux,Neon,"$155,7146",,"['Dec 7, 2018', 'Jan 6, 2019']",1 hr 54 min,"['Drama', 'Music']",325 theaters
+697,Piranhas,Music Box Films,"$2,8981",,,1 hr 45 min,"['Crime', 'Drama']",10 theaters
+698,Wildlife,IFC Films,"$104,5894",,"['Oct 19, 2018']",1 hr 45 min,['Drama'],105 theaters
+699,Celebration,KimStim,"$5,0341",,"['Oct 2, 2019']",1 hr 14 min,['Documentary'],1 theater
+700,Night School,Universal Pictures,"$27,257,6153,010","$29,000,000","['Sep 28, 2018', 'Jan 3, 2019']",1 hr 51 min,['Comedy'],"3,019 theaters"
+701,Hyènes,Metrograph Pictures,,,"['Apr 19, 2019']",1 hr 50 min,"['Comedy', 'Drama']",4 theaters
+702,Light from Light,Grasshopper Film,"$4,7192",,"['Nov 1, 2019']",1 hr 22 min,['Drama'],5 theaters
+703,Island of Lemurs: Madagascar,Warner Bros.,"$188,30737",,"['Apr 4, 2014']",39 min,"['Adventure', 'Biography', 'Documentary', 'Family', 'Short']",302 theaters
+704,Jane and Emma,Excel Entertainment,"$84,51221",,"['Oct 12, 2018', 'Feb 28, 2019']",1 hr 30 min,['Drama'],29 theaters
+705,Wicked Witches,Nocturnal Features,"$21,60010",,"['Aug 9, 2019']",1 hr 19 min,['Horror'],10 theaters
+706,The Hole in the Ground,A24,"$9,03024",,"['Mar 1, 2019', 'Mar 7, 2019']",1 hr 30 min,"['Drama', 'Horror', 'Mystery']",24 theaters
+707,Redoubt,Grasshopper Film,"$5,2531",,"['Nov 1, 2019']",2 hr 14 min,['Drama'],3 theaters
+708,The Gospel of Eureka,Kino Lorber,"$3,5171",,"['Feb 8, 2019', 'Apr 11, 2019']",1 hr 15 min,"['Documentary', 'Music']",3 theaters
+709,The All Americans,Abramorama,"$7,8053",,"['Nov 8, 2019']",,['Adult'],5 theaters
+710,Light of My Life,Saban Films,"$9,35828",,"['Aug 9, 2019']",1 hr 59 min,"['Drama', 'Sci-Fi', 'Thriller']",68 theaters
+711,General Magic,Gravitas Ventures,"$2,2675",,"['May 10, 2019']",1 hr 33 min,['Documentary'],5 theaters
+712,The Sound of Silence,IFC Films,"$5,4492",,"['Sep 13, 2019']",1 hr 25 min,['Drama'],31 theaters
+713,Prassthanam,PackYourBag Films,"$12,73732",,"['Sep 20, 2019']",2 hr 21 min,"['Action', 'Drama']",32 theaters
+714,The Perfect Race,Five & Two Pictures,"$3,4001",,"['Oct 14, 2019']",,['Drama'],2 theaters
+715,Armstrong,Gravitas Ventures,"$3,07112",,"['Jul 12, 2019', 'Jul 25, 2019']",1 hr 40 min,"['Biography', 'Documentary']",45 theaters
+716,Girls of the Sun,Cohen Media Group,"$7,8018",,"['Apr 12, 2019', 'Apr 25, 2019']",1 hr 55 min,"['Drama', 'War']",11 theaters
+717,Out of Blue,IFC Films,"$11,71935",,"['Mar 22, 2019', 'Mar 28, 2019']",1 hr 49 min,"['Crime', 'Drama', 'Mystery']",35 theaters
+718,Black Mother,Grasshopper Film,,,"['Mar 9, 2019', 'Jun 13, 2019']",1 hr 17 min,['Documentary'],4 theaters
+719,Before Stonewall,First Run,"$4,5881",,"['Jun 21, 2019', 'Jul 11, 2019']",1 hr 27 min,"['Documentary', 'History']",2 theaters
+720,The Return of Martin Guerre,Cohen Media Group,"$8,6822",,"['Jul 5, 2019', 'Jul 18, 2019']",2 hr 2 min,"['Biography', 'Crime', 'Drama', 'History', 'Mystery', 'Romance']",2 theaters
+721,Midnight Diner,Well Go USA Entertainment,"$10,86113",,"['Sep 20, 2019']",1 hr 43 min,['Drama'],13 theaters
+722,"Phoenix, Oregon",Joma Films,"$2,9811",,"['May 2, 2019', 'Jun 20, 2019']",1 hr 48 min,['Comedy'],6 theaters
+723,The Cranes Are Flying,Janus Films,,,"['Jul 12, 2019']",1 hr 35 min,"['Drama', 'Romance', 'War']",2 theaters
+724,The House That Jack Built,IFC Films,"$34,27332",,"['Dec 14, 2018', 'Jan 24, 2019']",2 hr 32 min,"['Crime', 'Drama', 'Horror']",32 theaters
+725,Citizen K,Greenwich Entertainment,"$10,5711",,"['Nov 22, 2019']",2 hr 6 min,['Documentary'],15 theaters
+726,Ode to Joy,IFC Films,"$3,5682",,"['Aug 9, 2019']",1 hr 37 min,['Comedy'],16 theaters
+727,Scandalous: The True Story of the National Enquirer,Magnolia Pictures,"$10,83712",,"['Nov 15, 2019']",1 hr 37 min,['Documentary'],13 theaters
+728,Joseph Pulitzer: Voice of the People,First Run,"$5,6861",,"['Mar 1, 2019', 'Mar 17, 2019']",1 hr 24 min,['Documentary'],5 theaters
+729,Ballon,Distrib Films,,,"['Sep 6, 2019']",2 hr 5 min,"['Drama', 'History', 'Thriller']",5 theaters
+730,Too Late to Die Young,KimStim,"$6,1961",,"['May 31, 2019', 'Jun 13, 2019']",1 hr 50 min,['Drama'],4 theaters
+731,Tremors,Film Movement,"$3,3404",,"['Nov 29, 2019']",1 hr 47 min,['Drama'],6 theaters
+732,Chained for Life,Kino International,"$7,4152",,"['Sep 13, 2019', 'Jan 9, 2020']",1 hr 31 min,['Drama'],3 theaters
+733,Three Peaks,Greenwich Entertainment,"$1,4191",,"['Jun 28, 2019']",1 hr 34 min,['Drama'],7 theaters
+734,Virginia Minnesota,Indican Pictures,"$3,8442",,"['Mar 1, 2019', 'May 2, 2019']",1 hr 38 min,"['Comedy', 'Drama']",2 theaters
+735,Piercing,Greenwich Entertainment,"$8,75218",,"['Feb 1, 2019', 'Feb 14, 2019']",1 hr 21 min,"['Horror', 'Mystery', 'Thriller']",18 theaters
+736,Starfish,Yellow Veil Pictures,,,"['Mar 15, 2019', 'Apr 25, 2019']",1 hr 39 min,"['Drama', 'Horror', 'Sci-Fi']",6 theaters
+737,Little Joe,Magnolia Pictures,"$10,62612",,"['Dec 6, 2019']",1 hr 45 min,"['Drama', 'Horror', 'Mystery', 'Sci-Fi']",12 theaters
+738,To the Arctic 3D,Warner Bros.,"$270,22850",,"['Apr 20, 2012']",40 min,['Documentary'],52 theaters
+739,A Private War,Aviron Pictures,"$60,4914",,,1 hr 50 min,"['Biography', 'Drama', 'War']",865 theaters
+740,Airpocalypse,China Lion Film Distribution,"$35,36321",,"['Dec 21, 2018', 'Jan 10, 2019']",1 hr 45 min,"['Action', 'Adventure', 'Comedy', 'Fantasy']",21 theaters
+741,Trinity Seven The Movie 2: Heavens Library & Crimson Lord,Atlas Distribution Company,"$14,85318",,"['Mar 29, 2019', 'Apr 1, 2019']",1 hr 3 min,"['Action', 'Animation', 'Comedy', 'Fantasy', 'Romance']",95 theaters
+742,Midnight Family,1091 Media,"$3,0301",,"['Dec 6, 2019']",1 hr 21 min,"['Action', 'Crime', 'Documentary', 'Drama']",13 theaters
+743,Galapagos,IMAX,,,"['Oct 29, 1999']",39 min,"['Documentary', 'Short']",14 theaters
+744,Funan,GKIDS,"$1,8711",,"['Jun 7, 2019', 'Jul 11, 2019']",1 hr 24 min,['Animation'],5 theaters
+745,El Angel,The Orchard,"$23,3482",,"['Nov 9, 2018', 'Jan 17, 2019']",1 hr 58 min,"['Biography', 'Crime', 'Drama']",11 theaters
+746,Wrinkles the Clown,Magnolia Pictures,"$28,24821",,"['Oct 4, 2019']",1 hr 15 min,"['Comedy', 'Documentary', 'Horror', 'Mystery']",21 theaters
+747,ZZ Top: That Little Ol' Band from Texas,Abramorama,,,"['Aug 19, 2019']",1 hr 31 min,"['Biography', 'Documentary', 'Music']",8 theaters
+748,Frank and Ava,Hannover House,"$3,0801",,"['Dec 7, 2018', 'Jun 6, 2019']",1 hr 50 min,"['Biography', 'Drama', 'History']",3 theaters
+749,Our Time,Monument Releasing,"$3,0001",,"['Jun 14, 2019']",2 hr 57 min,['Drama'],4 theaters
+750,The Competition,Metrograph Pictures,,,"['Feb 22, 2019']",2 hr 1 min,['Documentary'],7 theaters
+751,Boy Erased,Focus Features,"$207,0575",,,1 hr 55 min,"['Biography', 'Drama']",672 theaters
+752,Combat Obscura,Oscilloscope,"$10,11210",,"['Mar 15, 2019', 'Apr 4, 2019']",1 hr 10 min,['Documentary'],11 theaters
+753,Screwball,Greenwich Entertainment,"$8,59513",,"['Mar 29, 2019', 'Apr 25, 2019']",1 hr 45 min,['Documentary'],13 theaters
+754,Touch Me Not,Kino Lorber,"$5,6161",,"['Jan 11, 2019', 'Mar 7, 2019']",2 hr 3 min,['Drama'],1 theater
+755,My Son,Cohen Media Group,"$4,7503",,"['May 10, 2019', 'May 27, 2019']",1 hr 24 min,"['Drama', 'Thriller']",5 theaters
+756,This One's for the Ladies,Super,"$13,6881",,"['Jun 7, 2019']",1 hr 22 min,['Documentary'],21 theaters
+757,First Man,Universal Pictures,"$16,006,0653,640","$59,000,000","['Oct 12, 2018', 'Jan 3, 2019']",2 hr 21 min,"['Biography', 'Drama', 'History']","3,640 theaters"
+758,The Cat Rescuers,Balcony Releasing,"$4,2523",,"['Jul 5, 2019', 'Jul 11, 2019']",1 hr 27 min,['Documentary'],3 theaters
+759,The House with a Clock in Its Walls,Universal Pictures,"$26,608,0203,592","$42,000,000","['Sep 21, 2018', 'Jan 3, 2019']",1 hr 45 min,"['Comedy', 'Family', 'Fantasy', 'Horror', 'Sci-Fi']","3,592 theaters"
+760,Rapid Response,Atlas Distribution Company,"$4,4978",,"['Sep 6, 2019']",1 hr 39 min,['Documentary'],10 theaters
+761,Hagazussa,Doppelganger Releasing,"$6,04111",,"['Apr 19, 2019', 'May 30, 2019']",1 hr 42 min,"['Drama', 'Horror']",14 theaters
+762,The Woman Who Loves Giraffes,Zeitgeist Films,"$1,8102",,"['Oct 4, 2019']",2 hr 3 min,['Documentary'],22 theaters
+763,Off Season,Indican Pictures,"$2,5362",,"['Mar 15, 2019', 'May 23, 2019']",1 hr 26 min,"['Drama', 'Thriller']",2 theaters
+764,The White Sheik,Rialto Pictures,"$5,5621",,"['Dec 25, 2019']",1 hr 26 min,"['Comedy', 'Drama']",3 theaters
+765,Journey to the South Pacific,IMAX,"$8,1371",,"['Nov 27, 2013']",40 min,['Documentary'],19 theaters
+766,Bricked,GathrFilms,,,"['Jan 24, 2019']",1 hr 32 min,['Drama'],7 theaters
+767,Zen for Nothing,Zeitgeist Films,"$1,2682",,"['Mar 29, 2019', 'Jun 20, 2019']",1 hr 40 min,['Documentary'],4 theaters
+768,Imprisoned,Cinema Libre Studio,"$4,3811",,"['Sep 13, 2019']",1 hr 44 min,"['Drama', 'Thriller']",2 theaters
+769,Quartet,Cohen Media Group,"$5,1501",,"['May 3, 2019', 'May 19, 2019']",1 hr 41 min,"['Drama', 'Romance']",1 theater
+770,"Cassandro, The Exotico!",Film Movement,"$2,2691",,"['Jul 19, 2019']",1 hr 13 min,['Documentary'],4 theaters
+771,Liyana,Abramorama,"$2,1601",,"['Oct 10, 2018', 'Apr 11, 2019']",1 hr 17 min,"['Animation', 'Documentary']",4 theaters
+772,The Charmer,Film Movement,"$4,1281",,"['Dec 5, 2018', 'Jan 24, 2019']",1 hr 40 min,"['Drama', 'Romance', 'Thriller']",3 theaters
+773,The Disappearance of My Mother,Kino Lorber,,,"['Dec 6, 2019']",1 hr 34 min,['Documentary'],3 theaters
+774,Stuffed,Music Box Films,"$1,6021",,"['Oct 16, 2019']",1 hr 24 min,['Documentary'],3 theaters
+775,Vision Portraits,Stimulus Pictures,,,"['Aug 9, 2019']",1 hr 18 min,['Documentary'],3 theaters
+776,That Part Feeling - the Universe of Arvo Part,Film Movement,,,"['Jun 3, 2019']",1 hr 15 min,['Documentary'],3 theaters
+777,Between the Lines,Cohen Media Group,,,"['Feb 22, 2019']",1 hr 41 min,"['Comedy', 'Drama', 'Romance']",18 theaters
+778,Yomeddine,Strand Releasing,"$4,0134",,"['May 31, 2019']",1 hr 37 min,"['Adventure', 'Comedy', 'Drama']",4 theaters
+779,In Like Flynn,Blue Fox Entertainment,"$6,64627",,"['Jan 25, 2019']",1 hr 46 min,"['Action', 'Adventure']",27 theaters
+780,Made Me Do It,Indican Pictures,"$3,8422",,"['Apr 12, 2019', 'Jun 20, 2019']",1 hr 30 min,"['Drama', 'Fantasy', 'Horror', 'Thriller']",2 theaters
+781,Ferrante Fever,Greenwich Entertainment,"$3,5091",,"['Mar 8, 2019', 'Apr 25, 2019']",1 hr 14 min,['Documentary'],3 theaters
+782,I Do Not Care If We Go Down in History as Barbarians,Big World Pictures,"$2,0831",,"['Jul 19, 2019']",2 hr 20 min,"['Comedy', 'Drama']",2 theaters
+783,Suburban Birds,The Cinema Guild,"$3,2071",,"['Apr 5, 2019']",1 hr 58 min,['Drama'],3 theaters
+784,16 Bars,Lightyear Entertainment,"$2,6621",,"['Nov 8, 2019']",1 hr 34 min,['Documentary'],4 theaters
+785,If the Dancer Dances,Monument Releasing,"$5,0001",,"['Apr 26, 2019', 'May 16, 2019']",1 hr 30 min,['Documentary'],6 theaters
+786,Duet for Cannibals,Metrograph Pictures,,,"['Nov 22, 2019']",1 hr 45 min,['Drama'],4 theaters
+787,Shooting the Mafia,Cohen Media Group,"$3,2512",,"['Nov 22, 2019']",1 hr 34 min,"['Biography', 'Documentary']",3 theaters
+788,Angels Are Made Of Light,Grasshopper Film,"$1,7071",,"['Jul 26, 2019']",1 hr 57 min,['Documentary'],2 theaters
+789,Daughter of Mine,Strand Releasing,"$5,4472",,"['Feb 1, 2019', 'Feb 14, 2019']",1 hr 37 min,['Drama'],2 theaters
+790,The Eyes of Orson Welles,Janus Films,"$2,3721",,"['Mar 15, 2019', 'Apr 18, 2019']",1 hr 55 min,['Documentary'],2 theaters
+791,Round of Your Life,Ammo Content,"$4,3364",,"['Jun 21, 2019']",1 hr 31 min,"['Family', 'Sport']",9 theaters
+792,Around India with a Movie Camera,Icarus Films,$1831,,"['Nov 30, 2018']",1 hr 12 min,['Documentary'],1 theater
+793,Olivia,Icarus Films,"$3,9483",,"['Aug 16, 2019']",1 hr 35 min,['Drama'],3 theaters
+794,Streetwise,Janus Films,"$5,0061",,"['Jul 19, 2019', 'Aug 1, 2019']",1 hr 31 min,"['Documentary', 'Drama']",1 theater
+795,Tyrel,Magnolia Pictures,"$6,0595",,"['Dec 7, 2018', 'Feb 7, 2019']",1 hr 26 min,"['Comedy', 'Drama']",5 theaters
+796,Fritz Lang's Indian Epic,Film Movement,"$4,4011",,"['Sep 27, 2019']",3 hr 23 min,,1 theater
+797,The Spanish Prisoner,Ammo Content,"$2,6791",,"['Apr 26, 2019']",1 hr 50 min,"['Drama', 'Mystery', 'Thriller']",1 theater
+798,Studio 54,Zeitgeist Films,"$14,9091",,"['Oct 5, 2018', 'Feb 28, 2019']",1 hr 38 min,"['Documentary', 'History']",14 theaters
+799,When Lambs Become Lions,Oscilloscope,"$3,1551",,"['Nov 22, 2019']",1 hr 19 min,['Documentary'],2 theaters
+800,Cracked Up,Abramorama,"$5,3101",,"['Sep 13, 2019']",1 hr 35 min,['Documentary'],1 theater
+801,Frantz Fanon: Black Skin White Mask,Film Movement,"$3,2781",,"['Mar 15, 2019']",1 hr 10 min,"['Biography', 'Documentary']",1 theater
+802,Colossal Youth,Giant Steps Productions,,,"['Aug 3, 2018']",1 hr 38 min,"['Comedy', 'Drama', 'Romance']",1 theater
+803,The Dead Center,Arrow Films,"$5,32510",,"['Oct 11, 2019']",1 hr 32 min,"['Horror', 'Mystery', 'Thriller']",10 theaters
+804,The Etruscan Smile,Lightyear Entertainment,"$6,7294",,"['Nov 8, 2019']",1 hr 47 min,['Drama'],4 theaters
+805,Grass,The Cinema Guild,"$2,7741",,"['Apr 19, 2019']",1 hr 6 min,['Drama'],2 theaters
+806,Wings of Desire,Janus Films,"$12,8851",,"['Oct 19, 2018', 'Jan 10, 2019']",2 hr 8 min,"['Drama', 'Fantasy', 'Romance']",4 theaters
+807,This Magnificent Cake!,GKIDS,$9911,,"['Mar 1, 2019', 'Apr 18, 2019']",44 min,"['Animation', 'Comedy', 'Drama', 'History', 'Short']",2 theaters
+808,Ghost Fleet,Abramorama,,,"['Jun 7, 2019', 'Jun 16, 2019']",1 hr 30 min,['Documentary'],7 theaters
+809,The Plagiarists,KimStim,"$4,5771",,"['Jun 28, 2019', 'Jul 4, 2019']",1 hr 16 min,['Drama'],1 theater
+810,Gregory's Girl,Film Movement,"$4,1851",,"['Oct 4, 2019']",1 hr 31 min,"['Comedy', 'Drama', 'Romance']",1 theater
+811,I'll Take Your Dead,Breakthrough Entertainment Inc.,"$1,9634",,"['Jul 5, 2019']",1 hr 23 min,['Horror'],5 theaters
+812,King of Thieves,Saban Films,"$3,50211",,"['Jan 25, 2019', 'Feb 7, 2019']",1 hr 48 min,"['Crime', 'Drama']",11 theaters
+813,Life and Nothing More,CFI Releasing,"$6,5366",,"['Oct 24, 2018', 'Mar 24, 2019']",1 hr 54 min,['Drama'],6 theaters
+814,Border,Neon,"$73,7007",,"['Oct 26, 2018', 'Jan 6, 2019']",1 hr 50 min,"['Crime', 'Drama', 'Fantasy', 'Romance', 'Thriller']",74 theaters
+815,Beloved Beast,Indican Pictures,"$3,8943",,"['Oct 11, 2019']",2 hr 53 min,['Horror'],3 theaters
+816,Rosie,Blue Fox Entertainment,"$2,9422",,"['Jul 19, 2019']",1 hr 26 min,['Drama'],2 theaters
+817,Genesis,Film Movement,"$2,5851",,"['Aug 23, 2019']",2 hr 9 min,['Drama'],2 theaters
+818,Going Attractions: The Definitive Story of the Movie Palace,Passion River,$803,,"['Oct 24, 2019']",1 hr 24 min,"['Documentary', 'Family', 'History']",6 theaters
+819,Dying to Survive,China Lion Film Distribution,"$3,2382",,"['Aug 9, 2019', 'Sep 22, 2019']",1 hr 57 min,"['Comedy', 'Drama']",2 theaters
+820,Hollywould,Indican Pictures,"$5,2902",,"['Nov 15, 2019']",1 hr 30 min,"['Crime', 'Mystery', 'Thriller']",2 theaters
+821,"One Nation, One King",Distrib Films,$5951,,"['Feb 28, 2019']",2 hr 1 min,"['Drama', 'History']",5 theaters
+822,"Monrovia, Indiana",Zipporah Films,"$5,1721",,"['Oct 26, 2018', 'Jan 31, 2019']",2 hr 23 min,['Documentary'],14 theaters
+823,Of Fathers and Sons,Kino Lorber,$3401,,"['Nov 16, 2018', 'Feb 28, 2019']",1 hr 39 min,"['Documentary', 'War']",6 theaters
+824,Under the Eiffel Tower,The Orchard,"$3,95711",,"['Feb 8, 2019', 'Feb 14, 2019']",1 hr 27 min,['Romance'],11 theaters
+825,Patrick the Pug,Independent,"$1,37810",,"['Feb 15, 2019', 'Feb 21, 2019']",1 hr 34 min,"['Comedy', 'Family', 'Romance']",100 theaters
+826,To Be of Service,First Run,"$1,9041",,"['Nov 1, 2019']",1 hr 28 min,['Documentary'],1 theater
+827,The Golden Glove,Strand Releasing,"$2,3005",,"['Sep 27, 2019']",1 hr 55 min,"['Crime', 'Drama', 'Horror', 'Thriller']",5 theaters
+828,Relaxer,Oscilloscope,,,"['Mar 29, 2019']",1 hr 31 min,"['Comedy', 'Fantasy']",5 theaters
+829,The Hottest August,Grasshopper Film,"$3,8832",,"['Nov 15, 2019']",1 hr 34 min,['Documentary'],2 theaters
+830,Kedarnath,PackYourBag Films,"$407,118113",,"['Dec 7, 2018', 'Jan 3, 2019']",1 hr 56 min,"['Drama', 'Romance']",113 theaters
+831,The Meanest Man in Texas,Ammo Content,"$5,7503",,"['May 17, 2019', 'May 26, 2019']",1 hr 45 min,"['Biography', 'Drama', 'History']",3 theaters
+832,Love Goes Public,Aspiration Entertainment,"$5,700",,"['Oct 25, 2019']",1 hr 8 min,['Documentary'],
+833,Série noire,Rialto Pictures,"$2,0881",,"['Sep 27, 2019']",1 hr 51 min,"['Crime', 'Drama']",1 theater
+834,The Miracle of the Little Prince,Film Movement,"$2,6431",,"['Aug 28, 2019']",1 hr 29 min,['Documentary'],1 theater
+835,Halloween,Universal Pictures,"$76,221,5453,928","$10,000,000","['Oct 19, 2018', 'Jan 3, 2019']",1 hr 46 min,"['Horror', 'Thriller']","3,990 theaters"
+836,Spiral Farm,Indican Pictures,"$5,4753",,"['Dec 13, 2019', 'Jan 23, 2020']",1 hr 25 min,['Drama'],3 theaters
+837,Anna and the Apocalypse,Orion Pictures,"$52,5885",,"['Nov 30, 2018', 'Jan 3, 2019']",1 hr 33 min,"['Comedy', 'Fantasy', 'Horror', 'Musical']",138 theaters
+838,Chokehold,Ammo Content,"$5,2003",,"['Mar 1, 2019']",1 hr 38 min,"['Action', 'Crime', 'Drama']",3 theaters
+839,Body at Brighton Rock,Magnolia Pictures,"$1,7328",,"['Apr 26, 2019', 'May 16, 2019']",1 hr 27 min,"['Horror', 'Mystery', 'Thriller']",9 theaters
+840,Intuitions,Indican Pictures,"$3,4073",,"['Oct 25, 2019', 'Nov 14, 2019']",1 hr 30 min,"['Romance', 'Thriller']",3 theaters
+841,Cold Blood,Screen Media Films,"$3,45025",,"['Jul 5, 2019', 'Jul 11, 2019']",1 hr 31 min,"['Action', 'Thriller']",25 theaters
+842,Chulas Fronteras,Argot Pictures,"$3,5481",,"['Jun 28, 2019', 'Jul 4, 2019']",58 min,"['Documentary', 'Music']",1 theater
+843,The Garden,Kino Lorber,"$1,1411",,"['May 29, 2019', 'Jun 6, 2019']",1 hr 32 min,['Drama'],1 theater
+844,Malek,Entertainment One,"$2,2263",,"['Jan 18, 2019', 'Jan 31, 2019']",1 hr 35 min,['Drama'],4 theaters
+845,Un traductor,Film Movement,"$4,4121",,"['Oct 19, 2018', 'Apr 4, 2019']",1 hr 47 min,['Drama'],2 theaters
+846,Crepitus,Indican Pictures,"$1,7901",,"['Oct 31, 2019', 'Nov 14, 2019']",1 hr 23 min,['Horror'],2 theaters
+847,Ballet Blanc,Indican Pictures,"$1,8942",,"['Nov 8, 2019']",1 hr 29 min,"['Drama', 'Horror', 'Mystery']",2 theaters
+848,Kaili Blues,Grasshopper Film,"$4,1641",,"['May 20, 2016', 'Jan 24, 2019']",1 hr 53 min,"['Drama', 'Mystery']",4 theaters
+849,What You Gonna Do When the World's on Fire?,KimStim,,,"['Aug 16, 2019']",2 hr 3 min,['Documentary'],1 theater
+850,Slaughterhouse Rulez,Sony Pictures Releasing,"$2,14510",,"['May 17, 2019', 'May 23, 2019']",1 hr 44 min,"['Action', 'Comedy', 'Fantasy', 'Horror', 'Thriller']",10 theaters
+851,Sicilian Ghost Story,Strand Releasing,"$4,3241",,"['Nov 30, 2018', 'Feb 21, 2019']",2 hr 2 min,"['Crime', 'Drama', 'Fantasy', 'Mystery', 'Romance']",3 theaters
+852,At War,Cinema Libre Studio,"$1,4051",,"['Jul 19, 2019']",1 hr 53 min,['Drama'],1 theater
+853,I'm Leaving Now,The Cinema Guild,"$1,2551",,"['Sep 6, 2019']",1 hr 14 min,['Documentary'],1 theater
+854,SGT. Will Gardner,Cinedigm Entertainment Group,,,"['Jan 11, 2019']",2 hr 5 min,"['Action', 'Adventure', 'Drama', 'War']",12 theaters
+855,Tito and the Birds,Shout! Factory,,,"['Jan 25, 2019', 'Feb 7, 2019']",1 hr 13 min,"['Action', 'Animation', 'Drama', 'Family', 'Fantasy', 'Sci-Fi']",6 theaters
+856,The Fate of Lee Khan,Film Movement,"$1,6481",,"['Apr 5, 2019', 'Jun 27, 2019']",1 hr 45 min,"['Action', 'Drama']",3 theaters
+857,State Like Sleep,The Orchard,"$2,81310",,"['Jan 4, 2019', 'Jan 10, 2019']",1 hr 44 min,['Drama'],10 theaters
+858,The Gliksmans,Indican Pictures,"$2,9223",,"['Sep 27, 2019', 'Jan 23, 2020']",1 hr 12 min,['Comedy'],3 theaters
+859,La Flor,Grasshopper Film,"$2,3081",,"['Aug 9, 2019']",13 hr 28 min,"['Drama', 'Fantasy', 'Musical', 'Mystery', 'Romance', 'Thriller']",1 theater
+860,Mother of a Day,Sumbadhat Productions,"$2,6721",,"['May 4, 2019']",1 hr 15 min,['Family'],1 theater
+861,Crown Vic,Screen Media Films,"$2,4681",,"['Nov 8, 2019']",1 hr 50 min,"['Action', 'Crime', 'Drama', 'Mystery', 'Thriller']",1 theater
+862,Wallflower,Passion River,"$2,3781",,"['Oct 4, 2019']",1 hr 24 min,"['Crime', 'Drama', 'Music']",7 theaters
+863,The Wandering Soap Opera,The Cinema Guild,$5121,,"['May 17, 2019']",1 hr 20 min,"['Comedy', 'Drama', 'Fantasy']",2 theaters
+864,Rottentail,Ammo Content,"$2,2563",,"['Apr 12, 2019', 'Apr 28, 2019']",1 hr 46 min,"['Comedy', 'Horror']",3 theaters
+865,Another Day of Life,GKIDS,"$1,6912",,"['Sep 13, 2019']",1 hr 25 min,"['Animation', 'Biography']",2 theaters
+866,Bauhaus Spirit: 100 Years of Bauhaus,Icarus Films,,,"['Feb 10, 2019', 'May 16, 2019']",1 hr 35 min,['Documentary'],2 theaters
+867,A Cool Fish,China Lion Film Distribution,"$71,18715",,"['Nov 16, 2018', 'Jan 10, 2019']",1 hr 49 min,['Comedy'],36 theaters
+868,Chasing Portraits,First Run,"$1,7081",,"['Apr 26, 2019', 'May 19, 2019']",1 hr 18 min,"['Documentary', 'History']",1 theater
+869,Filmworker,Kino Lorber,"$7,9841",,"['May 11, 2018']",1 hr 34 min,"['Biography', 'Documentary']",17 theaters
+870,100 Acres of Hell,Indican Pictures,$9971,,"['Oct 11, 2019']",1 hr 25 min,"['Action', 'Crime', 'Horror', 'Mystery', 'Thriller']",1 theater
+871,The Kindness of Strangers,eOne Entertainment,$8393,,"['Dec 6, 2019']",1 hr 52 min,['Drama'],3 theaters
+872,Back to the Fatherland,First Run,"$1,3121",,"['Jun 14, 2019', 'Jun 30, 2019']",1 hr 17 min,['Documentary'],1 theater
+873,L'héritage de la chouette,Icarus Films,,,"['Nov 9, 2018', 'Jun 25, 2019']",5 hr 40 min,"['Documentary', 'History']",1 theater
+874,"No Date, No Signature",Distrib Films,"$4,9933",,"['Aug 1, 2018', 'Jan 24, 2019']",1 hr 39 min,"['Drama', 'Mystery', 'Thriller']",3 theaters
+875,Joan the Maid 1: The Battles,Cohen Media Group,"$1,2291",,"['Aug 2, 2019']",2 hr 40 min,"['Biography', 'Drama', 'History', 'War']",1 theater
+876,Chef Flynn,Kino Lorber,"$7,5091",,"['Nov 9, 2018', 'Feb 7, 2019']",1 hr 22 min,['Documentary'],10 theaters
+877,TINY: The Life of Erin Blackwell,Janus Films,"$1,6311",,"['Jul 19, 2019', 'Aug 1, 2019']",1 hr 27 min,['Documentary'],1 theater
+878,I Lost Albert,Distrib Films,"$2,3541",,"['Oct 4, 2019']",1 hr 40 min,['Comedy'],1 theater
+879,Tea With the Dames,IFC Films,"$14,7771",,"['Sep 21, 2018', 'Jan 20, 2019']",1 hr 24 min,['Documentary'],71 theaters
+880,Iceman,Film Movement,"$1,3727",,"['Mar 15, 2019', 'Mar 28, 2019']",1 hr 36 min,['Drama'],7 theaters
+881,Detour,Janus Films,"$5,1271",,"['Nov 30, 2018', 'Jan 10, 2019']",1 hr 8 min,"['Crime', 'Drama', 'Film-Noir']",1 theater
+882,Jihadists,Cinema Libre Studio,$8241,,"['Jan 25, 2019', 'Feb 7, 2019']",1 hr 15 min,"['Documentary', 'War']",1 theater
+883,Divide and Conquer: The Story of Roger Ailes,Magnolia Pictures,"$18,83315",,"['Dec 7, 2018', 'Jan 10, 2019']",1 hr 47 min,['Documentary'],16 theaters
+884,A German Youth,Big World Pictures,$4161,,"['Oct 11, 2019']",1 hr 33 min,['Documentary'],1 theater
+885,A Fish in the Bathtub,Cohen Media Group,"$1,2373",,"['Nov 8, 2019']",1 hr 36 min,['Comedy'],3 theaters
+886,Little Q,Well Go USA Entertainment,"$1,6521",,"['Dec 6, 2019']",1 hr 47 min,['Drama'],1 theater
+887,Game Day,Ammo Content,"$1,6244",,"['Oct 4, 2019']",1 hr 41 min,"['Comedy', 'Drama']",4 theaters
+888,For Those Who Don't Read Me,Entertainment One,"$9,2635",,"['Nov 23, 2018']",1 hr 47 min,['Drama'],6 theaters
+889,American Playhouse: The Killing Floor,Film Movement,"$1,5831",,"['Nov 22, 2019']",1 hr 58 min,"['Comedy', 'Drama', 'Romance', 'Sci-Fi']",1 theater
+890,Indivisible,Pure Flix Entertainment,"$1,503,101830",,"['Oct 26, 2018', 'Jan 3, 2019']",1 hr 59 min,"['Drama', 'War']",830 theaters
+891,Owaranai hito: Miyazaki Hayao,GKIDS,"$10,2384",,"['Dec 13, 2018', 'Jan 10, 2019']",1 hr 10 min,"['Biography', 'Documentary']",377 theaters
+892,The Hours and Times,Oscilloscope,"$1,2731",,"['Mar 1, 2019']",57 min,"['Drama', 'Music']",1 theater
+893,Chinese Portrait,The Cinema Guild,$5461,,"['Dec 13, 2019']",1 hr 19 min,['Documentary'],2 theaters
+894,Narcissister Organ Player,Film Movement,"$1,9831",,"['Nov 7, 2018', 'Feb 7, 2019']",1 hr 31 min,['Documentary'],4 theaters
+895,The Untold Story,Ammo Content,$7901,,"['Jan 18, 2019']",1 hr 44 min,"['Comedy', 'Drama']",1 theater
+896,Senso,Rialto Pictures,"$3,9841",,"['Oct 26, 2018']",2 hr 3 min,"['Drama', 'History', 'Romance', 'War']",2 theaters
+897,Serendipity,Cohen Media Group,"$1,1562",,"['Oct 18, 2019']",1 hr 14 min,['Documentary'],2 theaters
+898,Swimming with Men,IFC Films,"$10,33631",,"['Dec 7, 2018', 'Jan 3, 2019']",1 hr 36 min,"['Comedy', 'Drama', 'Romance', 'Sport']",31 theaters
+899,Sgt. Stubby: An American Hero,Fun Academy Motion Pictures,"$1,164,4031,633",,"['Apr 13, 2018', 'Jan 10, 2019']",1 hr 24 min,"['Adventure', 'Animation', 'Family', 'History', 'War']","1,633 theaters"
+900,I Am Not A Witch,Film Movement,"$8,2522",,"['Sep 7, 2018', 'Feb 7, 2019']",1 hr 33 min,['Drama'],8 theaters
+901,Hold Your Breath,Entertainment One,"$16,04612",,"['Aug 10, 2018', 'Jan 28, 2019']",1 hr 29 min,"['Drama', 'Mystery', 'Sci-Fi', 'Thriller']",12 theaters
+902,In Safe Hands,Distrib Films,$3481,,"['Jul 26, 2019']",1 hr 50 min,['Drama'],1 theater
+903,Henchmen,Entertainment One,$5803,,"['Dec 7, 2018']",1 hr 29 min,"['Animation', 'Comedy']",3 theaters
+904,1945,Menemsha Films,"$20,3652",,"['Nov 1, 2017', 'Jan 13, 2019']",1 hr 31 min,['Drama'],19 theaters
+905,Tall Tales from the Magical Garden of Antoon Krings,Viva Pictures Distribution,,,"['Jan 11, 2019']",1 hr 28 min,"['Adventure', 'Animation', 'Comedy', 'Family']",20 theaters
+906,Over the Limit,Film Movement,"$1,4021",,"['Oct 12, 2018', 'Jan 10, 2019']",1 hr 14 min,"['Documentary', 'Sport']",2 theaters
+907,Postcards from London,Strand Releasing,"$2,6861",,"['Nov 9, 2018', 'Jan 10, 2019']",1 hr 30 min,['Drama'],1 theater
