@@ -1,78 +1,51 @@
 # Project Name
-This project is a part of the Movie Project (http://datascience.codeforsanfrancisco.org) at [Code for San Francisco](http://www.codeforsanfrancisco.org).  Other DSWG projects can be found at the [main GitHub repo](https://github.com/sfbrigade/data-science-wg).
+This project is a part of the Movie Project at Flat Iron School Houston Campus.
 
-#### -- Project Status: [Active, On-Hold, Completed]
+#### -- Project Status: Active
 
 ## Project Intro/Objective
-The purpose of this project is ________. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
+The purpose of this project is to analyse movie data to come up with the best answer to on revenue made from different ganres and different distribution companys. Also to Answer why they are better with good visualizations to represent visualy our finding between my partner and i.
 
 ### Partner
-* [Name of Partner organization/Government department etc..]
-* Website for partner
-* Partner contact: [Name of Contact], [slack handle of contact if any]
-* If you do not have a partner leave this section out
+* Abzal Seitkaziyev
+* THEMOVIEDB.org
+* Partner contact: xs-abzal@github, Abzal Seitkaziyev
 
 ### Methods Used
-* Inferential Statistics
-* Machine Learning
 * Data Visualization
 * Predictive Modeling
-* etc.
 
 ### Technologies
-* R 
 * Python
-* D3
-* PostGres, MySql
 * Pandas, jupyter
 * HTML
-* JavaScript
-* etc. 
 
 ## Project Description
-(Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
+Our Goal for this project was to collect real world data for the movie industry using API and or Web Scraping.
+Scraping Box Office Mojo Website to collect movie data @ box_mojo.ipynb.
+Then used the API to gather movie data from THEMOVIEDB.org @ branch Abzal @ 1_data_collecting_tmdb_api.ipynb and 2_data_cleaning.ipynb.
+After gathering our required data for this project we handled missing values by droping nan values using pandas.
+Made visualizations to find correlations and insights on what the best movie genre was and how much they income was earned, and looked for the top dominant movie distributors for 2019.
+Found interesting correlations when comparing budget vs. net income for the last 20 years.
+
 
 ## Needs of this project
 
-- frontend developers
 - data exploration/descriptive statistics
 - data processing/cleaning
 - statistical modeling
 - writeup/reporting
-- etc. (be as specific as possible)
 
 ## Getting Started
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept [here](Repo folder containing raw data) within this repo.
-
-    *If using offline data mention that and how they may obtain the data from the froup)*
+2. Raw Data is being kept Movie_project within this repo.
     
-3. Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
-4. etc...
+3. Data processing/transformation scripts are being kept movie_dojo.ipynb
 
 *If your project is well underway and setup is fairly complicated (ie. requires installation of many packages) create another "setup.md" file and link to it here*  
 
-5. Follow setup [instructions](Link to file)
-
-## Featured Notebooks/Analysis/Deliverables
-* [Notebook/Markdown/Slide Deck Title](link)
-* [Notebook/Markdown/Slide DeckTitle](link)
-* [Blog Post](link)
-
-
-## Contributing DSWG Members
-
-**Team Leads (Contacts) : [Full Name](https://github.com/[github handle])(@slackHandle)**
-
-#### Other Members:
-
-|Name     |  Slack Handle   | 
-|---------|-----------------|
-|[Full Name](https://github.com/[github handle])| @johnDoe        |
-|[Full Name](https://github.com/[github handle]) |     @janeDoe    |
+5. Follow setup Pandas, Matplotlib, BeautifulSoup(Link to file)
 
 ## Contact
-* If you haven't joined the SF Brigade Slack, [you can do that here](http://c4sf.me/slack).  
-* Our slack channel is `#datasci-projectname`
-* Feel free to contact team leads with any questions or if you are interested in contributing!
+* If you haven't joined the SF Brigade Slack,(http://c4sf.me/slack).  
