@@ -28,6 +28,7 @@ After gathering our required data for this project we handled missing values by 
 Made visualizations to find correlations and insights on what the best movie genre was and how much they income was earned, and looked for the top dominant movie distributors for 2019.
 Found interesting correlations when comparing budget vs. net income for the last 20 years.
 
+https://docs.google.com/presentation/d/1cRKLKD7L5XTFZDZAPIwi4YpquBkKC4SM8fcJZS8Vejg/edit#slide=id.gcb9a0b074_1_0
 
 ## Needs of this project
 
