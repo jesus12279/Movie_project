@@ -1,211 +1,211 @@
-,Name,Distributor,Opening,Budget,Release Date,Running Time,Genres,Widest Release
-0,Bad Boys for Life,Sony Pictures Releasing,"$62,504,1053,775","$90,000,000","['Jan 17, 2020']",2 hr 4 min,"['Action', 'Comedy', 'Crime', 'Thriller']","3,775 theaters"
-1,1917,Universal Pictures,"$576,21611",,,1 hr 59 min,"['Drama', 'War']","3,987 theaters"
-2,Sonic the Hedgehog,Paramount Pictures,"$58,018,3484,167","$85,000,000","['Feb 14, 2020']",1 hr 39 min,"['Action', 'Adventure', 'Comedy', 'Family', 'Sci-Fi']","4,198 theaters"
-3,Star Wars: Episode IX - The Rise of Skywalker,Walt Disney Studios Motion Pictures,"$177,383,8644,406",,"['Dec 20, 2019']",2 hr 22 min,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']","4,406 theaters"
-4,Jumanji: The Next Level,Sony Pictures Releasing,"$59,251,5434,227","$125,000,000","['Dec 13, 2019']",2 hr 3 min,"['Action', 'Adventure', 'Comedy', 'Fantasy']","4,227 theaters"
-5,Birds of Prey: And the Fantabulous Emancipation of One Harley Quinn,Warner Bros.,"$33,010,0174,236","$84,500,000","['Feb 7, 2020']",1 hr 49 min,"['Action', 'Adventure', 'Crime']","4,236 theaters"
-6,Dolittle,Universal Pictures,"$21,844,0454,155","$175,000,000","['Jan 17, 2020']",1 hr 41 min,"['Adventure', 'Comedy', 'Family', 'Fantasy']","4,155 theaters"
-7,Little Women,Sony Pictures Releasing,"$16,755,3103,308","$40,000,000","['Dec 25, 2019']",2 hr 15 min,"['Drama', 'Romance']","3,308 theaters"
-8,Knives Out,Lionsgate,"$26,769,5483,461","$40,000,000","['Nov 27, 2019']",2 hr 11 min,"['Comedy', 'Crime', 'Drama', 'Mystery', 'Thriller']","3,461 theaters"
-9,The Call of the Wild,Twentieth Century Fox,"$24,791,6243,752","$135,000,000","['Feb 21, 2020']",1 hr 40 min,"['Adventure', 'Drama', 'Family']","3,865 theaters"
-10,Frozen II,Walt Disney Studios Motion Pictures,"$130,263,3584,440",,"['Nov 22, 2019']",1 hr 43 min,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Musical']","4,440 theaters"
-11,Spies in Disguise,Twentieth Century Fox,"$13,354,7983,502",,"['Dec 25, 2019']",1 hr 42 min,"['Action', 'Adventure', 'Animation', 'Comedy', 'Family', 'Sci-Fi']","3,502 theaters"
-12,Just Mercy,Warner Bros.,"$107,8584",,,2 hr 17 min,['Drama'],"2,457 theaters"
-13,The Gentlemen,STX Entertainment,"$10,651,8842,165",,"['Jan 24, 2020']",1 hr 53 min,"['Action', 'Comedy', 'Crime']","2,675 theaters"
-14,The Invisible Man,Universal Pictures,"$28,205,6653,610","$7,000,000","['Feb 28, 2020']",2 hr 4 min,"['Horror', 'Mystery', 'Sci-Fi', 'Thriller']","3,610 theaters"
-15,Parasite,Neon,"$393,2163",,,2 hr 12 min,"['Comedy', 'Drama', 'Thriller']","2,001 theaters"
-16,Uncut Gems,A24,"$537,2425",,,2 hr 15 min,"['Crime', 'Drama', 'Thriller']","2,686 theaters"
-17,Fantasy Island,Sony Pictures Releasing,"$12,310,4202,784","$7,000,000","['Feb 14, 2020']",1 hr 49 min,"['Adventure', 'Comedy', 'Fantasy', 'Horror', 'Mystery', 'Thriller']","2,784 theaters"
-18,Like a Boss,Paramount Pictures,"$10,011,2723,078","$29,000,000","['Jan 10, 2020', 'Feb 20, 2020']",1 hr 23 min,['Comedy'],"3,081 theaters"
-19,The Grudge,Sony Pictures Releasing,"$11,404,1132,642","$10,000,000","['Jan 3, 2020', 'Feb 27, 2020']",1 hr 34 min,"['Horror', 'Mystery']","2,642 theaters"
-20,The Photograph,Universal Pictures,"$12,181,8652,516","$16,000,000","['Feb 14, 2020']",1 hr 46 min,"['Drama', 'Romance']","2,516 theaters"
-21,Underwater,Twentieth Century Fox,"$7,008,2972,791",,"['Jan 10, 2020']",1 hr 35 min,"['Action', 'Drama', 'Horror', 'Mystery', 'Sci-Fi', 'Thriller']","2,791 theaters"
-22,The Turning,Universal Pictures,"$6,950,0452,571","$14,000,000","['Jan 24, 2020']",1 hr 34 min,"['Drama', 'Horror', 'Mystery']","2,571 theaters"
-23,Gretel & Hansel,United Artists Releasing,"$6,154,0073,007",,"['Jan 31, 2020']",1 hr 27 min,"['Fantasy', 'Horror', 'Thriller']","3,007 theaters"
-24,Bombshell,Lionsgate,"$319,1574",,,1 hr 49 min,"['Biography', 'Drama']","1,721 theaters"
-25,Jojo Rabbit,Fox Searchlight Pictures,"$349,5555",,,1 hr 48 min,"['Comedy', 'Drama', 'War']","1,173 theaters"
-26,Ford v Ferrari,Twentieth Century Fox,"$31,474,9583,528","$97,600,000","['Nov 15, 2019']",2 hr 32 min,"['Action', 'Biography', 'Drama', 'Sport']","3,746 theaters"
-27,My Hero Academia: Heroes Rising,FUNimation Entertainment,"$5,888,3301,260",,"['Feb 26, 2020']",1 hr 44 min,"['Action', 'Adventure', 'Animation', 'Comedy', 'Family', 'Sci-Fi']","1,275 theaters"
-28,Brahms: The Boy II,STX Entertainment,"$5,823,0062,151","$10,000,000","['Feb 21, 2020']",1 hr 26 min,"['Drama', 'Horror', 'Mystery', 'Thriller']","2,151 theaters"
-29,Downhill,Fox Searchlight Pictures,"$4,622,0182,301",,"['Feb 14, 2020']",1 hr 26 min,"['Comedy', 'Drama']","2,311 theaters"
-30,Weathering with You,GKIDS,"$1,808,533486",,"['Jan 15, 2020']",1 hr 52 min,"['Animation', 'Drama', 'Fantasy', 'Romance']","1,020 theaters"
-31,Impractical Jokers: The Movie,truTV,"$2,607,049357",,,1 hr 32 min,['Comedy'],"1,900 theaters"
-32,Cats,Universal Pictures,"$6,619,8703,380","$95,000,000","['Dec 20, 2019', 'Feb 13, 2020']",1 hr 50 min,"['Comedy', 'Drama', 'Family', 'Fantasy', 'Musical']","3,380 theaters"
-33,The Rhythm Section,Paramount Pictures,"$2,715,3843,049",,"['Jan 31, 2020', 'Feb 20, 2020']",1 hr 49 min,"['Action', 'Drama', 'Mystery', 'Thriller']","3,049 theaters"
-34,A Beautiful Day in the Neighborhood,Sony Pictures Releasing,"$13,251,2383,235","$25,000,000","['Nov 22, 2019']",1 hr 49 min,"['Biography', 'Drama']","3,491 theaters"
-35,Richard Jewell,Warner Bros.,"$4,705,2652,502",,"['Dec 13, 2019', 'Feb 6, 2020']",2 hr 11 min,"['Biography', 'Crime', 'Drama']","2,502 theaters"
-36,2020 Oscar Nominated Short Films,Magnolia Pictures,"$1,155,505465",,"['Jan 31, 2020']",2 hr 33 min,,536 theaters
-37,Queen & Slim,Universal Pictures,"$11,890,4901,690",,"['Nov 27, 2019', 'Jan 30, 2020']",2 hr 12 min,"['Crime', 'Drama', 'Romance']","1,715 theaters"
-38,The Last Full Measure,Roadside Attractions,"$1,058,019614",,"['Jan 24, 2020']",1 hr 56 min,"['Drama', 'War']",617 theaters
-39,Las Pildoras De Mi Novio,Pantelion Films,"$1,396,140350",,"['Feb 21, 2020']",1 hr 40 min,['Comedy'],350 theaters
-40,Portrait of a Lady on Fire,Neon,"$67,3442",,"['Dec 6, 2019']",2 hr 2 min,"['Drama', 'Romance']",268 theaters
-41,Ip Man 4: The Finale,Well Go USA Entertainment,"$737,71870",,"['Dec 25, 2019']",1 hr 47 min,"['Action', 'Biography', 'Drama', 'History']",125 theaters
-42,Emma.,Focus Features,"$234,4825",,,2 hr 4 min,"['Comedy', 'Drama']",97 theaters
-43,Joker,Warner Bros.,"$96,202,3374,374","$55,000,000","['Oct 4, 2019']",2 hr 2 min,"['Crime', 'Drama', 'Thriller']","4,374 theaters"
-44,The Lodge,Neon,"$76,2516",,"['Feb 7, 2020']",1 hr 48 min,"['Drama', 'Horror', 'Thriller']",395 theaters
-45,Once Upon a Time... in Hollywood,Sony Pictures Releasing,"$41,082,0183,659","$90,000,000","['Jul 26, 2019', 'Feb 20, 2020']",2 hr 41 min,"['Comedy', 'Drama']","3,659 theaters"
-46,The Assistant,Bleecker Street Media,"$79,1414",,"['Jan 31, 2020']",1 hr 27 min,['Drama'],155 theaters
-47,The Song of Names,Sony Pictures Classics,"$39,45210",,"['Dec 25, 2019']",1 hr 53 min,['Drama'],182 theaters
-48,Jay and Silent Bob Reboot,Saban Films,"$93,5201",,"['Oct 15, 2019']",1 hr 45 min,['Comedy'],788 theaters
-49,A Hidden Life,Fox Searchlight Pictures,"$50,3835",,"['Dec 13, 2019', 'Feb 6, 2020']",2 hr 54 min,"['Biography', 'Drama', 'Romance', 'War']",151 theaters
-50,Sarileru Neekevvaru,Great India Films,"$821,000300",,"['Jan 10, 2020']",2 hr 49 min,"['Action', 'Comedy', 'Drama']",300 theaters
-51,21 Bridges,STX Entertainment,"$9,261,2682,665","$33,000,000","['Nov 22, 2019', 'Jan 23, 2020']",1 hr 39 min,"['Action', 'Crime', 'Drama', 'Thriller']","2,665 theaters"
-52,Patterns of Evidence: The Red Sea Miracle,Fathom Events,,,"['Feb 18, 2020']",2 hr 30 min,['Documentary'],807 theaters
-53,Pain and Glory,Sony Pictures Classics,"$152,6364",,"['Oct 4, 2019']",1 hr 53 min,['Drama'],266 theaters
-54,Merci pour tout,eOne Entertainment,"$231,90857",,"['Dec 25, 2019']",1 hr 39 min,['Comedy'],76 theaters
-55,Maleficent: Mistress of Evil,Walt Disney Studios Motion Pictures,"$36,948,7133,790",,"['Oct 18, 2019', 'Feb 13, 2020']",1 hr 59 min,"['Adventure', 'Family', 'Fantasy']","3,820 theaters"
-56,Chhapaak,FIP,"$316,781100",,"['Jan 10, 2020', 'Jan 30, 2020']",2 hr,"['Biography', 'Drama']",100 theaters
-57,Mafia Inc,Entertainment One,"$264,93985",,"['Feb 14, 2020']",2 hr 15 min,"['Crime', 'Drama']",85 theaters
-58,Panga,FIP,"$285,689102",,"['Jan 24, 2020', 'Feb 13, 2020']",2 hr 11 min,"['Drama', 'Sport']",102 theaters
-59,Midway,Lionsgate,"$17,897,4193,242","$100,000,000","['Nov 8, 2019', 'Jan 23, 2020']",2 hr 18 min,"['Action', 'Drama', 'History', 'War']","3,242 theaters"
-60,Black Christmas,Universal Pictures,"$4,240,2452,625","$5,000,000","['Dec 13, 2019']",1 hr 32 min,"['Horror', 'Mystery', 'Thriller']","2,625 theaters"
-61,Color Out of Space,RLJE Films,"$216,16281",,"['Jan 24, 2020']",1 hr 51 min,"['Horror', 'Sci-Fi']",81 theaters
-62,Harriet,Focus Features,"$11,676,7202,059","$17,000,000","['Nov 1, 2019', 'Jan 23, 2020']",2 hr 5 min,"['Action', 'Biography', 'Drama', 'History']","2,186 theaters"
-63,The Addams Family,United Artists Releasing,"$30,300,0074,007",,"['Oct 11, 2019']",1 hr 26 min,"['Animation', 'Comedy', 'Family', 'Fantasy', 'Horror']","4,107 theaters"
-64,Dark Waters,Focus Features,"$102,6064",,,2 hr 6 min,"['Biography', 'Drama', 'History', 'Thriller']","2,112 theaters"
-65,Fantastic Fungi,Area 23a,"$9,4191",,"['Sep 20, 2019']",1 hr 21 min,['Documentary'],37 theaters
-66,Ride Your Wave,Fathom Events,"$19,64312",,"['Feb 19, 2020']",1 hr 34 min,"['Animation', 'Comedy', 'Drama', 'Family', 'Fantasy', 'Romance']",605 theaters
-67,Les Misérables,Amazon Studios,"$24,1544",,"['Jan 10, 2020']",1 hr 44 min,"['Crime', 'Drama', 'Thriller']",69 theaters
-68,Clemency,Neon,"$35,4442",,"['Dec 27, 2019']",1 hr 52 min,['Drama'],127 theaters
-69,Playing with Fire,Paramount Pictures,"$12,723,7813,125","$29,900,000","['Nov 8, 2019']",1 hr 36 min,"['Comedy', 'Family']","3,185 theaters"
-70,Judy,Roadside Attractions,"$2,916,548461",,,1 hr 58 min,"['Biography', 'Drama', 'Romance']","1,627 theaters"
-71,Mystify: Michael Hutchence,Fathom Events,,,"['Jan 7, 2020']",1 hr 42 min,"['Biography', 'Documentary', 'Music']",597 theaters
-72,Created Equal: Clarence Thomas in His Own Words,Manifold Productions Inc.,"$74,57723",,"['Jan 31, 2020']",1 hr 56 min,['Documentary'],53 theaters
-73,An American in Paris,Fathom Events,"$182,606651",,"['Jan 19, 2020']",1 hr 54 min,"['Drama', 'Musical', 'Romance']",651 theaters
-74,The Traitor,Sony Pictures Classics,"$23,2403",,"['Jan 31, 2020']",2 hr 25 min,"['Biography', 'Crime', 'Drama']",45 theaters
-75,Seberg,Amazon Studios,"$47,1803",,"['Feb 21, 2020']",1 hr 42 min,"['Biography', 'Drama', 'Thriller']",373 theaters
-76,Blind Eyes Opened,Fathom Events,,,"['Jan 23, 2020']",1 hr 55 min,['Drama'],534 theaters
-77,Doctor Who Live Q&A And Screening,Fathom Events,"$228,615692",,"['Jan 5, 2020']",2 hr 46 min,,692 theaters
-78,63 Up,BritBox,"$13,9561",,"['Nov 27, 2019']",3 hr,['Documentary'],28 theaters
-79,Once Were Brothers: Robbie Robertson and the Band,Magnolia Pictures,"$37,8284",,"['Feb 21, 2020']",1 hr 40 min,"['Biography', 'Documentary', 'History', 'Music']",149 theaters
-80,CatVideoFest 2020,Oscilloscope,"$217,92730",,"['Feb 21, 2020']",1 hr 15 min,['Documentary'],77 theaters
-81,Ashfall,Capelight Pictures,"$36,2012",,"['Dec 19, 2019']",2 hr 10 min,"['Action', 'Drama']",18 theaters
-82,National Theater Live: Cyrano de Bergerac,Fathom Events,,,"['Feb 20, 2020']",2 hr 40 min,['Drama'],472 theaters
-83,Ordinary Love,Bleecker Street Media,"$23,5643",,"['Feb 14, 2020']",1 hr 32 min,"['Drama', 'Romance']",70 theaters
-84,Zombieland: Double Tap,Sony Pictures Releasing,"$26,803,1043,468","$42,000,000","['Oct 18, 2019', 'Jan 23, 2020']",1 hr 39 min,"['Action', 'Comedy', 'Horror']","3,468 theaters"
-85,The Doors: Break On Thru - A Celebration Of Ray Manzarek,Trafalgar Releasing,"$4,31215",,"['Feb 12, 2020']",1 hr 7 min,['Documentary'],330 theaters
-86,Cunningham,Magnolia Pictures,"$18,4224",,"['Dec 13, 2019']",1 hr 33 min,"['Biography', 'Documentary', 'Music']",23 theaters
-87,The Good Liar,Warner Bros.,"$5,605,0512,439","$10,000,000","['Nov 15, 2019', 'Jan 16, 2020']",1 hr 49 min,"['Crime', 'Drama', 'Mystery', 'Thriller']","2,454 theaters"
-88,Love Story,Fathom Events,"$87,198650",,"['Feb 9, 2020']",1 hr 40 min,"['Drama', 'Romance']",650 theaters
-89,Beanpole,Kino Lorber,"$10,0081",,"['Jan 29, 2020']",2 hr 10 min,"['Drama', 'War']",34 theaters
-90,No Safe Spaces,Atlas Distribution Company,"$45,2361",,"['Oct 25, 2019', 'Nov 10, 2019']",1 hr 40 min,['Documentary'],200 theaters
-91,And Then We Danced,Music Box Films,"$13,8802",,"['Feb 7, 2020']",1 hr 53 min,"['Drama', 'Romance']",20 theaters
-92,Incitement,Greenwich Entertainment,"$22,4372",,"['Jan 31, 2020']",2 hr 3 min,['Thriller'],21 theaters
-93,Invisible Life,Amazon Studios,"$8,1272",,"['Dec 20, 2019']",2 hr 19 min,['Drama'],18 theaters
-94,The Man Standing Next,Capelight Pictures,"$16,5142",,"['Jan 24, 2020']",1 hr 54 min,"['History', 'Thriller']",22 theaters
-95,Citizen K,Greenwich Entertainment,"$10,5711",,"['Nov 22, 2019']",2 hr 6 min,['Documentary'],15 theaters
-96,The Times of Bill Cunningham,Greenwich Entertainment,"$41,9452",,"['Feb 14, 2020']",1 hr 14 min,['Documentary'],10 theaters
-97,Come to Daddy,Saban Films,"$57,99829",,"['Feb 7, 2020']",1 hr 36 min,"['Comedy', 'Thriller']",29 theaters
-98,The Lighthouse,A24,"$427,7978",,,1 hr 49 min,"['Drama', 'Fantasy', 'Horror', 'Mystery']",978 theaters
-99,First Lady,ArtAffects Entertainment,"$56,74768",,"['Feb 14, 2020']",1 hr 41 min,"['Comedy', 'Romance']",68 theaters
-100,Honeyland,Neon,"$31,3812",,"['Jul 26, 2019']",1 hr 29 min,"['Documentary', 'Drama']",56 theaters
-101,The Woman Who Loves Giraffes,Zeitgeist Films,"$1,8102",,"['Oct 4, 2019']",2 hr 3 min,['Documentary'],22 theaters
-102,Honey Boy,Amazon Studios,"$301,0654",,"['Nov 8, 2019']",1 hr 34 min,['Drama'],460 theaters
-103,Waves,A24,"$134,3334",,"['Nov 15, 2019']",2 hr 15 min,"['Drama', 'Romance', 'Sport']",570 theaters
-104,Varda by Agnès,Janus Films,"$12,3902",,"['Nov 22, 2019']",1 hr 55 min,"['Biography', 'Documentary']",10 theaters
-105,A Simple Wedding,Blue Fox Entertainment,"$21,79410",,"['Feb 14, 2020']",1 hr 28 min,"['Comedy', 'Romance']",10 theaters
-106,Corpus Christi,Film Movement,"$4,6321",,"['Feb 14, 2020']",1 hr 55 min,['Drama'],13 theaters
-107,The Wonderland,Eleven Arts,"$1,3201",,"['Jan 20, 2020']",1 hr 56 min,"['Adventure', 'Animation', 'Family', 'Fantasy']",143 theaters
-108,VHYes,Oscilloscope,,,"['Jan 17, 2020']",1 hr 12 min,['Comedy'],23 theaters
-109,Charlie's Angels,Sony Pictures Releasing,"$8,351,1093,452","$48,000,000","['Nov 15, 2019']",1 hr 58 min,"['Action', 'Adventure', 'Comedy']","3,452 theaters"
-110,Enter the Fat Dragon,Well Go USA Entertainment,"$22,19311",,"['Feb 14, 2020']",1 hr 36 min,"['Action', 'Comedy']",11 theaters
-111,Doctor Sleep,Warner Bros.,"$14,114,1243,855",,"['Nov 8, 2019', 'Jan 9, 2020']",2 hr 32 min,"['Drama', 'Fantasy', 'Horror', 'Thriller']","3,855 theaters"
-112,The White Sheik,Rialto Pictures,"$5,5621",,"['Dec 25, 2019']",1 hr 26 min,"['Comedy', 'Drama']",3 theaters
-113,Come and See,Janus Films,"$16,0532",,"['Feb 21, 2020']",2 hr 22 min,"['Drama', 'War']",2 theaters
-114,Abominable,Universal Pictures,"$20,612,1004,242","$75,000,000","['Sep 27, 2019', 'Jan 2, 2020']",1 hr 37 min,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']","4,248 theaters"
-115,Three Christs,IFC Films,,,"['Jan 3, 2020']",1 hr 49 min,['Drama'],31 theaters
-116,Last Christmas,Universal Pictures,"$11,441,0553,448","$25,000,000","['Nov 8, 2019', 'Jan 2, 2020']",1 hr 43 min,"['Comedy', 'Drama', 'Romance']","3,454 theaters"
-117,After Parkland,Kino Lorber,,,"['Feb 12, 2020']",1 hr 32 min,['Documentary'],71 theaters
-118,Play the Flute,Five & Two Pictures,,,"['Jan 28, 2019']",1 hr 43 min,['Drama'],11 theaters
-119,Buffaloed,Magnolia Pictures,"$13,7969",,"['Feb 14, 2020']",1 hr 35 min,"['Comedy', 'Drama']",9 theaters
-120,Olympic Dreams,IFC Films,"$9,2904",,"['Feb 14, 2020']",1 hr 25 min,"['Comedy', 'Romance', 'Sport']",35 theaters
-121,Wendy,Fox Searchlight Pictures,"$26,2144",,"['Feb 28, 2020']",1 hr 52 min,"['Drama', 'Fantasy']",4 theaters
-122,Countdown,STX Entertainment,"$8,865,0822,675","$6,500,000","['Oct 25, 2019', 'Jan 9, 2020']",1 hr 30 min,"['Horror', 'Thriller']","2,675 theaters"
-123,Midnight Family,1091 Media,"$3,0301",,"['Dec 6, 2019']",1 hr 21 min,"['Action', 'Crime', 'Documentary', 'Drama']",13 theaters
-124,José,Outsider Pictures,"$11,1911",,"['Jan 31, 2020']",1 hr 25 min,['Drama'],2 theaters
-125,Synonyms,Kino Lorber,"$17,8912",,"['Oct 25, 2019']",2 hr 3 min,"['Comedy', 'Drama']",13 theaters
-126,Promare,GKIDS,"$109,08554",,"['Sep 17, 2019']",1 hr 51 min,"['Action', 'Adventure', 'Animation', 'Comedy', 'Drama', 'Family', 'Fantasy', 'Sci-Fi', 'Thriller']",701 theaters
-127,Burden,101 Studios,"$20,1605",,"['Feb 28, 2020']",1 hr 57 min,['Drama'],5 theaters
-128,Greed,Sony Pictures Classics,"$24,1634",,"['Feb 28, 2020']",1 hr 44 min,"['Comedy', 'Drama']",4 theaters
-129,Cane River,Oscilloscope,,,"['Feb 7, 2020']",1 hr 44 min,"['Drama', 'Romance']",5 theaters
-130,Branagh Theatre Live: The Winter's Tale,Trafalgar Releasing,"$34,38092",,"['Dec 4, 2019']",3 hr,['Drama'],106 theaters
-131,Tread,Gravitas Ventures,"$10,58513",,"['Feb 21, 2020']",1 hr 29 min,['Documentary'],25 theaters
-132,Zombi Child,Film Movement,"$6,0513",,"['Jan 24, 2020']",1 hr 43 min,['Fantasy'],39 theaters
-133,L'Innocente,Film Movement,"$7,1911",,"['Feb 14, 2020']",2 hr 9 min,"['Drama', 'Romance']",2 theaters
-134,Les Misérables: The Staged Concert,Trafalgar Releasing,"$192,034392",,"['Dec 6, 2019']",2 hr 50 min,['Musical'],488 theaters
-135,The Cordillera of Dreams,Icarus Films,"$4,4462",,"['Feb 12, 2020']",1 hr 24 min,['Documentary'],8 theaters
-136,The Whistlers,Magnolia Pictures,"$20,4583",,"['Feb 28, 2020']",1 hr 37 min,"['Comedy', 'Crime']",3 theaters
-137,Premature,IFC Films,"$9,9094",,"['Feb 21, 2020']",1 hr 30 min,"['Drama', 'Music', 'Romance']",29 theaters
-138,Lore,Indican Pictures,"$7,0847",,"['Jan 17, 2020', 'Feb 13, 2020']",1 hr 49 min,['Thriller'],7 theaters
-139,Recorder: The Marion Stokes Project,Zeitgeist Films,"$8,2161",,"['Nov 15, 2019']",1 hr 27 min,['Documentary'],5 theaters
-140,Pandora and the Flying Dutchman,Cohen Media Group,"$5,4661",,"['Feb 7, 2020']",2 hr 2 min,"['Drama', 'Fantasy', 'Mystery', 'Romance']",2 theaters
-141,Born to Be Wild,Warner Bros.,"$871,478206",,"['Apr 8, 2011']",40 min,"['Adventure', 'Documentary', 'Short']",208 theaters
-142,Advocate,Film Movement,"$8,1862",,"['Jan 3, 2020']",1 hr 54 min,['Documentary'],2 theaters
-143,Downtown 81,Metrograph Pictures,"$25,2081",,"['Oct 25, 2019']",1 hr 12 min,"['Comedy', 'Drama', 'Musical']",8 theaters
-144,Saint Frances,Oscilloscope,"$14,2981",,"['Feb 28, 2020']",1 hr 46 min,"['Comedy', 'Drama']",1 theater
-145,The Cave,National Geographic Entertainment,"$21,1852",,"['Oct 18, 2019']",1 hr 47 min,"['Documentary', 'War']",10 theaters
-146,The Kingmaker,Greenwich Entertainment,"$19,5232",,"['Nov 8, 2019']",1 hr 41 min,['Documentary'],18 theaters
-147,Linda Ronstadt: The Sound of My Voice,Greenwich Entertainment,"$113,2357",,"['Sep 6, 2019']",1 hr 35 min,"['Biography', 'Documentary', 'Music']",247 theaters
-148,Redoubt,Grasshopper Film,"$5,2531",,"['Nov 1, 2019']",2 hr 14 min,['Drama'],3 theaters
-149,"I Was at Home, But",The Cinema Guild,"$6,1151",,"['Feb 14, 2020']",1 hr 45 min,['Drama'],1 theater
-150,You Go to My Head,First Run,"$5,8641",,"['Feb 14, 2020']",1 hr 56 min,"['Drama', 'Fantasy', 'Mystery', 'Romance', 'Thriller']",2 theaters
-151,Playmobil: The Movie,STX Entertainment,"$656,5302,337",,"['Dec 6, 2019', 'Jan 9, 2020']",1 hr 39 min,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Musical']","2,337 theaters"
-152,A Beautiful Planet,IMAX,"$223,983137",,"['Apr 29, 2016']",46 min,['Documentary'],155 theaters
-153,Foosballers,Kicking + Screening Media Group,,,"['Feb 11, 2020']",1 hr 36 min,"['Comedy', 'Documentary', 'Sport', 'Western']",9 theaters
-154,The Perfect Race,Five & Two Pictures,"$3,4001",,"['Oct 14, 2019']",,['Drama'],2 theaters
-155,The Wave,Epic Pictures,,,"['Jan 17, 2020']",1 hr 30 min,"['Sci-Fi', 'Thriller']",13 theaters
-156,Black and Blue,Screen Gems,"$8,376,8462,062","$12,000,000","['Oct 25, 2019', 'Jan 2, 2020']",1 hr 48 min,"['Action', 'Crime', 'Drama', 'Thriller']","2,062 theaters"
-157,Young Ahmed,Kino Lorber,"$4,2162",,"['Feb 21, 2020']",1 hr 30 min,['Drama'],2 theaters
-158,American Dharma,Utopia,"$7,2871",,"['Nov 1, 2019']",1 hr 35 min,"['Biography', 'Documentary']",11 theaters
-159,Under the Sea 3D,Warner Bros.,"$661,18549",,"['Feb 13, 2009']",45 min,"['Documentary', 'Short']",108 theaters
-160,Lost in America,Indican Pictures,"$6,7982",,"['Feb 28, 2020']",1 hr 45 min,['Documentary'],2 theaters
-161,Afterward,Abramorama,"$6,4771",,"['Jan 10, 2020']",1 hr 35 min,['Documentary'],1 theater
-162,Kind Hearts and Coronets,Rialto Pictures,"$8,0041",,"['Nov 27, 2019']",1 hr 46 min,"['Comedy', 'Crime']",3 theaters
-163,Hubble 3D,Warner Bros.,"$413,47739",,"['Mar 19, 2010']",45 min,['Documentary'],151 theaters
-164,By the Grace of God,Music Box Films,"$7,7652",,"['Oct 18, 2019']",2 hr 17 min,"['Crime', 'Drama']",11 theaters
-165,Matthias & Maxime,Entertainment One,"$64,98850",,"['Oct 9, 2019']",1 hr 59 min,['Drama'],53 theaters
-166,Que Leones,Spanglish Movies,,,"['Dec 5, 2019']",1 hr 36 min,"['Comedy', 'Romance']",3 theaters
-167,The Disappearance of My Mother,Kino Lorber,,,"['Dec 6, 2019']",1 hr 34 min,['Documentary'],3 theaters
-168,Tremors,Film Movement,"$3,3404",,"['Nov 29, 2019']",1 hr 47 min,['Drama'],6 theaters
-169,Blood Widow,Indican Pictures,,,"['Aug 4, 2019', 'Jan 30, 2020']",1 hr 34 min,"['Horror', 'Mystery', 'Thriller']",2 theaters
-170,Just One More Kiss,Indican Pictures,"$2,4202",,"['Feb 21, 2020']",1 hr 40 min,"['Drama', 'Romance']",2 theaters
-171,Give Me Liberty,Music Box Films,"$33,2613",,"['Aug 23, 2019']",1 hr 50 min,['Comedy'],18 theaters
-172,Sympathy for the Devil,eOne Entertainment,"$12,1446",,"['Nov 29, 2019']",1 hr 40 min,['War'],8 theaters
-173,Straight Up,Strand Releasing,"$4,0751",,"['Feb 28, 2020']",1 hr 35 min,"['Comedy', 'Romance']",1 theater
-174,Stuffed,Music Box Films,"$1,6021",,"['Oct 16, 2019']",1 hr 24 min,['Documentary'],3 theaters
-175,Vitalina Varela,Grasshopper Film,"$4,6121",,"['Feb 21, 2020']",2 hr 4 min,['Drama'],3 theaters
-176,Maiden,Sony Pictures Classics,"$46,9316",,"['Jun 28, 2019']",1 hr 37 min,"['Documentary', 'Sport']",180 theaters
-177,Aquarela,Sony Pictures Classics,"$24,7535",,"['Aug 16, 2019']",1 hr 30 min,['Documentary'],69 theaters
-178,A Bigger Splash,Metrograph Pictures,"$18,0001",,"['Jun 21, 2019']",1 hr 46 min,"['Biography', 'Documentary', 'Drama']",11 theaters
-179,Ballon,Distrib Films,,,"['Sep 6, 2019']",2 hr 5 min,"['Drama', 'History', 'Thriller']",5 theaters
-180,Ága,Big World Pictures,"$2,5531",,"['Sep 4, 2019']",1 hr 36 min,['Drama'],3 theaters
-181,The Hottest August,Grasshopper Film,"$3,8832",,"['Nov 15, 2019']",1 hr 34 min,['Documentary'],2 theaters
-182,Killing Sarai,Pantelion Films,"$226,670160",,"['Dec 6, 2019', 'Jan 3, 2020']",1 hr 46 min,"['Romance', 'Thriller']",160 theaters
-183,Chinese Portrait,The Cinema Guild,$5461,,"['Dec 13, 2019']",1 hr 19 min,['Documentary'],2 theaters
-184,Hustlers,STX Entertainment,"$33,181,3613,250","$20,000,000","['Sep 13, 2019', 'Jan 9, 2020']",1 hr 50 min,"['Comedy', 'Crime', 'Drama', 'Thriller']","3,525 theaters"
-185,Deep Sea,Warner Bros.,"$700,21343",,"['Mar 3, 2006']",41 min,"['Documentary', 'Short']",47 theaters
-186,Goldie,Film Movement,"$1,20010",,"['Feb 21, 2020']",1 hr 28 min,['Drama'],10 theaters
-187,Mr. Klein,Rialto Pictures,"$15,9151",,"['Sep 6, 2019']",2 hr 3 min,"['Crime', 'Drama', 'Mystery', 'Thriller', 'War']",6 theaters
-188,Little Joe,Magnolia Pictures,"$10,62612",,"['Dec 6, 2019']",1 hr 45 min,"['Drama', 'Horror', 'Mystery', 'Sci-Fi']",12 theaters
-189,Frankie,Sony Pictures Classics,"$19,4354",,"['Oct 25, 2019']",1 hr 40 min,['Drama'],117 theaters
-190,Christ Stopped at Eboli,Rialto Pictures,"$9,0061",,"['Apr 3, 2019']",2 hr 30 min,['Drama'],3 theaters
-191,To the Arctic 3D,Warner Bros.,"$270,22850",,"['Apr 20, 2012']",40 min,['Documentary'],52 theaters
-192,End of the Century,The Cinema Guild,"$10,0631",,"['Aug 16, 2019']",1 hr 24 min,['Drama'],6 theaters
-193,Duet for Cannibals,Metrograph Pictures,,,"['Nov 22, 2019']",1 hr 45 min,['Drama'],4 theaters
-194,Space Station 3D,IMAX,"$489,48824",,"['Apr 19, 2002']",47 min,['Documentary'],64 theaters
-195,Be Natural: The Untold Story of Alice Guy-Blaché,Zeitgeist Films,"$3,2371",,"['Apr 19, 2019']",1 hr 43 min,['Documentary'],14 theaters
-196,Light from Light,Grasshopper Film,"$4,7192",,"['Nov 1, 2019']",1 hr 22 min,['Drama'],5 theaters
-197,Edie,Music Box Films,"$8,8017",,"['Sep 6, 2019', 'Dec 26, 2019']",1 hr 42 min,['Drama'],11 theaters
-198,The Gliksmans,Indican Pictures,"$2,9223",,"['Sep 27, 2019', 'Jan 23, 2020']",1 hr 12 min,['Comedy'],3 theaters
-199,Hai Tang Hong,M Star International,$31030,,"['Feb 21, 2020']",1 hr 30 min,,30 theaters
-200,Millennium Actress,Fathom Events,,,"['Aug 13, 2019', 'Jan 23, 2020']",1 hr 27 min,"['Animation', 'Drama', 'Fantasy', 'Romance']",512 theaters
-201,Spiral Farm,Indican Pictures,"$5,4753",,"['Dec 13, 2019', 'Jan 23, 2020']",1 hr 25 min,['Drama'],3 theaters
-202,A German Youth,Big World Pictures,$4161,,"['Oct 11, 2019']",1 hr 33 min,['Documentary'],1 theater
-203,Hyènes,Metrograph Pictures,,,"['Apr 19, 2019']",1 hr 50 min,"['Comedy', 'Drama']",4 theaters
-204,Island of Lemurs: Madagascar,Warner Bros.,"$188,30737",,"['Apr 4, 2014']",39 min,"['Adventure', 'Biography', 'Documentary', 'Family', 'Short']",302 theaters
-205,I Do Not Care If We Go Down in History as Barbarians,Big World Pictures,"$2,0831",,"['Jul 19, 2019']",2 hr 20 min,"['Comedy', 'Drama']",2 theaters
-206,The Load,Grasshopper Film,"$4,0941",,"['Aug 30, 2019']",1 hr 38 min,['Drama'],2 theaters
-207,Asako I & II,Grasshopper Film,"$5,6902",,"['May 17, 2019']",1 hr 59 min,"['Drama', 'Romance']",3 theaters
-208,Chained for Life,Kino International,"$7,4152",,"['Sep 13, 2019', 'Jan 9, 2020']",1 hr 31 min,['Drama'],3 theaters
-209,Shooting the Mafia,Cohen Media Group,"$3,2512",,"['Nov 22, 2019']",1 hr 34 min,"['Biography', 'Documentary']",3 theaters
+Name,Distributor,Opening,Budget,Release Date,Running Time,Genres,Widest Release
+Bad Boys for Life,Sony Pictures Releasing,625041053775,90000000,"['Jan 17, 2020']",2 hr 4 min,"['Action', 'Comedy', 'Crime', 'Thriller']",3775 theaters
+1917,Universal Pictures,57621611,0,No relase date,1 hr 59 min,"['Drama', 'War']",3987 theaters
+Sonic the Hedgehog,Paramount Pictures,580183484167,85000000,"['Feb 14, 2020']",1 hr 39 min,"['Action', 'Adventure', 'Comedy', 'Family', 'Sci-Fi']",4198 theaters
+Star Wars: Episode IX - The Rise of Skywalker,Walt Disney Studios Motion Pictures,1773838644406,0,"['Dec 20, 2019']",2 hr 22 min,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']",4406 theaters
+Jumanji: The Next Level,Sony Pictures Releasing,592515434227,125000000,"['Dec 13, 2019']",2 hr 3 min,"['Action', 'Adventure', 'Comedy', 'Fantasy']",4227 theaters
+Birds of Prey: And the Fantabulous Emancipation of One Harley Quinn,Warner Bros.,330100174236,84500000,"['Feb 7, 2020']",1 hr 49 min,"['Action', 'Adventure', 'Crime']",4236 theaters
+Dolittle,Universal Pictures,218440454155,175000000,"['Jan 17, 2020']",1 hr 41 min,"['Adventure', 'Comedy', 'Family', 'Fantasy']",4155 theaters
+Little Women,Sony Pictures Releasing,167553103308,40000000,"['Dec 25, 2019']",2 hr 15 min,"['Drama', 'Romance']",3308 theaters
+Knives Out,Lionsgate,267695483461,40000000,"['Nov 27, 2019']",2 hr 11 min,"['Comedy', 'Crime', 'Drama', 'Mystery', 'Thriller']",3461 theaters
+The Call of the Wild,Twentieth Century Fox,247916243752,135000000,"['Feb 21, 2020']",1 hr 40 min,"['Adventure', 'Drama', 'Family']",3865 theaters
+Frozen II,Walt Disney Studios Motion Pictures,1302633584440,0,"['Nov 22, 2019']",1 hr 43 min,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Musical']",4440 theaters
+Spies in Disguise,Twentieth Century Fox,133547983502,0,"['Dec 25, 2019']",1 hr 42 min,"['Action', 'Adventure', 'Animation', 'Comedy', 'Family', 'Sci-Fi']",3502 theaters
+Just Mercy,Warner Bros.,1078584,0,No relase date,2 hr 17 min,['Drama'],2457 theaters
+The Gentlemen,STX Entertainment,106518842165,0,"['Jan 24, 2020']",1 hr 53 min,"['Action', 'Comedy', 'Crime']",2675 theaters
+The Invisible Man,Universal Pictures,282056653610,7000000,"['Feb 28, 2020']",2 hr 4 min,"['Horror', 'Mystery', 'Sci-Fi', 'Thriller']",3610 theaters
+Parasite,Neon,3932163,0,No relase date,2 hr 12 min,"['Comedy', 'Drama', 'Thriller']",2001 theaters
+Uncut Gems,A24,5372425,0,No relase date,2 hr 15 min,"['Crime', 'Drama', 'Thriller']",2686 theaters
+Fantasy Island,Sony Pictures Releasing,123104202784,7000000,"['Feb 14, 2020']",1 hr 49 min,"['Adventure', 'Comedy', 'Fantasy', 'Horror', 'Mystery', 'Thriller']",2784 theaters
+Like a Boss,Paramount Pictures,100112723078,29000000,"['Jan 10, 2020', 'Feb 20, 2020']",1 hr 23 min,['Comedy'],3081 theaters
+The Grudge,Sony Pictures Releasing,114041132642,10000000,"['Jan 3, 2020', 'Feb 27, 2020']",1 hr 34 min,"['Horror', 'Mystery']",2642 theaters
+The Photograph,Universal Pictures,121818652516,16000000,"['Feb 14, 2020']",1 hr 46 min,"['Drama', 'Romance']",2516 theaters
+Underwater,Twentieth Century Fox,70082972791,0,"['Jan 10, 2020']",1 hr 35 min,"['Action', 'Drama', 'Horror', 'Mystery', 'Sci-Fi', 'Thriller']",2791 theaters
+The Turning,Universal Pictures,69500452571,14000000,"['Jan 24, 2020']",1 hr 34 min,"['Drama', 'Horror', 'Mystery']",2571 theaters
+Gretel & Hansel,United Artists Releasing,61540073007,0,"['Jan 31, 2020']",1 hr 27 min,"['Fantasy', 'Horror', 'Thriller']",3007 theaters
+Bombshell,Lionsgate,3191574,0,No relase date,1 hr 49 min,"['Biography', 'Drama']",1721 theaters
+Jojo Rabbit,Fox Searchlight Pictures,3495555,0,No relase date,1 hr 48 min,"['Comedy', 'Drama', 'War']",1173 theaters
+Ford v Ferrari,Twentieth Century Fox,314749583528,97600000,"['Nov 15, 2019']",2 hr 32 min,"['Action', 'Biography', 'Drama', 'Sport']",3746 theaters
+My Hero Academia: Heroes Rising,FUNimation Entertainment,58883301260,0,"['Feb 26, 2020']",1 hr 44 min,"['Action', 'Adventure', 'Animation', 'Comedy', 'Family', 'Sci-Fi']",1275 theaters
+Brahms: The Boy II,STX Entertainment,58230062151,10000000,"['Feb 21, 2020']",1 hr 26 min,"['Drama', 'Horror', 'Mystery', 'Thriller']",2151 theaters
+Downhill,Fox Searchlight Pictures,46220182301,0,"['Feb 14, 2020']",1 hr 26 min,"['Comedy', 'Drama']",2311 theaters
+Weathering with You,GKIDS,1808533486,0,"['Jan 15, 2020']",1 hr 52 min,"['Animation', 'Drama', 'Fantasy', 'Romance']",1020 theaters
+Impractical Jokers: The Movie,truTV,2607049357,0,No relase date,1 hr 32 min,['Comedy'],1900 theaters
+Cats,Universal Pictures,66198703380,95000000,"['Dec 20, 2019', 'Feb 13, 2020']",1 hr 50 min,"['Comedy', 'Drama', 'Family', 'Fantasy', 'Musical']",3380 theaters
+The Rhythm Section,Paramount Pictures,27153843049,0,"['Jan 31, 2020', 'Feb 20, 2020']",1 hr 49 min,"['Action', 'Drama', 'Mystery', 'Thriller']",3049 theaters
+A Beautiful Day in the Neighborhood,Sony Pictures Releasing,132512383235,25000000,"['Nov 22, 2019']",1 hr 49 min,"['Biography', 'Drama']",3491 theaters
+Richard Jewell,Warner Bros.,47052652502,0,"['Dec 13, 2019', 'Feb 6, 2020']",2 hr 11 min,"['Biography', 'Crime', 'Drama']",2502 theaters
+2020 Oscar Nominated Short Films,Magnolia Pictures,1155505465,0,"['Jan 31, 2020']",2 hr 33 min,No genres,536 theaters
+Queen & Slim,Universal Pictures,118904901690,0,"['Nov 27, 2019', 'Jan 30, 2020']",2 hr 12 min,"['Crime', 'Drama', 'Romance']",1715 theaters
+The Last Full Measure,Roadside Attractions,1058019614,0,"['Jan 24, 2020']",1 hr 56 min,"['Drama', 'War']",617 theaters
+Las Pildoras De Mi Novio,Pantelion Films,1396140350,0,"['Feb 21, 2020']",1 hr 40 min,['Comedy'],350 theaters
+Portrait of a Lady on Fire,Neon,673442,0,"['Dec 6, 2019']",2 hr 2 min,"['Drama', 'Romance']",268 theaters
+Ip Man 4: The Finale,Well Go USA Entertainment,73771870,0,"['Dec 25, 2019']",1 hr 47 min,"['Action', 'Biography', 'Drama', 'History']",125 theaters
+Emma.,Focus Features,2344825,0,No relase date,2 hr 4 min,"['Comedy', 'Drama']",97 theaters
+Joker,Warner Bros.,962023374374,55000000,"['Oct 4, 2019']",2 hr 2 min,"['Crime', 'Drama', 'Thriller']",4374 theaters
+The Lodge,Neon,762516,0,"['Feb 7, 2020']",1 hr 48 min,"['Drama', 'Horror', 'Thriller']",395 theaters
+Once Upon a Time... in Hollywood,Sony Pictures Releasing,410820183659,90000000,"['Jul 26, 2019', 'Feb 20, 2020']",2 hr 41 min,"['Comedy', 'Drama']",3659 theaters
+The Assistant,Bleecker Street Media,791414,0,"['Jan 31, 2020']",1 hr 27 min,['Drama'],155 theaters
+The Song of Names,Sony Pictures Classics,3945210,0,"['Dec 25, 2019']",1 hr 53 min,['Drama'],182 theaters
+Jay and Silent Bob Reboot,Saban Films,935201,0,"['Oct 15, 2019']",1 hr 45 min,['Comedy'],788 theaters
+A Hidden Life,Fox Searchlight Pictures,503835,0,"['Dec 13, 2019', 'Feb 6, 2020']",2 hr 54 min,"['Biography', 'Drama', 'Romance', 'War']",151 theaters
+Sarileru Neekevvaru,Great India Films,821000300,0,"['Jan 10, 2020']",2 hr 49 min,"['Action', 'Comedy', 'Drama']",300 theaters
+21 Bridges,STX Entertainment,92612682665,33000000,"['Nov 22, 2019', 'Jan 23, 2020']",1 hr 39 min,"['Action', 'Crime', 'Drama', 'Thriller']",2665 theaters
+Patterns of Evidence: The Red Sea Miracle,Fathom Events,0,0,"['Feb 18, 2020']",2 hr 30 min,['Documentary'],807 theaters
+Pain and Glory,Sony Pictures Classics,1526364,0,"['Oct 4, 2019']",1 hr 53 min,['Drama'],266 theaters
+Merci pour tout,eOne Entertainment,23190857,0,"['Dec 25, 2019']",1 hr 39 min,['Comedy'],76 theaters
+Maleficent: Mistress of Evil,Walt Disney Studios Motion Pictures,369487133790,0,"['Oct 18, 2019', 'Feb 13, 2020']",1 hr 59 min,"['Adventure', 'Family', 'Fantasy']",3820 theaters
+Chhapaak,FIP,316781100,0,"['Jan 10, 2020', 'Jan 30, 2020']",2 hr,"['Biography', 'Drama']",100 theaters
+Mafia Inc,Entertainment One,26493985,0,"['Feb 14, 2020']",2 hr 15 min,"['Crime', 'Drama']",85 theaters
+Panga,FIP,285689102,0,"['Jan 24, 2020', 'Feb 13, 2020']",2 hr 11 min,"['Drama', 'Sport']",102 theaters
+Midway,Lionsgate,178974193242,100000000,"['Nov 8, 2019', 'Jan 23, 2020']",2 hr 18 min,"['Action', 'Drama', 'History', 'War']",3242 theaters
+Black Christmas,Universal Pictures,42402452625,5000000,"['Dec 13, 2019']",1 hr 32 min,"['Horror', 'Mystery', 'Thriller']",2625 theaters
+Color Out of Space,RLJE Films,21616281,0,"['Jan 24, 2020']",1 hr 51 min,"['Horror', 'Sci-Fi']",81 theaters
+Harriet,Focus Features,116767202059,17000000,"['Nov 1, 2019', 'Jan 23, 2020']",2 hr 5 min,"['Action', 'Biography', 'Drama', 'History']",2186 theaters
+The Addams Family,United Artists Releasing,303000074007,0,"['Oct 11, 2019']",1 hr 26 min,"['Animation', 'Comedy', 'Family', 'Fantasy', 'Horror']",4107 theaters
+Dark Waters,Focus Features,1026064,0,No relase date,2 hr 6 min,"['Biography', 'Drama', 'History', 'Thriller']",2112 theaters
+Fantastic Fungi,Area 23a,94191,0,"['Sep 20, 2019']",1 hr 21 min,['Documentary'],37 theaters
+Ride Your Wave,Fathom Events,1964312,0,"['Feb 19, 2020']",1 hr 34 min,"['Animation', 'Comedy', 'Drama', 'Family', 'Fantasy', 'Romance']",605 theaters
+Les Misérables,Amazon Studios,241544,0,"['Jan 10, 2020']",1 hr 44 min,"['Crime', 'Drama', 'Thriller']",69 theaters
+Clemency,Neon,354442,0,"['Dec 27, 2019']",1 hr 52 min,['Drama'],127 theaters
+Playing with Fire,Paramount Pictures,127237813125,29900000,"['Nov 8, 2019']",1 hr 36 min,"['Comedy', 'Family']",3185 theaters
+Judy,Roadside Attractions,2916548461,0,No relase date,1 hr 58 min,"['Biography', 'Drama', 'Romance']",1627 theaters
+Mystify: Michael Hutchence,Fathom Events,0,0,"['Jan 7, 2020']",1 hr 42 min,"['Biography', 'Documentary', 'Music']",597 theaters
+Created Equal: Clarence Thomas in His Own Words,Manifold Productions Inc.,7457723,0,"['Jan 31, 2020']",1 hr 56 min,['Documentary'],53 theaters
+An American in Paris,Fathom Events,182606651,0,"['Jan 19, 2020']",1 hr 54 min,"['Drama', 'Musical', 'Romance']",651 theaters
+The Traitor,Sony Pictures Classics,232403,0,"['Jan 31, 2020']",2 hr 25 min,"['Biography', 'Crime', 'Drama']",45 theaters
+Seberg,Amazon Studios,471803,0,"['Feb 21, 2020']",1 hr 42 min,"['Biography', 'Drama', 'Thriller']",373 theaters
+Blind Eyes Opened,Fathom Events,0,0,"['Jan 23, 2020']",1 hr 55 min,['Drama'],534 theaters
+Doctor Who Live Q&A And Screening,Fathom Events,228615692,0,"['Jan 5, 2020']",2 hr 46 min,No genres,692 theaters
+63 Up,BritBox,139561,0,"['Nov 27, 2019']",3 hr,['Documentary'],28 theaters
+Once Were Brothers: Robbie Robertson and the Band,Magnolia Pictures,378284,0,"['Feb 21, 2020']",1 hr 40 min,"['Biography', 'Documentary', 'History', 'Music']",149 theaters
+CatVideoFest 2020,Oscilloscope,21792730,0,"['Feb 21, 2020']",1 hr 15 min,['Documentary'],77 theaters
+Ashfall,Capelight Pictures,362012,0,"['Dec 19, 2019']",2 hr 10 min,"['Action', 'Drama']",18 theaters
+National Theater Live: Cyrano de Bergerac,Fathom Events,0,0,"['Feb 20, 2020']",2 hr 40 min,['Drama'],472 theaters
+Ordinary Love,Bleecker Street Media,235643,0,"['Feb 14, 2020']",1 hr 32 min,"['Drama', 'Romance']",70 theaters
+Zombieland: Double Tap,Sony Pictures Releasing,268031043468,42000000,"['Oct 18, 2019', 'Jan 23, 2020']",1 hr 39 min,"['Action', 'Comedy', 'Horror']",3468 theaters
+The Doors: Break On Thru - A Celebration Of Ray Manzarek,Trafalgar Releasing,431215,0,"['Feb 12, 2020']",1 hr 7 min,['Documentary'],330 theaters
+Cunningham,Magnolia Pictures,184224,0,"['Dec 13, 2019']",1 hr 33 min,"['Biography', 'Documentary', 'Music']",23 theaters
+The Good Liar,Warner Bros.,56050512439,10000000,"['Nov 15, 2019', 'Jan 16, 2020']",1 hr 49 min,"['Crime', 'Drama', 'Mystery', 'Thriller']",2454 theaters
+Love Story,Fathom Events,87198650,0,"['Feb 9, 2020']",1 hr 40 min,"['Drama', 'Romance']",650 theaters
+Beanpole,Kino Lorber,100081,0,"['Jan 29, 2020']",2 hr 10 min,"['Drama', 'War']",34 theaters
+No Safe Spaces,Atlas Distribution Company,452361,0,"['Oct 25, 2019', 'Nov 10, 2019']",1 hr 40 min,['Documentary'],200 theaters
+And Then We Danced,Music Box Films,138802,0,"['Feb 7, 2020']",1 hr 53 min,"['Drama', 'Romance']",20 theaters
+Incitement,Greenwich Entertainment,224372,0,"['Jan 31, 2020']",2 hr 3 min,['Thriller'],21 theaters
+Invisible Life,Amazon Studios,81272,0,"['Dec 20, 2019']",2 hr 19 min,['Drama'],18 theaters
+The Man Standing Next,Capelight Pictures,165142,0,"['Jan 24, 2020']",1 hr 54 min,"['History', 'Thriller']",22 theaters
+Citizen K,Greenwich Entertainment,105711,0,"['Nov 22, 2019']",2 hr 6 min,['Documentary'],15 theaters
+The Times of Bill Cunningham,Greenwich Entertainment,419452,0,"['Feb 14, 2020']",1 hr 14 min,['Documentary'],10 theaters
+Come to Daddy,Saban Films,5799829,0,"['Feb 7, 2020']",1 hr 36 min,"['Comedy', 'Thriller']",29 theaters
+The Lighthouse,A24,4277978,0,No relase date,1 hr 49 min,"['Drama', 'Fantasy', 'Horror', 'Mystery']",978 theaters
+First Lady,ArtAffects Entertainment,5674768,0,"['Feb 14, 2020']",1 hr 41 min,"['Comedy', 'Romance']",68 theaters
+Honeyland,Neon,313812,0,"['Jul 26, 2019']",1 hr 29 min,"['Documentary', 'Drama']",56 theaters
+The Woman Who Loves Giraffes,Zeitgeist Films,18102,0,"['Oct 4, 2019']",2 hr 3 min,['Documentary'],22 theaters
+Honey Boy,Amazon Studios,3010654,0,"['Nov 8, 2019']",1 hr 34 min,['Drama'],460 theaters
+Waves,A24,1343334,0,"['Nov 15, 2019']",2 hr 15 min,"['Drama', 'Romance', 'Sport']",570 theaters
+Varda by Agnès,Janus Films,123902,0,"['Nov 22, 2019']",1 hr 55 min,"['Biography', 'Documentary']",10 theaters
+A Simple Wedding,Blue Fox Entertainment,2179410,0,"['Feb 14, 2020']",1 hr 28 min,"['Comedy', 'Romance']",10 theaters
+Corpus Christi,Film Movement,46321,0,"['Feb 14, 2020']",1 hr 55 min,['Drama'],13 theaters
+The Wonderland,Eleven Arts,13201,0,"['Jan 20, 2020']",1 hr 56 min,"['Adventure', 'Animation', 'Family', 'Fantasy']",143 theaters
+VHYes,Oscilloscope,0,0,"['Jan 17, 2020']",1 hr 12 min,['Comedy'],23 theaters
+Charlie's Angels,Sony Pictures Releasing,83511093452,48000000,"['Nov 15, 2019']",1 hr 58 min,"['Action', 'Adventure', 'Comedy']",3452 theaters
+Enter the Fat Dragon,Well Go USA Entertainment,2219311,0,"['Feb 14, 2020']",1 hr 36 min,"['Action', 'Comedy']",11 theaters
+Doctor Sleep,Warner Bros.,141141243855,0,"['Nov 8, 2019', 'Jan 9, 2020']",2 hr 32 min,"['Drama', 'Fantasy', 'Horror', 'Thriller']",3855 theaters
+The White Sheik,Rialto Pictures,55621,0,"['Dec 25, 2019']",1 hr 26 min,"['Comedy', 'Drama']",3 theaters
+Come and See,Janus Films,160532,0,"['Feb 21, 2020']",2 hr 22 min,"['Drama', 'War']",2 theaters
+Abominable,Universal Pictures,206121004242,75000000,"['Sep 27, 2019', 'Jan 2, 2020']",1 hr 37 min,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",4248 theaters
+Three Christs,IFC Films,0,0,"['Jan 3, 2020']",1 hr 49 min,['Drama'],31 theaters
+Last Christmas,Universal Pictures,114410553448,25000000,"['Nov 8, 2019', 'Jan 2, 2020']",1 hr 43 min,"['Comedy', 'Drama', 'Romance']",3454 theaters
+After Parkland,Kino Lorber,0,0,"['Feb 12, 2020']",1 hr 32 min,['Documentary'],71 theaters
+Play the Flute,Five & Two Pictures,0,0,"['Jan 28, 2019']",1 hr 43 min,['Drama'],11 theaters
+Buffaloed,Magnolia Pictures,137969,0,"['Feb 14, 2020']",1 hr 35 min,"['Comedy', 'Drama']",9 theaters
+Olympic Dreams,IFC Films,92904,0,"['Feb 14, 2020']",1 hr 25 min,"['Comedy', 'Romance', 'Sport']",35 theaters
+Wendy,Fox Searchlight Pictures,262144,0,"['Feb 28, 2020']",1 hr 52 min,"['Drama', 'Fantasy']",4 theaters
+Countdown,STX Entertainment,88650822675,6500000,"['Oct 25, 2019', 'Jan 9, 2020']",1 hr 30 min,"['Horror', 'Thriller']",2675 theaters
+Midnight Family,1091 Media,30301,0,"['Dec 6, 2019']",1 hr 21 min,"['Action', 'Crime', 'Documentary', 'Drama']",13 theaters
+José,Outsider Pictures,111911,0,"['Jan 31, 2020']",1 hr 25 min,['Drama'],2 theaters
+Synonyms,Kino Lorber,178912,0,"['Oct 25, 2019']",2 hr 3 min,"['Comedy', 'Drama']",13 theaters
+Promare,GKIDS,10908554,0,"['Sep 17, 2019']",1 hr 51 min,"['Action', 'Adventure', 'Animation', 'Comedy', 'Drama', 'Family', 'Fantasy', 'Sci-Fi', 'Thriller']",701 theaters
+Burden,101 Studios,201605,0,"['Feb 28, 2020']",1 hr 57 min,['Drama'],5 theaters
+Greed,Sony Pictures Classics,241634,0,"['Feb 28, 2020']",1 hr 44 min,"['Comedy', 'Drama']",4 theaters
+Cane River,Oscilloscope,0,0,"['Feb 7, 2020']",1 hr 44 min,"['Drama', 'Romance']",5 theaters
+Branagh Theatre Live: The Winter's Tale,Trafalgar Releasing,3438092,0,"['Dec 4, 2019']",3 hr,['Drama'],106 theaters
+Tread,Gravitas Ventures,1058513,0,"['Feb 21, 2020']",1 hr 29 min,['Documentary'],25 theaters
+Zombi Child,Film Movement,60513,0,"['Jan 24, 2020']",1 hr 43 min,['Fantasy'],39 theaters
+L'Innocente,Film Movement,71911,0,"['Feb 14, 2020']",2 hr 9 min,"['Drama', 'Romance']",2 theaters
+Les Misérables: The Staged Concert,Trafalgar Releasing,192034392,0,"['Dec 6, 2019']",2 hr 50 min,['Musical'],488 theaters
+The Cordillera of Dreams,Icarus Films,44462,0,"['Feb 12, 2020']",1 hr 24 min,['Documentary'],8 theaters
+The Whistlers,Magnolia Pictures,204583,0,"['Feb 28, 2020']",1 hr 37 min,"['Comedy', 'Crime']",3 theaters
+Premature,IFC Films,99094,0,"['Feb 21, 2020']",1 hr 30 min,"['Drama', 'Music', 'Romance']",29 theaters
+Lore,Indican Pictures,70847,0,"['Jan 17, 2020', 'Feb 13, 2020']",1 hr 49 min,['Thriller'],7 theaters
+Recorder: The Marion Stokes Project,Zeitgeist Films,82161,0,"['Nov 15, 2019']",1 hr 27 min,['Documentary'],5 theaters
+Pandora and the Flying Dutchman,Cohen Media Group,54661,0,"['Feb 7, 2020']",2 hr 2 min,"['Drama', 'Fantasy', 'Mystery', 'Romance']",2 theaters
+Born to Be Wild,Warner Bros.,871478206,0,"['Apr 8, 2011']",40 min,"['Adventure', 'Documentary', 'Short']",208 theaters
+Advocate,Film Movement,81862,0,"['Jan 3, 2020']",1 hr 54 min,['Documentary'],2 theaters
+Downtown 81,Metrograph Pictures,252081,0,"['Oct 25, 2019']",1 hr 12 min,"['Comedy', 'Drama', 'Musical']",8 theaters
+Saint Frances,Oscilloscope,142981,0,"['Feb 28, 2020']",1 hr 46 min,"['Comedy', 'Drama']",1 theater
+The Cave,National Geographic Entertainment,211852,0,"['Oct 18, 2019']",1 hr 47 min,"['Documentary', 'War']",10 theaters
+The Kingmaker,Greenwich Entertainment,195232,0,"['Nov 8, 2019']",1 hr 41 min,['Documentary'],18 theaters
+Linda Ronstadt: The Sound of My Voice,Greenwich Entertainment,1132357,0,"['Sep 6, 2019']",1 hr 35 min,"['Biography', 'Documentary', 'Music']",247 theaters
+Redoubt,Grasshopper Film,52531,0,"['Nov 1, 2019']",2 hr 14 min,['Drama'],3 theaters
+"I Was at Home, But",The Cinema Guild,61151,0,"['Feb 14, 2020']",1 hr 45 min,['Drama'],1 theater
+You Go to My Head,First Run,58641,0,"['Feb 14, 2020']",1 hr 56 min,"['Drama', 'Fantasy', 'Mystery', 'Romance', 'Thriller']",2 theaters
+Playmobil: The Movie,STX Entertainment,6565302337,0,"['Dec 6, 2019', 'Jan 9, 2020']",1 hr 39 min,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Musical']",2337 theaters
+A Beautiful Planet,IMAX,223983137,0,"['Apr 29, 2016']",46 min,['Documentary'],155 theaters
+Foosballers,Kicking + Screening Media Group,0,0,"['Feb 11, 2020']",1 hr 36 min,"['Comedy', 'Documentary', 'Sport', 'Western']",9 theaters
+The Perfect Race,Five & Two Pictures,34001,0,"['Oct 14, 2019']",No running time,['Drama'],2 theaters
+The Wave,Epic Pictures,0,0,"['Jan 17, 2020']",1 hr 30 min,"['Sci-Fi', 'Thriller']",13 theaters
+Black and Blue,Screen Gems,83768462062,12000000,"['Oct 25, 2019', 'Jan 2, 2020']",1 hr 48 min,"['Action', 'Crime', 'Drama', 'Thriller']",2062 theaters
+Young Ahmed,Kino Lorber,42162,0,"['Feb 21, 2020']",1 hr 30 min,['Drama'],2 theaters
+American Dharma,Utopia,72871,0,"['Nov 1, 2019']",1 hr 35 min,"['Biography', 'Documentary']",11 theaters
+Under the Sea 3D,Warner Bros.,66118549,0,"['Feb 13, 2009']",45 min,"['Documentary', 'Short']",108 theaters
+Lost in America,Indican Pictures,67982,0,"['Feb 28, 2020']",1 hr 45 min,['Documentary'],2 theaters
+Afterward,Abramorama,64771,0,"['Jan 10, 2020']",1 hr 35 min,['Documentary'],1 theater
+Kind Hearts and Coronets,Rialto Pictures,80041,0,"['Nov 27, 2019']",1 hr 46 min,"['Comedy', 'Crime']",3 theaters
+Hubble 3D,Warner Bros.,41347739,0,"['Mar 19, 2010']",45 min,['Documentary'],151 theaters
+By the Grace of God,Music Box Films,77652,0,"['Oct 18, 2019']",2 hr 17 min,"['Crime', 'Drama']",11 theaters
+Matthias & Maxime,Entertainment One,6498850,0,"['Oct 9, 2019']",1 hr 59 min,['Drama'],53 theaters
+Que Leones,Spanglish Movies,0,0,"['Dec 5, 2019']",1 hr 36 min,"['Comedy', 'Romance']",3 theaters
+The Disappearance of My Mother,Kino Lorber,0,0,"['Dec 6, 2019']",1 hr 34 min,['Documentary'],3 theaters
+Tremors,Film Movement,33404,0,"['Nov 29, 2019']",1 hr 47 min,['Drama'],6 theaters
+Blood Widow,Indican Pictures,0,0,"['Aug 4, 2019', 'Jan 30, 2020']",1 hr 34 min,"['Horror', 'Mystery', 'Thriller']",2 theaters
+Just One More Kiss,Indican Pictures,24202,0,"['Feb 21, 2020']",1 hr 40 min,"['Drama', 'Romance']",2 theaters
+Give Me Liberty,Music Box Films,332613,0,"['Aug 23, 2019']",1 hr 50 min,['Comedy'],18 theaters
+Sympathy for the Devil,eOne Entertainment,121446,0,"['Nov 29, 2019']",1 hr 40 min,['War'],8 theaters
+Straight Up,Strand Releasing,40751,0,"['Feb 28, 2020']",1 hr 35 min,"['Comedy', 'Romance']",1 theater
+Stuffed,Music Box Films,16021,0,"['Oct 16, 2019']",1 hr 24 min,['Documentary'],3 theaters
+Vitalina Varela,Grasshopper Film,46121,0,"['Feb 21, 2020']",2 hr 4 min,['Drama'],3 theaters
+Maiden,Sony Pictures Classics,469316,0,"['Jun 28, 2019']",1 hr 37 min,"['Documentary', 'Sport']",180 theaters
+Aquarela,Sony Pictures Classics,247535,0,"['Aug 16, 2019']",1 hr 30 min,['Documentary'],69 theaters
+A Bigger Splash,Metrograph Pictures,180001,0,"['Jun 21, 2019']",1 hr 46 min,"['Biography', 'Documentary', 'Drama']",11 theaters
+Ballon,Distrib Films,0,0,"['Sep 6, 2019']",2 hr 5 min,"['Drama', 'History', 'Thriller']",5 theaters
+Ága,Big World Pictures,25531,0,"['Sep 4, 2019']",1 hr 36 min,['Drama'],3 theaters
+The Hottest August,Grasshopper Film,38832,0,"['Nov 15, 2019']",1 hr 34 min,['Documentary'],2 theaters
+Killing Sarai,Pantelion Films,226670160,0,"['Dec 6, 2019', 'Jan 3, 2020']",1 hr 46 min,"['Romance', 'Thriller']",160 theaters
+Chinese Portrait,The Cinema Guild,5461,0,"['Dec 13, 2019']",1 hr 19 min,['Documentary'],2 theaters
+Hustlers,STX Entertainment,331813613250,20000000,"['Sep 13, 2019', 'Jan 9, 2020']",1 hr 50 min,"['Comedy', 'Crime', 'Drama', 'Thriller']",3525 theaters
+Deep Sea,Warner Bros.,70021343,0,"['Mar 3, 2006']",41 min,"['Documentary', 'Short']",47 theaters
+Goldie,Film Movement,120010,0,"['Feb 21, 2020']",1 hr 28 min,['Drama'],10 theaters
+Mr. Klein,Rialto Pictures,159151,0,"['Sep 6, 2019']",2 hr 3 min,"['Crime', 'Drama', 'Mystery', 'Thriller', 'War']",6 theaters
+Little Joe,Magnolia Pictures,1062612,0,"['Dec 6, 2019']",1 hr 45 min,"['Drama', 'Horror', 'Mystery', 'Sci-Fi']",12 theaters
+Frankie,Sony Pictures Classics,194354,0,"['Oct 25, 2019']",1 hr 40 min,['Drama'],117 theaters
+Christ Stopped at Eboli,Rialto Pictures,90061,0,"['Apr 3, 2019']",2 hr 30 min,['Drama'],3 theaters
+To the Arctic 3D,Warner Bros.,27022850,0,"['Apr 20, 2012']",40 min,['Documentary'],52 theaters
+End of the Century,The Cinema Guild,100631,0,"['Aug 16, 2019']",1 hr 24 min,['Drama'],6 theaters
+Duet for Cannibals,Metrograph Pictures,0,0,"['Nov 22, 2019']",1 hr 45 min,['Drama'],4 theaters
+Space Station 3D,IMAX,48948824,0,"['Apr 19, 2002']",47 min,['Documentary'],64 theaters
+Be Natural: The Untold Story of Alice Guy-Blaché,Zeitgeist Films,32371,0,"['Apr 19, 2019']",1 hr 43 min,['Documentary'],14 theaters
+Light from Light,Grasshopper Film,47192,0,"['Nov 1, 2019']",1 hr 22 min,['Drama'],5 theaters
+Edie,Music Box Films,88017,0,"['Sep 6, 2019', 'Dec 26, 2019']",1 hr 42 min,['Drama'],11 theaters
+The Gliksmans,Indican Pictures,29223,0,"['Sep 27, 2019', 'Jan 23, 2020']",1 hr 12 min,['Comedy'],3 theaters
+Hai Tang Hong,M Star International,31030,0,"['Feb 21, 2020']",1 hr 30 min,No genres,30 theaters
+Millennium Actress,Fathom Events,0,0,"['Aug 13, 2019', 'Jan 23, 2020']",1 hr 27 min,"['Animation', 'Drama', 'Fantasy', 'Romance']",512 theaters
+Spiral Farm,Indican Pictures,54753,0,"['Dec 13, 2019', 'Jan 23, 2020']",1 hr 25 min,['Drama'],3 theaters
+A German Youth,Big World Pictures,4161,0,"['Oct 11, 2019']",1 hr 33 min,['Documentary'],1 theater
+Hyènes,Metrograph Pictures,0,0,"['Apr 19, 2019']",1 hr 50 min,"['Comedy', 'Drama']",4 theaters
+Island of Lemurs: Madagascar,Warner Bros.,18830737,0,"['Apr 4, 2014']",39 min,"['Adventure', 'Biography', 'Documentary', 'Family', 'Short']",302 theaters
+I Do Not Care If We Go Down in History as Barbarians,Big World Pictures,20831,0,"['Jul 19, 2019']",2 hr 20 min,"['Comedy', 'Drama']",2 theaters
+The Load,Grasshopper Film,40941,0,"['Aug 30, 2019']",1 hr 38 min,['Drama'],2 theaters
+Asako I & II,Grasshopper Film,56902,0,"['May 17, 2019']",1 hr 59 min,"['Drama', 'Romance']",3 theaters
+Chained for Life,Kino International,74152,0,"['Sep 13, 2019', 'Jan 9, 2020']",1 hr 31 min,['Drama'],3 theaters
+Shooting the Mafia,Cohen Media Group,32512,0,"['Nov 22, 2019']",1 hr 34 min,"['Biography', 'Documentary']",3 theaters
