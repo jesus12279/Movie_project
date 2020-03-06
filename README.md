@@ -7,4 +7,4 @@
 <p>After, we Web Scraped Box Office Mojo creating an awsome way of making web scrapping easier for later use.
 Everything under Jesus branch is all the inforamtion gathered and created using the web scrapper and it is documented with docstring for each function and contains comments for each part.<p>
 
-<img src="https://giphy.com/embed/lq3Vst19s5N8rptLQI" width="480" height="324" frameBorder="0" class="giphy-embed"><p><a href="https://giphy.com/stickers/harrypotter-lq3Vst19s5N8rptLQI">via GIPHY</a></p>
+<img src="https://giphy.com/gifs/lq3Vst19s5N8rptLQI/html5" width="480" height="324" frameBorder="0" class="giphy-embed"><p><a href="https://giphy.com/stickers/harrypotter-lq3Vst19s5N8rptLQI">via GIPHY</a></p>
