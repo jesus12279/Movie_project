@@ -41,7 +41,6 @@ https://docs.google.com/presentation/d/1cRKLKD7L5XTFZDZAPIwi4YpquBkKC4SM8fcJZS8V
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
 2. Raw Data is being kept Movie_project within this repo.
-
 3. Data processing/transformation scripts are being kept movie_dojo.ipynb
 
 *If your project is well underway and setup is fairly complicated (ie. requires installation of many packages) create another "setup.md" file and link to it here*  
